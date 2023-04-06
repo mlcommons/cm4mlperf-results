@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--all--datacenter--closed-power--object-detection--server",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "all",
+    "datacenter",
+    "closed-power",
+    "object-detection",
+    "server"
+  ],
+  "uid": "1c1257d2451b40c7"
+}

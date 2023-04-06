@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--v3.0--edge--open-power--object-detection--offline",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "v3.0",
+    "edge",
+    "open-power",
+    "object-detection",
+    "offline"
+  ],
+  "uid": "2d2528ba0fb24735"
+}

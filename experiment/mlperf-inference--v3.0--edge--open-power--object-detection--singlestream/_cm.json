@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--v3.0--edge--open-power--object-detection--singlestream",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "v3.0",
+    "edge",
+    "open-power",
+    "object-detection",
+    "singlestream"
+  ],
+  "uid": "fc1cfa473e244d3b"
+}

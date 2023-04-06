@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--all--edge--open-power--image-classification--offline",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "all",
+    "edge",
+    "open-power",
+    "image-classification",
+    "offline"
+  ],
+  "uid": "44ee11a09b444cb4"
+}

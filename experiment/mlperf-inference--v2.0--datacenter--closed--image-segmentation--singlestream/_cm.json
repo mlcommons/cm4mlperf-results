@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--v2.0--datacenter--closed--image-segmentation--singlestream",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "v2.0",
+    "datacenter",
+    "closed",
+    "image-segmentation",
+    "singlestream"
+  ],
+  "uid": "f52a6c8f28a843c1"
+}

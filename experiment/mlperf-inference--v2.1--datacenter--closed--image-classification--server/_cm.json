@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--v2.1--datacenter--closed--image-classification--server",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "v2.1",
+    "datacenter",
+    "closed",
+    "image-classification",
+    "server"
+  ],
+  "uid": "04d7e2ea9d2a4a5d"
+}

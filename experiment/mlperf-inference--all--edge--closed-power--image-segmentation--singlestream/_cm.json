@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--all--edge--closed-power--image-segmentation--singlestream",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "all",
+    "edge",
+    "closed-power",
+    "image-segmentation",
+    "singlestream"
+  ],
+  "uid": "a0fcf8db66134e93"
+}

@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--all--datacenter--closed-power--image-classification--multistream",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "all",
+    "datacenter",
+    "closed-power",
+    "image-classification",
+    "multistream"
+  ],
+  "uid": "f4d576dfa34c4986"
+}

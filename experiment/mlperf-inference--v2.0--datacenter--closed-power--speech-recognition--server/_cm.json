@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--v2.0--datacenter--closed-power--speech-recognition--server",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "v2.0",
+    "datacenter",
+    "closed-power",
+    "speech-recognition",
+    "server"
+  ],
+  "uid": "42940332b71e401a"
+}

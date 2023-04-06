@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--v3.0--edge--open-power--language-processing--singlestream",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "v3.0",
+    "edge",
+    "open-power",
+    "language-processing",
+    "singlestream"
+  ],
+  "uid": "25a9cb09f2464f37"
+}

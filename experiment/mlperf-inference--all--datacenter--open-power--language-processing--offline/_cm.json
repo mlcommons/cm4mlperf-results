@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--all--datacenter--open-power--language-processing--offline",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "all",
+    "datacenter",
+    "open-power",
+    "language-processing",
+    "offline"
+  ],
+  "uid": "90b0ed79cecb4800"
+}

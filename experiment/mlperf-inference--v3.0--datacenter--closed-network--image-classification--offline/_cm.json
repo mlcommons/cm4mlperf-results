@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--v3.0--datacenter--closed-network--image-classification--offline",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "v3.0",
+    "datacenter",
+    "closed-network",
+    "image-classification",
+    "offline"
+  ],
+  "uid": "118a94192ffd40c3"
+}

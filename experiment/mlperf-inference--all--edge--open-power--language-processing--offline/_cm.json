@@ -1,0 +1,14 @@
+{
+  "alias": "mlperf-inference--all--edge--open-power--language-processing--offline",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-inference",
+    "all",
+    "edge",
+    "open-power",
+    "language-processing",
+    "offline"
+  ],
+  "uid": "8d287b8f0ff643f6"
+}
