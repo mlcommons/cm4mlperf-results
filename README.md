@@ -1,7 +1,8 @@
-#  MLPerf™ Inference Results in the MLCommons CK format
+#  MLPerf™ Inference Results in the MLCommons CM format
 
 This is the repository containing results of the MLPerf™ Inference benchmark 
-in the [MLCommons CK Platform format](https://github.com/mlcommons/ck/tree/master/platform).
+in the [MLCommons CM format](https://github.com/mlcommons/ck)
+for the [Collective Knowledge Playground](https://github.com/mlcommons/ck/tree/master/platform)
 
 For benchmark code and rules please see the [GitHub repository](https://github.com/mlcommons/inference).
 
