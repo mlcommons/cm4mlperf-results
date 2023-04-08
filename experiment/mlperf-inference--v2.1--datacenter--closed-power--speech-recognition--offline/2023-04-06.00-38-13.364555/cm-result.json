@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "ba81c192c93c40ec",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 2025.305223880595,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.5545108119687,
@@ -43,13 +45,12 @@
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "A100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2025.305223880595,
-    "Result_Units": "Watts",
+    "Result": 78749.6,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte G482-Z54 (8x A100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "ac025d10a6484d35",
+    "uid": "ba81c192c93c40ec",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 2025.305223880595,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.5545108119687,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "023cfe49f32e40fb",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/DGX-A100_A100-SXM-80GBx8_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 3041.0859778597796,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.5545108119687,
@@ -112,13 +117,12 @@
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "DGX-A100_A100-SXM-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3041.0859778597796,
-    "Result_Units": "Watts",
+    "Result": 84507.8,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA DGX A100 (8x A100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "4d593c5d487b44b1",
+    "uid": "023cfe49f32e40fb",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/DGX-A100_A100-SXM-80GBx8_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 3041.0859778597796,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.54549144287357,
@@ -169,7 +175,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "4196f01f0fe640e9",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 292.901843317972,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.54549144287357,
@@ -181,13 +189,12 @@
     "Model": "rnnt",
     "Organization": "Dell",
     "Platform": "XR12_A2x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 292.901843317972,
-    "Result_Units": "Watts",
+    "Result": 1166.32,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge XR12 (1x A2, MaxQ, TensorRT)",
     "SystemType": "datacenter,edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "98f6cf17181e49c5",
+    "uid": "4196f01f0fe640e9",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 292.901843317972,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.5545108119687,
@@ -238,7 +247,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "eefd73ffc4854d00",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XE8545_A100_SXM_80GBx4_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 1600.3240394088682,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.5545108119687,
@@ -250,13 +261,12 @@
     "Model": "rnnt",
     "Organization": "Dell",
     "Platform": "XE8545_A100_SXM_80GBx4_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 1600.3240394088682,
-    "Result_Units": "Watts",
+    "Result": 45521.6,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge XE8545 (4x A100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A100-SXM-80GB CTS",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -271,9 +281,11 @@
     "notes": "NVIDIA A100-SXM-80GB (TDP: 500W)",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "5126d4c5fb0c4624",
+    "uid": "eefd73ffc4854d00",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XE8545_A100_SXM_80GBx4_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 1600.3240394088682,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.5545108119687,
@@ -307,7 +319,9 @@
     "operating_system": "Ubuntu 20.04.2",
     "uid": "78d4e393a5b84352",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/H3C/results/A30x3_R4900G5_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 926.519158878505,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.5545108119687,
@@ -319,13 +333,12 @@
     "Model": "rnnt",
     "Organization": "H3C",
     "Platform": "A30x3_R4900G5_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 926.519158878505,
-    "Result_Units": "Watts",
+    "Result": 20767.2,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "H3C UniServer R4900 G5(3x A30, TensorRT, MaxQ)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A30",
     "accelerators_per_node": 3,
     "compliance": 1,
@@ -340,8 +353,10 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.2",
-    "uid": "3f0a01d9e7bc43b8",
+    "uid": "78d4e393a5b84352",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/H3C/results/A30x3_R4900G5_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 926.519158878505,
+    "Result_Power_Units": "Watts"
   }
 ]

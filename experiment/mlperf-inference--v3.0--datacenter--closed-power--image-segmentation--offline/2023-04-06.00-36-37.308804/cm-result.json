@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "396eb6bd80ab46f4",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/3d-unet-99.9/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1779.1650844730493,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 0.86246,
@@ -43,13 +45,12 @@
     "Model": "3d-unet-99.9",
     "Organization": "NVIDIA",
     "Platform": "A100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 1779.1650844730493,
-    "Result_Units": "Watts",
+    "Result": 19.7795,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte G482-Z54 (8x A100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "be6e190b01904d6a",
+    "uid": "396eb6bd80ab46f4",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/3d-unet-99.9/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1779.1650844730493,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 0.86246,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "d3bb2825d5ce42c2",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/3d-unet-99/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1779.1650844730493,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 0.86246,
@@ -112,13 +117,12 @@
     "Model": "3d-unet-99",
     "Organization": "NVIDIA",
     "Platform": "A100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 1779.1650844730493,
-    "Result_Units": "Watts",
+    "Result": 19.7795,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte G482-Z54 (8x A100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "4a153de2d75e4bee",
+    "uid": "d3bb2825d5ce42c2",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/3d-unet-99/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1779.1650844730493,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 0.86245,
@@ -169,7 +175,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "e67fd5459b11408b",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/3d-unet-99.9/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2115.167175572518,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 0.86245,
@@ -181,13 +189,12 @@
     "Model": "3d-unet-99.9",
     "Organization": "NVIDIA",
     "Platform": "H100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2115.167175572518,
-    "Result_Units": "Watts",
+    "Result": 26.8151,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte G482-Z54 (8x H100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA H100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "5607c91c7ee248ac",
+    "uid": "e67fd5459b11408b",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/3d-unet-99.9/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2115.167175572518,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 0.86245,
@@ -238,7 +247,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "26b1f8d9b6e54bbf",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/3d-unet-99/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2115.167175572518,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 0.86245,
@@ -250,13 +261,12 @@
     "Model": "3d-unet-99",
     "Organization": "NVIDIA",
     "Platform": "H100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2115.167175572518,
-    "Result_Units": "Watts",
+    "Result": 26.8151,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte G482-Z54 (8x H100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA H100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -271,8 +281,10 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "4f27382b06fd4873",
+    "uid": "26b1f8d9b6e54bbf",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/3d-unet-99/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2115.167175572518,
+    "Result_Power_Units": "Watts"
   }
 ]

@@ -31,7 +31,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "be40d248086248d4",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/bert-99/SingleStream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 1734.8106839269851,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.0817167583319,
@@ -43,13 +45,12 @@
     "Model": "bert-99",
     "Organization": "Dell",
     "Platform": "XR12_A2x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 1734.8106839269851,
-    "Result_Units": "millijoules",
+    "Result": 8.61852,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Dell PowerEdge XR12 (1x A2, MaxQ, TensorRT)",
     "SystemType": "datacenter,edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA A2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,8 +65,10 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "4d1598845b064d4e",
+    "uid": "be40d248086248d4",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/bert-99/SingleStream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 1734.8106839269851,
+    "Result_Power_Units": "millijoules"
   }
 ]

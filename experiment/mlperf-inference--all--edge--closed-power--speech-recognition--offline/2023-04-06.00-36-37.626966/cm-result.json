@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 18.04",
     "uid": "3c3212a448eb40b0",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/Xavier_NX_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 16.37933018867925,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.55225596969493,
@@ -43,13 +45,12 @@
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "Xavier_NX_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 16.37933018867925,
-    "Result_Units": "Watts",
+    "Result": 195.611,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Auvidea JNX30 Xavier NX (MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA Xavier NX",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "GPU and both DLAs are used in resnet50, ssd-mobilenet, and ssd-resnet34, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 18.04",
-    "uid": "3d68041276f84a18",
+    "uid": "3c3212a448eb40b0",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/Xavier_NX_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 16.37933018867925,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.56578502333763,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "ff9c7baadb864d9b",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 42.07170506912442,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.56578502333763,
@@ -112,13 +117,12 @@
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 42.07170506912442,
-    "Result_Units": "Watts",
+    "Result": 791.251,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Orin (MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "GPU and both DLAs are used in resnet50, ssd-mobilenet, and ssd-resnet34, in Offline scenario. DLA loadable for resnet50 in offline scenario generated using preview compiler. Private harness code to run loadables. git hash: f23b7273986f02d3136673e5d18558c9a9d63799",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04",
-    "uid": "ac0b61e1f92845d4",
+    "uid": "ff9c7baadb864d9b",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 42.07170506912442,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.54774628514735,
@@ -169,7 +175,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "66fa4493f09a42ac",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Dell/results/XE2420_A30x1_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 291.79041514041495,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.54774628514735,
@@ -181,13 +189,12 @@
     "Model": "rnnt",
     "Organization": "Dell",
     "Platform": "XE2420_A30x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 291.79041514041495,
-    "Result_Units": "Watts",
+    "Result": 5612.13,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge XE2420 (1x A30, MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A30",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "ae0706cf270f46f5",
+    "uid": "66fa4493f09a42ac",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Dell/results/XE2420_A30x1_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 291.79041514041495,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.5545108119687,
@@ -238,7 +247,9 @@
     "operating_system": "Ubuntu 20.04.2",
     "uid": "16832248696e493d",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Inspur/results/NE5260M5_A100-PCIe-80GBx2_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 830.4948965517241,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.5545108119687,
@@ -250,13 +261,12 @@
     "Model": "rnnt",
     "Organization": "Inspur",
     "Platform": "NE5260M5_A100-PCIe-80GBx2_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 830.4948965517241,
-    "Result_Units": "Watts",
+    "Result": 24566.2,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NE5260M5 (2x A100-PCIe-80GB, TensorRT, MaxQ)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A100-PCIe-80GB",
     "accelerators_per_node": 2,
     "compliance": 1,
@@ -271,9 +281,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.2",
-    "uid": "355b34e547554867",
+    "uid": "16832248696e493d",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Inspur/results/NE5260M5_A100-PCIe-80GBx2_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 830.4948965517241,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.56578502333763,
@@ -307,7 +319,9 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "daa68132e5b94ec5",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 25.63559722222222,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.56578502333763,
@@ -319,13 +333,12 @@
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 25.63559722222222,
-    "Result_Units": "Watts",
+    "Result": 716.007,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Orin (MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -340,9 +353,11 @@
     "notes": "GPU and both DLAs are used in resnet50, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04",
-    "uid": "2484b9cf77494b0d",
+    "uid": "daa68132e5b94ec5",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 25.63559722222222,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.56578502333763,
@@ -376,7 +391,9 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "6e2b20932b2c4802",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 24.22208277703603,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.56578502333763,
@@ -388,13 +405,12 @@
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 24.22208277703603,
-    "Result_Units": "Watts",
+    "Result": 688.09,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Orin (MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA Jetson AGX Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -409,9 +425,11 @@
     "notes": "GPU and both DLAs are used in resnet50 and Retinanet, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04",
-    "uid": "a3c8f57a98054b00",
+    "uid": "6e2b20932b2c4802",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 24.22208277703603,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.54774628514735,
@@ -445,7 +463,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "89071b1df815447f",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR5610_L4x1_TRT_MaxQ/rnnt/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 645.6733383915025,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.54774628514735,
@@ -457,13 +477,12 @@
     "Model": "rnnt",
     "Organization": "Dell",
     "Platform": "XR5610_L4x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 645.6733383915025,
-    "Result_Units": "Watts",
+    "Result": 3902.39,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge XR5610 (1x L4, MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA L4",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -478,9 +497,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "92735f3bb5ba43cf",
+    "uid": "89071b1df815447f",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR5610_L4x1_TRT_MaxQ/rnnt/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 645.6733383915025,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.53647207377844,
@@ -514,7 +535,9 @@
     "operating_system": "Ubuntu 22.04",
     "uid": "f2902445c8f3426c",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR4520c_MaxQ_A2x1_TRT_MaxQ/rnnt/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 186.66621023513162,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.53647207377844,
@@ -526,13 +549,12 @@
     "Model": "rnnt",
     "Organization": "Dell",
     "Platform": "XR4520c_MaxQ_A2x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 186.66621023513162,
-    "Result_Units": "Watts",
+    "Result": 1050.09,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge XR4520c (1x A2, MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -547,9 +569,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04",
-    "uid": "93604db789ce4ecf",
+    "uid": "f2902445c8f3426c",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR4520c_MaxQ_A2x1_TRT_MaxQ/rnnt/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 186.66621023513162,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.55225596969493,
@@ -583,7 +607,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "8ac45cba4c6547ee",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/rnnt/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 599.4694214876035,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.55225596969493,
@@ -595,13 +621,12 @@
     "Model": "rnnt",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 599.4694214876035,
-    "Result_Units": "Watts",
+    "Result": 15281.4,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA GeForce RTX 4090 (Ada Lovelace)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -616,8 +641,10 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "0230c7ee19794242",
+    "uid": "8ac45cba4c6547ee",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/rnnt/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 599.4694214876035,
+    "Result_Power_Units": "Watts"
   }
 ]

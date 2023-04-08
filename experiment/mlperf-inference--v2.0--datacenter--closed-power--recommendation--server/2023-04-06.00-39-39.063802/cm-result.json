@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "bf92552e7efe4156",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 2090.1838333333317,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -43,13 +45,12 @@
     "Model": "dlrm-99",
     "Organization": "NVIDIA",
     "Platform": "A100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2090.1838333333317,
-    "Result_Units": "Watts",
+    "Result": 750272,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G482-Z54 (8x A100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "276e5c7f57d34e05",
+    "uid": "bf92552e7efe4156",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 2090.1838333333317,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "473321a935624ecf",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 2090.1838333333317,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -112,13 +117,12 @@
     "Model": "dlrm-99.9",
     "Organization": "NVIDIA",
     "Platform": "A100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2090.1838333333317,
-    "Result_Units": "Watts",
+    "Result": 750272,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G482-Z54 (8x A100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "3b0086aa47f748c2",
+    "uid": "473321a935624ecf",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 2090.1838333333317,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -169,7 +175,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "09c1382881ce4984",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/DGX-Station-A100_A100-SXM-80GBx4_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 1340.0611666666653,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -181,13 +189,12 @@
     "Model": "dlrm-99",
     "Organization": "NVIDIA",
     "Platform": "DGX-Station-A100_A100-SXM-80GBx4_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 1340.0611666666653,
-    "Result_Units": "Watts",
+    "Result": 870363,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX Station A100 (4x A100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-SXM-80GB",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "8bba7f6d68024aad",
+    "uid": "09c1382881ce4984",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/DGX-Station-A100_A100-SXM-80GBx4_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 1340.0611666666653,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -238,7 +247,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "1c724fb75c4940b8",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/DGX-Station-A100_A100-SXM-80GBx4_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 1340.0611666666653,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -250,13 +261,12 @@
     "Model": "dlrm-99.9",
     "Organization": "NVIDIA",
     "Platform": "DGX-Station-A100_A100-SXM-80GBx4_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 1340.0611666666653,
-    "Result_Units": "Watts",
+    "Result": 870363,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX Station A100 (4x A100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-SXM-80GB",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -271,9 +281,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "9427c2f8d2ad492f",
+    "uid": "1c724fb75c4940b8",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/DGX-Station-A100_A100-SXM-80GBx4_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 1340.0611666666653,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -307,7 +319,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "e4a4aa48cb064e09",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/DGX-A100_A100-SXM-80GBx8_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 3372.277703826955,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -319,13 +333,12 @@
     "Model": "dlrm-99",
     "Organization": "NVIDIA",
     "Platform": "DGX-A100_A100-SXM-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3372.277703826955,
-    "Result_Units": "Watts",
+    "Result": 2001990,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX A100 (8x A100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -340,9 +353,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "cf624ba96b814056",
+    "uid": "e4a4aa48cb064e09",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/DGX-A100_A100-SXM-80GBx8_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 3372.277703826955,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -376,7 +391,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "87ff8db6f4c4447a",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/DGX-A100_A100-SXM-80GBx8_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 3372.277703826955,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -388,13 +405,12 @@
     "Model": "dlrm-99.9",
     "Organization": "NVIDIA",
     "Platform": "DGX-A100_A100-SXM-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3372.277703826955,
-    "Result_Units": "Watts",
+    "Result": 2001990,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX A100 (8x A100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -409,9 +425,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "3fa32ef6b2e643af",
+    "uid": "87ff8db6f4c4447a",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/DGX-A100_A100-SXM-80GBx8_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 3372.277703826955,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -445,7 +463,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "2f5cec3a1277499c",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-SXM-80GB_aarch64x8_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 2813.6291666666675,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -457,13 +477,12 @@
     "Model": "dlrm-99",
     "Organization": "NVIDIA",
     "Platform": "A100-SXM-80GB_aarch64x8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2813.6291666666675,
-    "Result_Units": "Watts",
+    "Result": 1831680,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G492-PD0 (8x A100-SXM-80GB_aarch64, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -478,9 +497,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "910e598ffe294d0f",
+    "uid": "2f5cec3a1277499c",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-SXM-80GB_aarch64x8_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 2813.6291666666675,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -514,7 +535,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "e4305db8cd1c4337",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-SXM-80GB_aarch64x8_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 2813.6291666666675,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -526,13 +549,12 @@
     "Model": "dlrm-99.9",
     "Organization": "NVIDIA",
     "Platform": "A100-SXM-80GB_aarch64x8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2813.6291666666675,
-    "Result_Units": "Watts",
+    "Result": 1831680,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G492-PD0 (8x A100-SXM-80GB_aarch64, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -547,9 +569,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "872ca617dfa548b6",
+    "uid": "e4305db8cd1c4337",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-SXM-80GB_aarch64x8_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 2813.6291666666675,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -583,7 +607,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "4ae5ae7adb864ae3",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GB_aarch64x4_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 1222.9248333333337,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -595,13 +621,12 @@
     "Model": "dlrm-99",
     "Organization": "NVIDIA",
     "Platform": "A100-PCIe-80GB_aarch64x4_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 1222.9248333333337,
-    "Result_Units": "Watts",
+    "Result": 500121,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G242-P31 (4x A100-PCIe-80GB_aarch64, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-PCIe-80GB",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -616,9 +641,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "9750049883d944e7",
+    "uid": "4ae5ae7adb864ae3",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GB_aarch64x4_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 1222.9248333333337,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -652,7 +679,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "2aace5dab8a94e5c",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GB_aarch64x4_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 1222.9248333333337,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -664,13 +693,12 @@
     "Model": "dlrm-99.9",
     "Organization": "NVIDIA",
     "Platform": "A100-PCIe-80GB_aarch64x4_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 1222.9248333333337,
-    "Result_Units": "Watts",
+    "Result": 500121,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G242-P31 (4x A100-PCIe-80GB_aarch64, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-PCIe-80GB",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -685,9 +713,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "23043e3842e34c75",
+    "uid": "2aace5dab8a94e5c",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GB_aarch64x4_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 1222.9248333333337,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -721,7 +751,9 @@
     "operating_system": "Ubuntu 20.04.3",
     "uid": "f80807ca9cc44d13",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Fujitsu/results/GX2570M6_A100-SXM4-40GBx8_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 3067.569833333336,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -733,13 +765,12 @@
     "Model": "dlrm-99",
     "Organization": "Fujitsu",
     "Platform": "GX2570M6_A100-SXM4-40GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3067.569833333336,
-    "Result_Units": "Watts",
+    "Result": 1400980,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "PRIMERGY GX2570M6 (8x A100-SXM-40GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-SXM4-40GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -754,9 +785,11 @@
     "notes": "Maximum GPU power is limitted to 275W with nvidia-smi command",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "48e71d31f1c34c05",
+    "uid": "f80807ca9cc44d13",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Fujitsu/results/GX2570M6_A100-SXM4-40GBx8_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 3067.569833333336,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -790,7 +823,9 @@
     "operating_system": "Ubuntu 20.04.3",
     "uid": "2554e10c07c949d4",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Fujitsu/results/GX2570M6_A100-SXM4-40GBx8_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 3067.569833333336,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -802,13 +837,12 @@
     "Model": "dlrm-99.9",
     "Organization": "Fujitsu",
     "Platform": "GX2570M6_A100-SXM4-40GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3067.569833333336,
-    "Result_Units": "Watts",
+    "Result": 1400980,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "PRIMERGY GX2570M6 (8x A100-SXM-40GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-SXM4-40GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -823,9 +857,11 @@
     "notes": "Maximum GPU power is limitted to 275W with nvidia-smi command",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "027787d4484c4a51",
+    "uid": "2554e10c07c949d4",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Fujitsu/results/GX2570M6_A100-SXM4-40GBx8_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 3067.569833333336,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -859,7 +895,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "9bf80a3ab417464a",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 219.90218333333337,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -871,13 +909,12 @@
     "Model": "dlrm-99",
     "Organization": "Dell",
     "Platform": "XR12_A2x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 219.90218333333337,
-    "Result_Units": "Watts",
+    "Result": 11989.8,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Dell PowerEdge XR12 (1x A2, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -892,9 +929,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "0da134813fe34d8b",
+    "uid": "9bf80a3ab417464a",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 219.90218333333337,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -928,7 +967,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "120727179bfc4342",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 219.90218333333337,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -940,13 +981,12 @@
     "Model": "dlrm-99.9",
     "Organization": "Dell",
     "Platform": "XR12_A2x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 219.90218333333337,
-    "Result_Units": "Watts",
+    "Result": 11989.8,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Dell PowerEdge XR12 (1x A2, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -961,8 +1001,10 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "3c9d2d44cac64cdb",
+    "uid": "120727179bfc4342",
     "url": "https://github.com/mlcommons/inference_results_v2.0/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.0"
+    "version": "v2.0",
+    "Result_Power": 219.90218333333337,
+    "Result_Power_Units": "Watts"
   }
 ]

@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "bcecf88455dd499c",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/bert-99/SingleStream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 224.556903011061,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.172,
@@ -43,13 +45,12 @@
     "Model": "bert-99",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 224.556903011061,
-    "Result_Units": "millijoules",
+    "Result": 12.604962,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "NVIDIA Orin (MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "GPU and both DLAs are used in resnet50, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04",
-    "uid": "7db0f6a9f5b94bae",
+    "uid": "bcecf88455dd499c",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/bert-99/SingleStream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 224.556903011061,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.36877201861068,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS (kernel: 5.4.1-050401-generic #201911290555 SMP Fri Nov 29 11:03:47 UTC 2019)",
     "uid": "a0c7913756704c72",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Lenovo/results/se350-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 910.7758158650594,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.36877201861068,
@@ -112,13 +117,12 @@
     "Model": "bert-99",
     "Organization": "Lenovo",
     "Platform": "se350-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 910.7758158650594,
-    "Result_Units": "millijoules",
+    "Result": 7.281042,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Lenovo ThinkSystem SE350 Edge Server (1x QAIC100 Pro)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS (kernel: 5.4.1-050401-generic #201911290555 SMP Fri Nov 29 11:03:47 UTC 2019)",
-    "uid": "6284a9b2a79f41ee",
+    "uid": "a0c7913756704c72",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Lenovo/results/se350-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 910.7758158650594,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.22951222279839,
@@ -169,7 +175,9 @@
     "operating_system": "CentOS 7 (Linux kernel: 5.4.1-1.el7.elrepo.x86_64 #1 SMP Fri Nov 29 10:21:13 EST 2019 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "ca57da7784994988",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/r282_z93_q5e-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 2031.0484634719141,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.22951222279839,
@@ -181,13 +189,12 @@
     "Model": "bert-99",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q5e-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 2031.0484634719141,
-    "Result_Units": "millijoules",
+    "Result": 9.071665,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Gigabyte R282-Z93 (5x QAIC100 Pro, EE)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 5,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "CentOS 7 (Linux kernel: 5.4.1-1.el7.elrepo.x86_64 #1 SMP Fri Nov 29 10:21:13 EST 2019 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "71b6c9f7d83a49e5",
+    "uid": "ca57da7784994988",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/r282_z93_q5e-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 2031.0484634719141,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.27125758330713,
@@ -238,7 +247,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125 #1 SMP PREEMPT Tue Jan 11 22:26:27 UTC 2022)",
     "uid": "913a3e07114647c1",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/gloria-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 294.315385278055,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.27125758330713,
@@ -250,13 +261,12 @@
     "Model": "bert-99",
     "Organization": "Qualcomm",
     "Platform": "gloria-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 294.315385278055,
-    "Result_Units": "millijoules",
+    "Result": 12.427161,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Foxconn Gloria (Entry)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -271,9 +281,11 @@
     "notes": "With 15W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125 #1 SMP PREEMPT Tue Jan 11 22:26:27 UTC 2022)",
-    "uid": "0dc567b6fe644548",
+    "uid": "913a3e07114647c1",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/gloria-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 294.315385278055,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.27125758330713,
@@ -307,7 +319,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Wed Jun 8 17:13:04 UTC 2022)",
     "uid": "d643c0c8276c4885",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/gloria_highend-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 254.69618800363668,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.27125758330713,
@@ -319,13 +333,12 @@
     "Model": "bert-99",
     "Organization": "Qualcomm",
     "Platform": "gloria_highend-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 254.69618800363668,
-    "Result_Units": "millijoules",
+    "Result": 11.797579,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Foxconn Gloria (Highend)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -340,9 +353,11 @@
     "notes": "With 20W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Wed Jun 8 17:13:04 UTC 2022)",
-    "uid": "193caf090df146e7",
+    "uid": "d643c0c8276c4885",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/gloria_highend-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 254.69618800363668,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.27125758330713,
@@ -376,7 +391,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Fri May 6 18:00:47 CST 2022)",
     "uid": "9b1259b047d94123",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/eb6-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 291.69229601743956,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.27125758330713,
@@ -388,13 +405,12 @@
     "Model": "bert-99",
     "Organization": "Qualcomm",
     "Platform": "eb6-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 291.69229601743956,
-    "Result_Units": "millijoules",
+    "Result": 12.229637,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Thundercomm TurboX EB6 Edge AI Box",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -409,9 +425,11 @@
     "notes": "With 15W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Fri May 6 18:00:47 CST 2022)",
-    "uid": "bd3ee91b59624ae2",
+    "uid": "9b1259b047d94123",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/eb6-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 291.69229601743956,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.22951222279839,
@@ -445,7 +463,9 @@
     "operating_system": "CentOS Linux release 8.0.1905 (kernel: 4.19.81-perf #1 SMP PREEMPT Thu Feb 24 03:59:56 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux)",
     "uid": "d6d9461d92dd464a",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/heimdall-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 269.64810522325087,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.22951222279839,
@@ -457,13 +477,12 @@
     "Model": "bert-99",
     "Organization": "Qualcomm",
     "Platform": "heimdall-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 269.64810522325087,
-    "Result_Units": "millijoules",
+    "Result": 12.995371,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Inventec Heimdall",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -478,9 +497,11 @@
     "notes": "With 15W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "CentOS Linux release 8.0.1905 (kernel: 4.19.81-perf #1 SMP PREEMPT Thu Feb 24 03:59:56 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux)",
-    "uid": "590fe572bf32472a",
+    "uid": "d6d9461d92dd464a",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/heimdall-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 269.64810522325087,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.22951222279839,
@@ -514,7 +535,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "81cd54a322784fa9",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/r7515_q4_std-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 1741.0175358783808,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.22951222279839,
@@ -526,13 +549,12 @@
     "Model": "bert-99",
     "Organization": "Dell",
     "Platform": "r7515_q4_std-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 1741.0175358783808,
-    "Result_Units": "millijoules",
+    "Result": 7.297421,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Dell PowerEdge R7515 (4x QAIC100 Standard)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Standard",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -547,9 +569,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "bd0b027cb73740f0",
+    "uid": "81cd54a322784fa9",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/r7515_q4_std-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 1741.0175358783808,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.27125758330713,
@@ -583,7 +607,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS",
     "uid": "fe68f4cd7c5340f1",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/HPE/results/e920d_q4_std-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 1761.7995363244293,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.27125758330713,
@@ -595,13 +621,12 @@
     "Model": "bert-99",
     "Organization": "HPE",
     "Platform": "e920d_q4_std-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 1761.7995363244293,
-    "Result_Units": "millijoules",
+    "Result": 7.311144,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "HPE ProLiant e920d (4x QAIC100 Standard)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Standard",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -616,8 +641,10 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS",
-    "uid": "4ff9ccaa06ce4559",
+    "uid": "fe68f4cd7c5340f1",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/HPE/results/e920d_q4_std-qaic-v1.7.1.12-aic100/bert-99/singlestream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 1761.7995363244293,
+    "Result_Power_Units": "millijoules"
   }
 ]

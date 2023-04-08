@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "daa68132e5b94ec5",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 25.63559722222222,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.56578502333763,
@@ -43,13 +45,12 @@
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 25.63559722222222,
-    "Result_Units": "Watts",
+    "Result": 716.007,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Orin (MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,8 +65,10 @@
     "notes": "GPU and both DLAs are used in resnet50, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04",
-    "uid": "2484b9cf77494b0d",
+    "uid": "daa68132e5b94ec5",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 25.63559722222222,
+    "Result_Power_Units": "Watts"
   }
 ]

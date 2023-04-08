@@ -31,7 +31,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "ec21d313a3c54964",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/resnet50/SingleStream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 268.2116016539203,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 76.028,
@@ -43,13 +45,12 @@
     "Model": "resnet50",
     "Organization": "Dell",
     "Platform": "XR12_A2x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 268.2116016539203,
-    "Result_Units": "millijoules",
+    "Result": 1.088643,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Dell PowerEdge XR12 (1x A2, MaxQ, TensorRT)",
     "SystemType": "datacenter,edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA A2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,8 +65,10 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "5427d376fc4c4ae8",
+    "uid": "ec21d313a3c54964",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/resnet50/SingleStream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 268.2116016539203,
+    "Result_Power_Units": "millijoules"
   }
 ]

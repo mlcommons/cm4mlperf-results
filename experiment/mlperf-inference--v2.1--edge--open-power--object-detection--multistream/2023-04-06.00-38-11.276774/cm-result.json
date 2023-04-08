@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS (kernel: 5.4.1-050401-generic #201911290555 SMP Fri Nov 29 11:03:47 UTC 2019)",
     "uid": "f84f1936d5de4de7",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Lenovo/results/se350_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 13505.83034851622,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -43,13 +45,12 @@
     "Model": "retinanet",
     "Organization": "Lenovo",
     "Platform": "se350_prev-qaic-v1.8.0.73-aic100",
-    "Result": null,
-    "Result_Power": 13505.83034851622,
-    "Result_Units": "millijoules",
+    "Result": 127.923074,
+    "Result_Units": "Latency (ms)",
     "Scenario": "MultiStream",
     "SystemName": "Lenovo ThinkSystem SE350 Edge Server (1x QAIC100 Pro)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS (kernel: 5.4.1-050401-generic #201911290555 SMP Fri Nov 29 11:03:47 UTC 2019)",
-    "uid": "a85c97a04bff415f",
+    "uid": "f84f1936d5de4de7",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Lenovo/results/se350_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 13505.83034851622,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Wed Jun 8 17:13:04 UTC 2022)",
     "uid": "65ae9f8cc9d84620",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/gloria_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 5016.820994548741,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -112,13 +117,12 @@
     "Model": "retinanet",
     "Organization": "Qualcomm",
     "Platform": "gloria_prev-qaic-v1.8.0.73-aic100",
-    "Result": null,
-    "Result_Power": 5016.820994548741,
-    "Result_Units": "millijoules",
+    "Result": 326.597119,
+    "Result_Units": "Latency (ms)",
     "Scenario": "MultiStream",
     "SystemName": "Foxconn Gloria (Entry)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "With 15W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Wed Jun 8 17:13:04 UTC 2022)",
-    "uid": "98175517a0d5460c",
+    "uid": "65ae9f8cc9d84620",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/gloria_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 5016.820994548741,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -169,7 +175,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Fri May 6 18:00:47 CST 2022)",
     "uid": "0ebe213cfd5140e6",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/eb6_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 5065.411016883499,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -181,13 +189,12 @@
     "Model": "retinanet",
     "Organization": "Qualcomm",
     "Platform": "eb6_prev-qaic-v1.8.0.73-aic100",
-    "Result": null,
-    "Result_Power": 5065.411016883499,
-    "Result_Units": "millijoules",
+    "Result": 331.388621,
+    "Result_Units": "Latency (ms)",
     "Scenario": "MultiStream",
     "SystemName": "Thundercomm TurboX EB6 Edge AI Box",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "With 15W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Fri May 6 18:00:47 CST 2022)",
-    "uid": "cc1928e8d23e4dd0",
+    "uid": "0ebe213cfd5140e6",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/eb6_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 5065.411016883499,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -238,7 +247,9 @@
     "operating_system": "CentOS 7 (Linux kernel: 5.4.1-1.el7.elrepo.x86_64 #1 SMP Fri Nov 29 10:21:13 EST 2019 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "8bd686b559b94847",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/r282_z93_q5e_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 14438.975211740291,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -250,13 +261,12 @@
     "Model": "retinanet",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q5e_prev-qaic-v1.8.0.73-aic100",
-    "Result": null,
-    "Result_Power": 14438.975211740291,
-    "Result_Units": "millijoules",
+    "Result": 57.469723,
+    "Result_Units": "Latency (ms)",
     "Scenario": "MultiStream",
     "SystemName": "Gigabyte R282-Z93 (5x QAIC100 Pro, EE)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 5,
     "compliance": 1,
@@ -271,9 +281,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "CentOS 7 (Linux kernel: 5.4.1-1.el7.elrepo.x86_64 #1 SMP Fri Nov 29 10:21:13 EST 2019 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "922c8e7463674cbf",
+    "uid": "8bd686b559b94847",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/r282_z93_q5e_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 14438.975211740291,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -307,7 +319,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Wed Jun 8 17:13:04 UTC 2022)",
     "uid": "49673888476b4b07",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/gloria_highend_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 4582.908326334037,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -319,13 +333,12 @@
     "Model": "retinanet",
     "Organization": "Qualcomm",
     "Platform": "gloria_highend_prev-qaic-v1.8.0.73-aic100",
-    "Result": null,
-    "Result_Power": 4582.908326334037,
-    "Result_Units": "millijoules",
+    "Result": 310.150119,
+    "Result_Units": "Latency (ms)",
     "Scenario": "MultiStream",
     "SystemName": "Foxconn Gloria (Highend)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -340,9 +353,11 @@
     "notes": "With 20W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Wed Jun 8 17:13:04 UTC 2022)",
-    "uid": "eb887c5ec8614c7a",
+    "uid": "49673888476b4b07",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/gloria_highend_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 4582.908326334037,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -376,7 +391,9 @@
     "operating_system": "CentOS Linux release 8.0.1905 (kernel: 4.19.81-perf #1 SMP PREEMPT Thu Feb 24 03:59:56 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux)",
     "uid": "fd9e0ba91a6649df",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/heimdall_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 4629.173453939572,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -388,13 +405,12 @@
     "Model": "retinanet",
     "Organization": "Qualcomm",
     "Platform": "heimdall_prev-qaic-v1.8.0.73-aic100",
-    "Result": null,
-    "Result_Power": 4629.173453939572,
-    "Result_Units": "millijoules",
+    "Result": 332.170341,
+    "Result_Units": "Latency (ms)",
     "Scenario": "MultiStream",
     "SystemName": "Inventec Heimdall",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -409,9 +425,11 @@
     "notes": "With 15W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "CentOS Linux release 8.0.1905 (kernel: 4.19.81-perf #1 SMP PREEMPT Thu Feb 24 03:59:56 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux)",
-    "uid": "ff3b1bd8021b4b4c",
+    "uid": "fd9e0ba91a6649df",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/heimdall_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 4629.173453939572,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -445,7 +463,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "e2cf2d78f46140a5",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Dell/results/r7515_q4_std_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 14774.83114543772,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -457,13 +477,12 @@
     "Model": "retinanet",
     "Organization": "Dell",
     "Platform": "r7515_q4_std_prev-qaic-v1.8.0.73-aic100",
-    "Result": null,
-    "Result_Power": 14774.83114543772,
-    "Result_Units": "millijoules",
+    "Result": 60.745525,
+    "Result_Units": "Latency (ms)",
     "Scenario": "MultiStream",
     "SystemName": "Dell PowerEdge R7515 (4x QAIC100 Standard)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Standard",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -478,9 +497,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "31ee826880b34482",
+    "uid": "e2cf2d78f46140a5",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Dell/results/r7515_q4_std_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 14774.83114543772,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -514,7 +535,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS",
     "uid": "b812e049ac0c4ee8",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/HPE/results/e920d_q4_std_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 15468.5286917352,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 37.161,
@@ -526,13 +549,12 @@
     "Model": "retinanet",
     "Organization": "HPE",
     "Platform": "e920d_q4_std_prev-qaic-v1.8.0.73-aic100",
-    "Result": null,
-    "Result_Power": 15468.5286917352,
-    "Result_Units": "millijoules",
+    "Result": 63.668711,
+    "Result_Units": "Latency (ms)",
     "Scenario": "MultiStream",
     "SystemName": "HPE ProLiant e920d (4x QAIC100 Standard)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Standard",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -547,8 +569,10 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS",
-    "uid": "c6cc3b01fe3f435a",
+    "uid": "b812e049ac0c4ee8",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/HPE/results/e920d_q4_std_prev-qaic-v1.8.0.73-aic100/retinanet/multistream",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 15468.5286917352,
+    "Result_Power_Units": "millijoules"
   }
 ]

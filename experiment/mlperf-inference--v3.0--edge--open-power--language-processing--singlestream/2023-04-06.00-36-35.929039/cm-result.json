@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04 (linux-5.10.65-tegra-glibc2.31)",
     "uid": "fc4cd9210f5d41eb",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/nvidia_orin-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/bert-99/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 307.01072013158847,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.4400381640464,
@@ -43,13 +45,12 @@
     "Model": "bert-99",
     "Organization": "cTuning",
     "Platform": "nvidia_orin-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 307.01072013158847,
-    "Result_Units": "millijoules",
+    "Result": 7.795544,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "NVIDIA Jetson AGX Orin (TensorRT)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA Jetson AGX Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "GPU and both DLAs are used in ResNet50. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-5.10.65-tegra-glibc2.31)",
-    "uid": "4c18598c75cf4825",
+    "uid": "fc4cd9210f5d41eb",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/nvidia_orin-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/bert-99/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 307.01072013158847,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.11527118400227,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "53bdeca5ec04450e",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-reference-cpu-deepsparse-v1.4.0-default_config/bert-99/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 3743.4027259955874,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.11527118400227,
@@ -112,13 +117,12 @@
     "Model": "bert-99",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-reference-cpu-deepsparse-v1.4.0-default_config",
-    "Result": null,
-    "Result_Power": 3743.4027259955874,
-    "Result_Units": "millijoules",
+    "Result": 20.991689,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "AMD Ryzen Zen4 workstation",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "N/A",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "1090ab60aa9a431e",
+    "uid": "53bdeca5ec04450e",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-reference-cpu-deepsparse-v1.4.0-default_config/bert-99/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 3743.4027259955874,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.41225790876659,
@@ -169,7 +175,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "a0421a12ec4e4bb7",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/bert-99/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 462.56822060354165,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.41225790876659,
@@ -181,13 +189,12 @@
     "Model": "bert-99",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 462.56822060354165,
-    "Result_Units": "millijoules",
+    "Result": 1.086301,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA GeForce RTX 4090 (Ada Lovelace)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "e38e5af4cfff4670",
+    "uid": "a0421a12ec4e4bb7",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/bert-99/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 462.56822060354165,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.71027380538831,
@@ -238,7 +247,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "89e8c3770ae14893",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-reference-cpu-onnxruntime-v1.14.0-default_config/huggingface-bert/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 51190.94898433876,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 90.71027380538831,
@@ -250,13 +261,12 @@
     "Model": "huggingface-bert",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-reference-cpu-onnxruntime-v1.14.0-default_config",
-    "Result": null,
-    "Result_Power": 51190.94898433876,
-    "Result_Units": "millijoules",
+    "Result": 150.449134,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "AMD Ryzen Zen4 workstation",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "N/A",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -271,8 +281,10 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "4a9a002411c64a59",
+    "uid": "89e8c3770ae14893",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-reference-cpu-onnxruntime-v1.14.0-default_config/huggingface-bert/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 51190.94898433876,
+    "Result_Power_Units": "millijoules"
   }
 ]

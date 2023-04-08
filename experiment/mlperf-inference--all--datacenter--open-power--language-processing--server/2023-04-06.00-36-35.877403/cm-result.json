@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
     "uid": "73ba2ca9f5574fbf",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/Qualcomm/results/r282_z93_q8e-qaic-v1.8.3.7-aic100/bert_pruned_83.2_mp/server",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 695.6283333333336,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.91678269111374,
@@ -43,13 +45,12 @@
     "Model": "bert_pruned_83.2_mp",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q8e-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 695.6283333333336,
-    "Result_Units": "Watts",
+    "Result": 12498.2,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "GIGABYTE R282-Z93 (8x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "With 75W Accelerator TDP constraints. 3x QAIC100 on riser CRS2033; 3x QAIC100 on riser CRS2033; 2x QAIC100 on riser CRS2026.. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
-    "uid": "3fc6ee14b3b74683",
+    "uid": "73ba2ca9f5574fbf",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/Qualcomm/results/r282_z93_q8e-qaic-v1.8.3.7-aic100/bert_pruned_83.2_mp/server",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 695.6283333333336,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 86.13436789084363,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
     "uid": "bf56f497805649ae",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/Qualcomm/results/r282_z93_q8e-qaic-v1.8.3.7-aic100/distilbert_mp/server",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 551.6442000000006,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 86.13436789084363,
@@ -112,13 +117,12 @@
     "Model": "distilbert_mp",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q8e-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 551.6442000000006,
-    "Result_Units": "Watts",
+    "Result": 21506,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "GIGABYTE R282-Z93 (8x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "With 75W Accelerator TDP constraints. 3x QAIC100 on riser CRS2033; 3x QAIC100 on riser CRS2033; 2x QAIC100 on riser CRS2026.. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
-    "uid": "b065fbe9425f48f0",
+    "uid": "bf56f497805649ae",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/Qualcomm/results/r282_z93_q8e-qaic-v1.8.3.7-aic100/distilbert_mp/server",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 551.6442000000006,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.09233322361673,
@@ -169,7 +175,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
     "uid": "e3762c107c2942c1",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/Qualcomm/results/r282_z93_q8e-qaic-v1.8.3.7-aic100/bert_pruned_82.6_mp/server",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 777.138833333333,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.09233322361673,
@@ -181,13 +189,12 @@
     "Model": "bert_pruned_82.6_mp",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q8e-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 777.138833333333,
-    "Result_Units": "Watts",
+    "Result": 16698.9,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "GIGABYTE R282-Z93 (8x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -202,8 +209,10 @@
     "notes": "With 75W Accelerator TDP constraints. 3x QAIC100 on riser CRS2033; 3x QAIC100 on riser CRS2033; 2x QAIC100 on riser CRS2026.. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
-    "uid": "bf13cb14595c4957",
+    "uid": "e3762c107c2942c1",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/Qualcomm/results/r282_z93_q8e-qaic-v1.8.3.7-aic100/bert_pruned_82.6_mp/server",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 777.138833333333,
+    "Result_Power_Units": "Watts"
   }
 ]
