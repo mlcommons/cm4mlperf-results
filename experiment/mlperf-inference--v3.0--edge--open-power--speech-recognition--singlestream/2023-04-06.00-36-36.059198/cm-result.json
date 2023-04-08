@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "82b5e61834ce4533",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/rnnt/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2532.5136777477946,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 92.57029470788518,
@@ -43,13 +45,12 @@
     "Model": "rnnt",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 2532.5136777477946,
-    "Result_Units": "millijoules",
+    "Result": 9.993138,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA GeForce RTX 4090 (Ada Lovelace)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,8 +65,10 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "9509989b4e444713",
+    "uid": "82b5e61834ce4533",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/rnnt/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2532.5136777477946,
+    "Result_Power_Units": "millijoules"
   }
 ]

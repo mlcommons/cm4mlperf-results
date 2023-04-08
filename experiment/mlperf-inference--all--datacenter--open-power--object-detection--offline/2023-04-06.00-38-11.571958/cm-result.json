@@ -31,7 +31,9 @@
     "operating_system": "CentOS 7 (Linux kernel: 5.4.1-1.el7.elrepo.x86_64 #1 SMP Fri Nov 29 10:21:13 EST 2019 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "c68f0694e9c348b4",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/r282_z93_q8e_prev-qaic-v1.8.0.73-aic100/retinanet/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 566.4232069510269,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 37.161,
@@ -43,13 +45,12 @@
     "Model": "retinanet",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q8e_prev-qaic-v1.8.0.73-aic100",
-    "Result": null,
-    "Result_Power": 566.4232069510269,
-    "Result_Units": "Watts",
+    "Result": 1501.01,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte R282-Z93 (8x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "With 75W Accelerator TDP constraints. 3x QAIC100 on riser CRS2033; 3x QAIC100 on riser CRS2033; 2x QAIC100 on riser CRS2026. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "CentOS 7 (Linux kernel: 5.4.1-1.el7.elrepo.x86_64 #1 SMP Fri Nov 29 10:21:13 EST 2019 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "5f8e55fa50aa40fa",
+    "uid": "c68f0694e9c348b4",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Qualcomm/results/r282_z93_q8e_prev-qaic-v1.8.0.73-aic100/retinanet/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 566.4232069510269,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 37.161,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "782eaa5672ae4010",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Dell/results/r7515_q4_pro_prev-qaic-v1.8.0.73-aic100/retinanet/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 353.5611178247731,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 37.161,
@@ -112,13 +117,12 @@
     "Model": "retinanet",
     "Organization": "Dell",
     "Platform": "r7515_q4_pro_prev-qaic-v1.8.0.73-aic100",
-    "Result": null,
-    "Result_Power": 353.5611178247731,
-    "Result_Units": "Watts",
+    "Result": 747.495,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge R7515 (4x QAIC100 Pro)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -133,8 +137,10 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "33d2e38f626d43f5",
+    "uid": "782eaa5672ae4010",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/open/Dell/results/r7515_q4_pro_prev-qaic-v1.8.0.73-aic100/retinanet/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 353.5611178247731,
+    "Result_Power_Units": "Watts"
   }
 ]

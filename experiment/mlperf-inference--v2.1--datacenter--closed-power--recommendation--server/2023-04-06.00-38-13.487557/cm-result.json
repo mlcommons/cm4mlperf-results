@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "d7ad0194675a48b5",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/DGX-A100_A100-SXM-80GBx8_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 3377.699833333331,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -43,13 +45,12 @@
     "Model": "dlrm-99",
     "Organization": "NVIDIA",
     "Platform": "DGX-A100_A100-SXM-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3377.699833333331,
-    "Result_Units": "Watts",
+    "Result": 2002080,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX A100 (8x A100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "45b467b45d964953",
+    "uid": "d7ad0194675a48b5",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/DGX-A100_A100-SXM-80GBx8_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 3377.699833333331,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "27ddbb9aebcf4041",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/DGX-A100_A100-SXM-80GBx8_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 3377.699833333331,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -112,13 +117,12 @@
     "Model": "dlrm-99.9",
     "Organization": "NVIDIA",
     "Platform": "DGX-A100_A100-SXM-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3377.699833333331,
-    "Result_Units": "Watts",
+    "Result": 2002080,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX A100 (8x A100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "8d4d01c4a72f493a",
+    "uid": "27ddbb9aebcf4041",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/DGX-A100_A100-SXM-80GBx8_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 3377.699833333331,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -169,7 +175,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "54a85c6304bf4482",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 265.37013333333346,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -181,13 +189,12 @@
     "Model": "dlrm-99",
     "Organization": "Dell",
     "Platform": "XR12_A2x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 265.37013333333346,
-    "Result_Units": "Watts",
+    "Result": 19986.2,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Dell PowerEdge XR12 (1x A2, MaxQ, TensorRT)",
     "SystemType": "datacenter,edge",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "2a786b396d5044c9",
+    "uid": "54a85c6304bf4482",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/dlrm-99/Server",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 265.37013333333346,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -238,7 +247,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "607d490610984490",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 265.37013333333346,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 80.185,
@@ -250,13 +261,12 @@
     "Model": "dlrm-99.9",
     "Organization": "Dell",
     "Platform": "XR12_A2x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 265.37013333333346,
-    "Result_Units": "Watts",
+    "Result": 19986.2,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Dell PowerEdge XR12 (1x A2, MaxQ, TensorRT)",
     "SystemType": "datacenter,edge",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA A2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -271,8 +281,10 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "db201004e7574e6a",
+    "uid": "607d490610984490",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/dlrm-99.9/Server",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 265.37013333333346,
+    "Result_Power_Units": "Watts"
   }
 ]

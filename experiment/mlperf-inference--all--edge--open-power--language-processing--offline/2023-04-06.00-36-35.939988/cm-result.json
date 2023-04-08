@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04 (linux-5.10.65-tegra-glibc2.31)",
     "uid": "a4685ecc4a1b46a3",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/nvidia_orin-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 76.95226006191946,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.44111119598546,
@@ -43,13 +45,12 @@
     "Model": "bert-99",
     "Organization": "cTuning",
     "Platform": "nvidia_orin-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 76.95226006191946,
-    "Result_Units": "Watts",
+    "Result": 449.959,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Orin (TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA Jetson AGX Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "GPU and both DLAs are used in ResNet50. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-5.10.65-tegra-glibc2.31)",
-    "uid": "8a01a12d1e5146a8",
+    "uid": "a4685ecc4a1b46a3",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/nvidia_orin-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 76.95226006191946,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.13192609144468,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "3eb07b368047455a",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-reference-cpu-deepsparse-v1.4.0-default_config/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 275.19234234234216,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.13192609144468,
@@ -112,13 +117,12 @@
     "Model": "bert-99",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-reference-cpu-deepsparse-v1.4.0-default_config",
-    "Result": null,
-    "Result_Power": 275.19234234234216,
-    "Result_Units": "Watts",
+    "Result": 74.2939,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "AMD Ryzen Zen4 workstation",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "N/A",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "076eb4c5cfa34f93",
+    "uid": "3eb07b368047455a",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-reference-cpu-deepsparse-v1.4.0-default_config/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 275.19234234234216,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.36108687680405,
@@ -169,7 +175,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "e909c5204d6b4982",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 608.3273141122912,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.36108687680405,
@@ -181,13 +189,12 @@
     "Model": "bert-99",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 608.3273141122912,
-    "Result_Units": "Watts",
+    "Result": 4205.25,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA GeForce RTX 4090 (Ada Lovelace)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "c5e113fcc5e34706",
+    "uid": "e909c5204d6b4982",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 608.3273141122912,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.87487229720105,
@@ -238,7 +247,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "9d2594448bbb4b45",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-reference-cpu-onnxruntime-v1.14.0-default_config/huggingface-bert/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 310.0224563224352,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.87487229720105,
@@ -250,13 +261,12 @@
     "Model": "huggingface-bert",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-reference-cpu-onnxruntime-v1.14.0-default_config",
-    "Result": null,
-    "Result_Power": 310.0224563224352,
-    "Result_Units": "Watts",
+    "Result": 4.25102,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "AMD Ryzen Zen4 workstation",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "N/A",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -271,9 +281,11 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "0a4328c164d24db7",
+    "uid": "9d2594448bbb4b45",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-reference-cpu-onnxruntime-v1.14.0-default_config/huggingface-bert/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 310.0224563224352,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.441,
@@ -307,7 +319,9 @@
     "operating_system": "Ubuntu 20.04 (linux-5.10.65-tegra-glibc2.31)",
     "uid": "bbc85c44ee65479d",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/nvidia_orin_max15-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 20.443191904047968,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.441,
@@ -319,13 +333,12 @@
     "Model": "bert-99",
     "Organization": "cTuning",
     "Platform": "nvidia_orin_max15-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 20.443191904047968,
-    "Result_Units": "Watts",
+    "Result": 59.3491,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Orin (TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA Jetson AGX Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -340,8 +353,10 @@
     "notes": "Max15W Mode is used. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-5.10.65-tegra-glibc2.31)",
-    "uid": "0018b57e02c749de",
+    "uid": "bbc85c44ee65479d",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/nvidia_orin_max15-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 20.443191904047968,
+    "Result_Power_Units": "Watts"
   }
 ]

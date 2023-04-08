@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "bccf5812c4dd4c72",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/bert-99/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2524.625218476904,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.38982811354983,
@@ -43,13 +45,12 @@
     "Model": "bert-99",
     "Organization": "NVIDIA",
     "Platform": "A100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2524.625218476904,
-    "Result_Units": "Watts",
+    "Result": 22396.7,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte G482-Z54 (8x A100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "fd05fe6864a943ef",
+    "uid": "bccf5812c4dd4c72",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/bert-99/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2524.625218476904,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.88273936857954,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "9398bbee8fcd4dc8",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/bert-99.9/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2535.047049689441,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.88273936857954,
@@ -112,13 +117,12 @@
     "Model": "bert-99.9",
     "Organization": "NVIDIA",
     "Platform": "A100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2535.047049689441,
-    "Result_Units": "Watts",
+    "Result": 11268.6,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte G482-Z54 (8x A100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "740d74b2edd548b0",
+    "uid": "9398bbee8fcd4dc8",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/A100-PCIe-80GBx8_TRT_MaxQ/bert-99.9/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2535.047049689441,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.34992722790872,
@@ -169,7 +175,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "ba0dc520590d4112",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/bert-99/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2998.33082706767,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.34992722790872,
@@ -181,13 +189,12 @@
     "Model": "bert-99",
     "Organization": "NVIDIA",
     "Platform": "H100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2998.33082706767,
-    "Result_Units": "Watts",
+    "Result": 39196.3,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte G482-Z54 (8x H100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA H100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "8672afc91b9344cf",
+    "uid": "ba0dc520590d4112",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/bert-99/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 2998.33082706767,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.97056894987658,
@@ -238,7 +247,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "39a9e27587444579",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/bert-99.9/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 3130.687538461539,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.97056894987658,
@@ -250,13 +261,12 @@
     "Model": "bert-99.9",
     "Organization": "NVIDIA",
     "Platform": "H100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3130.687538461539,
-    "Result_Units": "Watts",
+    "Result": 33484.4,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte G482-Z54 (8x H100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA H100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -271,9 +281,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "9b4e64c6efcd44f9",
+    "uid": "39a9e27587444579",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/bert-99.9/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 3130.687538461539,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.2426510242233,
@@ -307,7 +319,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
     "uid": "a672807c544141ce",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/r282_z93_q8e-qaic-v1.8.3.7-aic100/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 539.4031714719273,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.2426510242233,
@@ -319,13 +333,12 @@
     "Model": "bert-99",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q8e-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 539.4031714719273,
-    "Result_Units": "Watts",
+    "Result": 5009.03,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "GIGABYTE R282-Z93 (8x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -340,9 +353,11 @@
     "notes": "With 75W Accelerator TDP constraints. 3x QAIC100 on riser CRS2033; 3x QAIC100 on riser CRS2033; 2x QAIC100 on riser CRS2026.. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
-    "uid": "89178f3d18e94115",
+    "uid": "a672807c544141ce",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/r282_z93_q8e-qaic-v1.8.3.7-aic100/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 539.4031714719273,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -376,7 +391,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
     "uid": "9ecd2efdfb784ecf",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/r282_z93_q8e-qaic-v1.8.3.7-aic100/bert-99.9/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 599.9752655538704,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -388,13 +405,12 @@
     "Model": "bert-99.9",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q8e-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 599.9752655538704,
-    "Result_Units": "Watts",
+    "Result": 2855.99,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "GIGABYTE R282-Z93 (8x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -409,9 +425,11 @@
     "notes": "With 75W Accelerator TDP constraints. 3x QAIC100 on riser CRS2033; 3x QAIC100 on riser CRS2033; 2x QAIC100 on riser CRS2026.. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
-    "uid": "ea26a2b852534e1f",
+    "uid": "9ecd2efdfb784ecf",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/r282_z93_q8e-qaic-v1.8.3.7-aic100/bert-99.9/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 599.9752655538704,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.2426510242233,
@@ -445,7 +463,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
     "uid": "8d57f947f2714727",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/g292_z43_q18e-qaic-v1.8.3.7-aic100/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1537.509545454545,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.2426510242233,
@@ -457,13 +477,12 @@
     "Model": "bert-99",
     "Organization": "Qualcomm",
     "Platform": "g292_z43_q18e-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 1537.509545454545,
-    "Result_Units": "Watts",
+    "Result": 11311,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "GIGABYTE G292-Z43 (18x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 18,
     "compliance": 1,
@@ -478,9 +497,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
-    "uid": "d88668edce254d12",
+    "uid": "8d57f947f2714727",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/g292_z43_q18e-qaic-v1.8.3.7-aic100/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1537.509545454545,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -514,7 +535,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
     "uid": "bd0eb1aba9004f00",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/g292_z43_q18e-qaic-v1.8.3.7-aic100/bert-99.9/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1672.206838905778,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -526,13 +549,12 @@
     "Model": "bert-99.9",
     "Organization": "Qualcomm",
     "Platform": "g292_z43_q18e-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 1672.206838905778,
-    "Result_Units": "Watts",
+    "Result": 6423.86,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "GIGABYTE G292-Z43 (18x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 18,
     "compliance": 1,
@@ -547,9 +569,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
-    "uid": "e8c5552918cb42a3",
+    "uid": "bd0eb1aba9004f00",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/g292_z43_q18e-qaic-v1.8.3.7-aic100/bert-99.9/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1672.206838905778,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.2426510242233,
@@ -583,7 +607,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
     "uid": "f0071e69fb9e4817",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/g292_z43_q16e-qaic-v1.8.3.7-aic100/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1302.2323216995444,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.2426510242233,
@@ -595,13 +621,12 @@
     "Model": "bert-99",
     "Organization": "Qualcomm",
     "Platform": "g292_z43_q16e-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 1302.2323216995444,
-    "Result_Units": "Watts",
+    "Result": 10053,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "GIGABYTE G292-Z43 (16x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 16,
     "compliance": 1,
@@ -616,9 +641,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
-    "uid": "049c70a59c414553",
+    "uid": "f0071e69fb9e4817",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/g292_z43_q16e-qaic-v1.8.3.7-aic100/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1302.2323216995444,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -652,7 +679,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
     "uid": "c514b1ba91d34164",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/g292_z43_q16e-qaic-v1.8.3.7-aic100/bert-99.9/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1455.1717325227958,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -664,13 +693,12 @@
     "Model": "bert-99.9",
     "Organization": "Qualcomm",
     "Platform": "g292_z43_q16e-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 1455.1717325227958,
-    "Result_Units": "Watts",
+    "Result": 5716.41,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "GIGABYTE G292-Z43 (16x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 16,
     "compliance": 1,
@@ -685,9 +713,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-135-generic #152-Ubuntu SMP Wed Nov 23 20:19:22 UTC 2022)",
-    "uid": "404444fb2e9d4ffd",
+    "uid": "c514b1ba91d34164",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/g292_z43_q16e-qaic-v1.8.3.7-aic100/bert-99.9/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 1455.1717325227958,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.2426510242233,
@@ -721,7 +751,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022)",
     "uid": "b7958295a2984e82",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/r7515_q4_pro-qaic-v1.8.3.7-aic100/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 472.3862158054708,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.2426510242233,
@@ -733,13 +765,12 @@
     "Model": "bert-99",
     "Organization": "Dell",
     "Platform": "r7515_q4_pro-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 472.3862158054708,
-    "Result_Units": "Watts",
+    "Result": 3059.8,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge R7515 (4x QAIC100 Pro)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -754,9 +785,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by the KILT and CK technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022)",
-    "uid": "96dbd6ac98aa4c40",
+    "uid": "b7958295a2984e82",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/r7515_q4_pro-qaic-v1.8.3.7-aic100/bert-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 472.3862158054708,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -790,7 +823,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022)",
     "uid": "911e95e947414dd0",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/r7515_q4_pro-qaic-v1.8.3.7-aic100/bert-99.9/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 463.75685714285777,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -802,13 +837,12 @@
     "Model": "bert-99.9",
     "Organization": "Dell",
     "Platform": "r7515_q4_pro-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 463.75685714285777,
-    "Result_Units": "Watts",
+    "Result": 1487.12,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge R7515 (4x QAIC100 Pro)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -823,8 +857,10 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by the KILT and CK technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022)",
-    "uid": "6728f1e6c08f4009",
+    "uid": "911e95e947414dd0",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/r7515_q4_pro-qaic-v1.8.3.7-aic100/bert-99.9/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 463.75685714285777,
+    "Result_Power_Units": "Watts"
   }
 ]

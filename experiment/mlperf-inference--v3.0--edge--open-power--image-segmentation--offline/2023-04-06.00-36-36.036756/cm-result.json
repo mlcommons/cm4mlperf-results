@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "5aa52173a5b84bdb",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/3d-unet-99.9/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 588.5918315018316,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 0.86242,
@@ -43,13 +45,12 @@
     "Model": "3d-unet-99.9",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 588.5918315018316,
-    "Result_Units": "Watts",
+    "Result": 4.50529,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA GeForce RTX 4090 (Ada Lovelace)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "525f019906b5438c",
+    "uid": "5aa52173a5b84bdb",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/3d-unet-99.9/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 588.5918315018316,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 0.86242,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "e08da6f550b24c47",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/3d-unet-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 588.3101300604516,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 0.86242,
@@ -112,13 +117,12 @@
     "Model": "3d-unet-99",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 588.3101300604516,
-    "Result_Units": "Watts",
+    "Result": 4.50531,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA GeForce RTX 4090 (Ada Lovelace)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -133,8 +137,10 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "5fb8198a1c484421",
+    "uid": "e08da6f550b24c47",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/3d-unet-99/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 588.3101300604516,
+    "Result_Power_Units": "Watts"
   }
 ]

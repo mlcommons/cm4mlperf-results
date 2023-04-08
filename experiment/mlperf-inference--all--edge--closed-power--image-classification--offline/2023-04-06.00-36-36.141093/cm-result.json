@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
     "uid": "e859036a44d04db0",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/vim4-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 7.74431166666666,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -43,13 +45,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "vim4-armnn-v22.05-neon",
-    "Result": null,
-    "Result_Power": 7.74431166666666,
-    "Result_Units": "Watts",
+    "Result": 5.18129,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Khadas VIM4 (vim4)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
-    "uid": "684a54ee69054383",
+    "uid": "e859036a44d04db0",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/vim4-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 7.74431166666666,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
     "uid": "6bc3a8238d2b4c79",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/vim4-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 9.681076666666655,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -112,13 +117,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "vim4-tflite-v2.7.1-ruy",
-    "Result": null,
-    "Result_Power": 9.681076666666655,
-    "Result_Units": "Watts",
+    "Result": 4.8036,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Khadas VIM4 (vim4)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
-    "uid": "bbb90b79cdee46f6",
+    "uid": "6bc3a8238d2b4c79",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/vim4-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 9.681076666666655,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -169,7 +175,9 @@
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
     "uid": "24fcc7305e694e6d",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/firefly-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 11.808665000000005,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -181,13 +189,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "firefly-tflite-v2.7.1-ruy",
-    "Result": null,
-    "Result_Power": 11.808665000000005,
-    "Result_Units": "Watts",
+    "Result": 8.39339,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Firefly-RK3588S (firefly)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
-    "uid": "70bac0776e1d4fc6",
+    "uid": "24fcc7305e694e6d",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/firefly-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 11.808665000000005,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -238,7 +247,9 @@
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
     "uid": "f72913cd703248ff",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/vim4-armnn-v22.05-opencl/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 6.121016666666664,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -250,13 +261,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "vim4-armnn-v22.05-opencl",
-    "Result": null,
-    "Result_Power": 6.121016666666664,
-    "Result_Units": "Watts",
+    "Result": 6.80517,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Khadas VIM4 (vim4)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "ARM Mali G52MP8(8EE)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -271,9 +281,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
-    "uid": "7acee1e40faf4f24",
+    "uid": "f72913cd703248ff",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/vim4-armnn-v22.05-opencl/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 6.121016666666664,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -307,7 +319,9 @@
     "operating_system": "Ubuntu 18.04.6 LTS; kernel xavier 4.9.253-tegra #1 SMP PREEMPT (Mon Jul 26 12:19:28 PDT 2021)",
     "uid": "63f7be2fcfc84d9a",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/xavier-power.0-fan.cool-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 28.37206666666665,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -319,13 +333,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "xavier-power.0-fan.cool-tflite-v2.7.1-ruy",
-    "Result": null,
-    "Result_Power": 28.37206666666665,
-    "Result_Units": "Watts",
+    "Result": 12.9871,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Xavier",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -340,9 +353,11 @@
     "notes": "Power mode: MAXN. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 18.04.6 LTS; kernel xavier 4.9.253-tegra #1 SMP PREEMPT (Mon Jul 26 12:19:28 PDT 2021)",
-    "uid": "6a6b3eb7e5184b91",
+    "uid": "63f7be2fcfc84d9a",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/xavier-power.0-fan.cool-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 28.37206666666665,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -376,7 +391,9 @@
     "operating_system": "Ubuntu 18.04.6 LTS; kernel xavier 4.9.253-tegra #1 SMP PREEMPT (Mon Jul 26 12:19:28 PDT 2021)",
     "uid": "2da90f0bfc8748ca",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/xavier-power.0-fan.cool-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 22.967716666666682,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -388,13 +405,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "xavier-power.0-fan.cool-armnn-v22.05-neon",
-    "Result": null,
-    "Result_Power": 22.967716666666682,
-    "Result_Units": "Watts",
+    "Result": 17.0356,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Xavier",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -409,9 +425,11 @@
     "notes": "Power mode: MAXN. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 18.04.6 LTS; kernel xavier 4.9.253-tegra #1 SMP PREEMPT (Mon Jul 26 12:19:28 PDT 2021)",
-    "uid": "27d2b63701b240ad",
+    "uid": "2da90f0bfc8748ca",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/xavier-power.0-fan.cool-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 22.967716666666682,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -445,7 +463,9 @@
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
     "uid": "3fd55bcfc1854328",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/firefly-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 8.911936666666673,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -457,13 +477,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "firefly-armnn-v22.05-neon",
-    "Result": null,
-    "Result_Power": 8.911936666666673,
-    "Result_Units": "Watts",
+    "Result": 10.5327,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Firefly-RK3588S (firefly)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -478,9 +497,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
-    "uid": "e81f8f298aad4509",
+    "uid": "3fd55bcfc1854328",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/firefly-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 8.911936666666673,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -514,7 +535,9 @@
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
     "uid": "501c55b94d5349a3",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/firefly-armnn-v22.05-opencl/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 7.546878333333325,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -526,13 +549,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "firefly-armnn-v22.05-opencl",
-    "Result": null,
-    "Result_Power": 7.546878333333325,
-    "Result_Units": "Watts",
+    "Result": 13.0005,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Firefly-RK3588S (firefly)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "ARM Mali-G610 MP4",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -547,9 +569,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
-    "uid": "2f928ba9b44b4977",
+    "uid": "501c55b94d5349a3",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/firefly-armnn-v22.05-opencl/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 7.546878333333325,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -583,7 +607,9 @@
     "operating_system": "Ubuntu 18.04.6 LTS; kernel 4.9.241-77 #1 (Mon Mar 29 23:04:14 -03 2021)",
     "uid": "faf3399b036a45cc",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/odroid-armnn-v22.05-opencl/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 3.886931666666668,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -595,13 +621,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "odroid-armnn-v22.05-opencl",
-    "Result": null,
-    "Result_Power": 3.886931666666668,
-    "Result_Units": "Watts",
+    "Result": 3.8449,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Odroid N2+ (odroid)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "Arm Mali-G52 MP6 GPU",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -616,9 +641,11 @@
     "notes": "https://wiki.odroid.com/odroid-n2/software",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 18.04.6 LTS; kernel 4.9.241-77 #1 (Mon Mar 29 23:04:14 -03 2021)",
-    "uid": "589e4d54edd74496",
+    "uid": "faf3399b036a45cc",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/odroid-armnn-v22.05-opencl/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 3.886931666666668,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -652,7 +679,9 @@
     "operating_system": "Ubuntu 22.04; kernel rpi4 5.15.0-1011-raspi #13-Ubuntu SMP PREEMPT (Thu Jun 2 11:44:34 UTC 2022)",
     "uid": "f3ad0df6954346ab",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/rpi4-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 5.834781666666668,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -664,13 +693,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "rpi4-tflite-v2.7.1-ruy",
-    "Result": null,
-    "Result_Power": 5.834781666666668,
-    "Result_Units": "Watts",
+    "Result": 1.73836,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Raspberry Pi 4 Model B Rev 1.4 (rpi4)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -685,9 +713,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04; kernel rpi4 5.15.0-1011-raspi #13-Ubuntu SMP PREEMPT (Thu Jun 2 11:44:34 UTC 2022)",
-    "uid": "1c312c48976c4f17",
+    "uid": "f3ad0df6954346ab",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/rpi4-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 5.834781666666668,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -721,7 +751,9 @@
     "operating_system": "Ubuntu 22.04; kernel rpi4 5.15.0-1011-raspi #13-Ubuntu SMP PREEMPT (Thu Jun 2 11:44:34 UTC 2022)",
     "uid": "cea262104d2a4584",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/rpi4-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 5.81450833333333,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -733,13 +765,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "rpi4-armnn-v22.05-neon",
-    "Result": null,
-    "Result_Power": 5.81450833333333,
-    "Result_Units": "Watts",
+    "Result": 3.12482,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Raspberry Pi 4 Model B Rev 1.4 (rpi4)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -754,9 +785,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04; kernel rpi4 5.15.0-1011-raspi #13-Ubuntu SMP PREEMPT (Thu Jun 2 11:44:34 UTC 2022)",
-    "uid": "ce89034167a9447f",
+    "uid": "cea262104d2a4584",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/rpi4-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 5.81450833333333,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -790,7 +823,9 @@
     "operating_system": "Ubuntu 18.04.6 LTS; kernel 4.9.241-77 #1 (Mon Mar 29 23:04:14 -03 2021)",
     "uid": "2eda708e21b34010",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/odroid-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 5.138043333333333,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -802,13 +837,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "odroid-armnn-v22.05-neon",
-    "Result": null,
-    "Result_Power": 5.138043333333333,
-    "Result_Units": "Watts",
+    "Result": 2.94902,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Odroid N2+ (odroid)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -823,9 +857,11 @@
     "notes": "https://wiki.odroid.com/odroid-n2/software",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 18.04.6 LTS; kernel 4.9.241-77 #1 (Mon Mar 29 23:04:14 -03 2021)",
-    "uid": "e62f83acc70941a8",
+    "uid": "2eda708e21b34010",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/odroid-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 5.138043333333333,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -859,7 +895,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS; Linux orin 5.10.65-tegra #1 SMP PREEMPT (Mon May 16 20:58:07 PDT 2022)",
     "uid": "807e3dcad4ae4ef9",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/orin-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 32.84201666666667,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -871,13 +909,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "orin-tflite-v2.7.1-ruy",
-    "Result": null,
-    "Result_Power": 32.84201666666667,
-    "Result_Units": "Watts",
+    "Result": 20.4527,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Orin",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -892,9 +929,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS; Linux orin 5.10.65-tegra #1 SMP PREEMPT (Mon May 16 20:58:07 PDT 2022)",
-    "uid": "d48ab2671a4244a7",
+    "uid": "807e3dcad4ae4ef9",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/orin-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 32.84201666666667,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -928,7 +967,9 @@
     "operating_system": "Ubuntu 18.04.6 LTS; kernel 4.9.241-77 #1 (Mon Mar 29 23:04:14 -03 2021)",
     "uid": "0cd66ff8129f4cee",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/odroid-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 7.9845074875207995,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -940,13 +981,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "odroid-tflite-v2.7.1-ruy",
-    "Result": null,
-    "Result_Power": 7.9845074875207995,
-    "Result_Units": "Watts",
+    "Result": 3.56707,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Odroid N2+ (odroid)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -961,9 +1001,11 @@
     "notes": "https://wiki.odroid.com/odroid-n2/software",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 18.04.6 LTS; kernel 4.9.241-77 #1 (Mon Mar 29 23:04:14 -03 2021)",
-    "uid": "866b528ec5e34051",
+    "uid": "0cd66ff8129f4cee",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/odroid-tflite-v2.7.1-ruy/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 7.9845074875207995,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -997,7 +1039,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS; Linux orin 5.10.65-tegra #1 SMP PREEMPT (Mon May 16 20:58:07 PDT 2022)",
     "uid": "eb94a87d596943d5",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/orin-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 30.546400000000006,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -1009,13 +1053,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "orin-armnn-v22.05-neon",
-    "Result": null,
-    "Result_Power": 30.546400000000006,
-    "Result_Units": "Watts",
+    "Result": 31.268,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Orin",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -1030,9 +1073,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS; Linux orin 5.10.65-tegra #1 SMP PREEMPT (Mon May 16 20:58:07 PDT 2022)",
-    "uid": "1f12c3e0ee914109",
+    "uid": "eb94a87d596943d5",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Krai/results/orin-armnn-v22.05-neon/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 30.546400000000006,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.032,
@@ -1066,7 +1111,9 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "d526628e1e5a402d",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/resnet50/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 23.06324695121952,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.032,
@@ -1078,13 +1125,12 @@
     "Model": "resnet50",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 23.06324695121952,
-    "Result_Units": "Watts",
+    "Result": 3525.91,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Orin (MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -1099,9 +1145,11 @@
     "notes": "GPU and both DLAs are used in resnet50, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04",
-    "uid": "91afdbcdbecb4850",
+    "uid": "d526628e1e5a402d",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/resnet50/Offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 23.06324695121952,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.956,
@@ -1135,7 +1183,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS (kernel: 5.4.1-050401-generic #201911290555 SMP Fri Nov 29 11:03:47 UTC 2019)",
     "uid": "0f48b8f215c847f4",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Lenovo/results/se350-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 178.97102893890667,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.956,
@@ -1147,13 +1197,12 @@
     "Model": "resnet50",
     "Organization": "Lenovo",
     "Platform": "se350-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 178.97102893890667,
-    "Result_Units": "Watts",
+    "Result": 23311,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Lenovo ThinkSystem SE350 Edge Server (1x QAIC100 Pro)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -1168,9 +1217,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS (kernel: 5.4.1-050401-generic #201911290555 SMP Fri Nov 29 11:03:47 UTC 2019)",
-    "uid": "e47eb6a9f5d54a3d",
+    "uid": "0f48b8f215c847f4",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Lenovo/results/se350-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 178.97102893890667,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.956,
@@ -1204,7 +1255,9 @@
     "operating_system": "CentOS 7 (Linux kernel: 5.4.1-1.el7.elrepo.x86_64 #1 SMP Fri Nov 29 10:21:13 EST 2019 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "5969f6bfad8e4f56",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/r282_z93_q5e-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 547.5120615384618,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.956,
@@ -1216,13 +1269,12 @@
     "Model": "resnet50",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q5e-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 547.5120615384618,
-    "Result_Units": "Watts",
+    "Result": 106534,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Gigabyte R282-Z93 (5x QAIC100 Pro, EE)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 5,
     "compliance": 1,
@@ -1237,9 +1289,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "CentOS 7 (Linux kernel: 5.4.1-1.el7.elrepo.x86_64 #1 SMP Fri Nov 29 10:21:13 EST 2019 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "cf1693169edd40d3",
+    "uid": "5969f6bfad8e4f56",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/r282_z93_q5e-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 547.5120615384618,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -1273,7 +1327,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125 #1 SMP PREEMPT Tue Jan 11 22:26:27 UTC 2022)",
     "uid": "77e2ba6723464aad",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/gloria-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 25.44621649484538,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -1285,13 +1341,12 @@
     "Model": "resnet50",
     "Organization": "Qualcomm",
     "Platform": "gloria-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 25.44621649484538,
-    "Result_Units": "Watts",
+    "Result": 7293.49,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Foxconn Gloria (Entry)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -1306,9 +1361,11 @@
     "notes": "With 15W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125 #1 SMP PREEMPT Tue Jan 11 22:26:27 UTC 2022)",
-    "uid": "15cf6b551b3d48fa",
+    "uid": "77e2ba6723464aad",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/gloria-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 25.44621649484538,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -1342,7 +1399,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Wed Jun 8 17:13:04 UTC 2022)",
     "uid": "08cb25785e9f4fc0",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/gloria_highend-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 29.674939346811826,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -1354,13 +1413,12 @@
     "Model": "resnet50",
     "Organization": "Qualcomm",
     "Platform": "gloria_highend-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 29.674939346811826,
-    "Result_Units": "Watts",
+    "Result": 9224.17,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Foxconn Gloria (Highend)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -1375,9 +1433,11 @@
     "notes": "With 20W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Wed Jun 8 17:13:04 UTC 2022)",
-    "uid": "ece8c38957a24bd4",
+    "uid": "08cb25785e9f4fc0",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/gloria_highend-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 29.674939346811826,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -1411,7 +1471,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Fri May 6 18:00:47 CST 2022)",
     "uid": "7411b04464f84341",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/eb6-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 25.322699029126216,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -1423,13 +1485,12 @@
     "Model": "resnet50",
     "Organization": "Qualcomm",
     "Platform": "eb6-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 25.322699029126216,
-    "Result_Units": "Watts",
+    "Result": 7259.95,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Thundercomm TurboX EB6 Edge AI Box",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -1444,9 +1505,11 @@
     "notes": "With 15W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Fri May 6 18:00:47 CST 2022)",
-    "uid": "55d4ecd67e074bb5",
+    "uid": "7411b04464f84341",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/eb6-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 25.322699029126216,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -1480,7 +1543,9 @@
     "operating_system": "CentOS Linux release 8.0.1905 (kernel: 4.19.81-perf #1 SMP PREEMPT Thu Feb 24 03:59:56 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux)",
     "uid": "bd951438aef34344",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/heimdall-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 23.12454743390359,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -1492,13 +1557,12 @@
     "Model": "resnet50",
     "Organization": "Qualcomm",
     "Platform": "heimdall-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 23.12454743390359,
-    "Result_Units": "Watts",
+    "Result": 6875,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Inventec Heimdall",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -1513,9 +1577,11 @@
     "notes": "With 15W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "CentOS Linux release 8.0.1905 (kernel: 4.19.81-perf #1 SMP PREEMPT Thu Feb 24 03:59:56 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux)",
-    "uid": "9e01b49b956540e2",
+    "uid": "bd951438aef34344",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Qualcomm/results/heimdall-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 23.12454743390359,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.956,
@@ -1549,7 +1615,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "690ebe8501ff4e98",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/r7515_q4_std-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 472.0000000000005,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.956,
@@ -1561,13 +1629,12 @@
     "Model": "resnet50",
     "Organization": "Dell",
     "Platform": "r7515_q4_std-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 472.0000000000005,
-    "Result_Units": "Watts",
+    "Result": 79515.2,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge R7515 (4x QAIC100 Standard)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Standard",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -1582,9 +1649,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS (Linux kernel: 5.4.200-0504200-generic #202206221347 SMP Wed Jun 22 15:28:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "fe25ec4d72d14857",
+    "uid": "690ebe8501ff4e98",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/r7515_q4_std-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 472.0000000000005,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.956,
@@ -1618,7 +1687,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS",
     "uid": "91264c0d18f94f64",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/HPE/results/e920d_q4_std-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 450.9880733944957,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.956,
@@ -1630,13 +1701,12 @@
     "Model": "resnet50",
     "Organization": "HPE",
     "Platform": "e920d_q4_std-qaic-v1.7.1.12-aic100",
-    "Result": null,
-    "Result_Power": 450.9880733944957,
-    "Result_Units": "Watts",
+    "Result": 77652.4,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "HPE ProLiant e920d (4x QAIC100 Standard)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Standard",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -1651,9 +1721,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by MLCommons Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS",
-    "uid": "b5c59fef0bb7408c",
+    "uid": "91264c0d18f94f64",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/HPE/results/e920d_q4_std-qaic-v1.7.1.12-aic100/resnet50/offline",
-    "version": "v2.1"
+    "version": "v2.1",
+    "Result_Power": 450.9880733944957,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -1687,7 +1759,9 @@
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
     "uid": "a2f6385dd5eb4b32",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/vim4-armnn-v22.11-opencl/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 6.113678333333332,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -1699,13 +1773,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "vim4-armnn-v22.11-opencl",
-    "Result": null,
-    "Result_Power": 6.113678333333332,
-    "Result_Units": "Watts",
+    "Result": 6.79925,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Khadas VIM4 (vim4)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "ARM Mali G52MP8(8EE)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -1720,9 +1793,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
-    "uid": "be0d870e0cee4723",
+    "uid": "a2f6385dd5eb4b32",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/vim4-armnn-v22.11-opencl/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 6.113678333333332,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.99,
@@ -1756,7 +1831,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Fri May 6 18:00:47 CST 2022)",
     "uid": "c95decd7fd5646e3",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/eb6-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 24.111102719033244,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.99,
@@ -1768,13 +1845,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "eb6-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 24.111102719033244,
-    "Result_Units": "Watts",
+    "Result": 6777.19,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Thundercomm TurboX EB6 Edge AI Box",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -1789,9 +1865,11 @@
     "notes": "With 15W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Fri May 6 18:00:47 CST 2022)",
-    "uid": "4eb3fbba580f4e69",
+    "uid": "c95decd7fd5646e3",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/eb6-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 24.111102719033244,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.99,
@@ -1825,7 +1903,9 @@
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: rb6 4.19.125-perf #1 SMP PREEMPT Wed Sep 21 23:34:16 UTC 2022)",
     "uid": "5d0cea5ad4be4618",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/rb6-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 25.28518927444794,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.99,
@@ -1837,13 +1917,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "rb6-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 25.28518927444794,
-    "Result_Units": "Watts",
+    "Result": 7076.77,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Thundercomm RB6",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -1858,9 +1937,11 @@
     "notes": "With 15W Accelerator TDP constraints. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu Linux 18.04.6 LTS (kernel: rb6 4.19.125-perf #1 SMP PREEMPT Wed Sep 21 23:34:16 UTC 2022)",
-    "uid": "2eb4a070d6ca4e40",
+    "uid": "5d0cea5ad4be4618",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/rb6-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 25.28518927444794,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -1894,7 +1975,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS; Linux orin 5.10.65-tegra #1 SMP PREEMPT (Mon May 16 20:58:07 PDT 2022)",
     "uid": "35cd6746bff1461d",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/orin-tflite-v2.11.0-ruy/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 32.43948333333335,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -1906,13 +1989,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "orin-tflite-v2.11.0-ruy",
-    "Result": null,
-    "Result_Power": 32.43948333333335,
-    "Result_Units": "Watts",
+    "Result": 23.6633,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Orin",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -1927,9 +2009,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS; Linux orin 5.10.65-tegra #1 SMP PREEMPT (Mon May 16 20:58:07 PDT 2022)",
-    "uid": "9c46bd3c1ae14a69",
+    "uid": "35cd6746bff1461d",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/orin-tflite-v2.11.0-ruy/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 32.43948333333335,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -1963,7 +2047,9 @@
     "operating_system": "Ubuntu 20.04.4 LTS; Linux orin 5.10.65-tegra #1 SMP PREEMPT (Mon May 16 20:58:07 PDT 2022)",
     "uid": "ca1c49a1606d4fab",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/orin-armnn-v22.11-neon/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 29.689366666666647,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -1975,13 +2061,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "orin-armnn-v22.11-neon",
-    "Result": null,
-    "Result_Power": 29.689366666666647,
-    "Result_Units": "Watts",
+    "Result": 34.7753,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Orin",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -1996,9 +2081,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4 LTS; Linux orin 5.10.65-tegra #1 SMP PREEMPT (Mon May 16 20:58:07 PDT 2022)",
-    "uid": "17e1e5bcf89f4d05",
+    "uid": "ca1c49a1606d4fab",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/orin-armnn-v22.11-neon/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 29.689366666666647,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -2032,7 +2119,9 @@
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
     "uid": "008eff3a48f04332",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/vim4-tflite-v2.11.0-ruy/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 9.92539333333334,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -2044,13 +2133,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "vim4-tflite-v2.11.0-ruy",
-    "Result": null,
-    "Result_Power": 9.92539333333334,
-    "Result_Units": "Watts",
+    "Result": 4.69586,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Khadas VIM4 (vim4)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -2065,9 +2153,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
-    "uid": "bb589d6dcfab451c",
+    "uid": "008eff3a48f04332",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/vim4-tflite-v2.11.0-ruy/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 9.92539333333334,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -2101,7 +2191,9 @@
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
     "uid": "0e7dfb26b312450e",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/firefly-armnn-v22.11-neon/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 7.459471666666665,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -2113,13 +2205,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "firefly-armnn-v22.11-neon",
-    "Result": null,
-    "Result_Power": 7.459471666666665,
-    "Result_Units": "Watts",
+    "Result": 9.29121,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Firefly-RK3588S (firefly)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -2134,9 +2225,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
-    "uid": "31a99d1eedeb4737",
+    "uid": "0e7dfb26b312450e",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/firefly-armnn-v22.11-neon/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 7.459471666666665,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -2170,7 +2263,9 @@
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
     "uid": "868a339c684c4c12",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/firefly-armnn-v22.11-opencl/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 6.593046666666668,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -2182,13 +2277,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "firefly-armnn-v22.11-opencl",
-    "Result": null,
-    "Result_Power": 6.593046666666668,
-    "Result_Units": "Watts",
+    "Result": 12.2009,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Firefly-RK3588S (firefly)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "ARM Mali-G610 MP4",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -2203,9 +2297,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
-    "uid": "3736848ecf884be7",
+    "uid": "868a339c684c4c12",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/firefly-armnn-v22.11-opencl/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 6.593046666666668,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -2239,7 +2335,9 @@
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
     "uid": "6d2a344ca8fd4e20",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/vim4-armnn-v22.11-neon/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 7.59163666666667,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -2251,13 +2349,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "vim4-armnn-v22.11-neon",
-    "Result": null,
-    "Result_Power": 7.59163666666667,
-    "Result_Units": "Watts",
+    "Result": 5.14407,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Khadas VIM4 (vim4)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -2272,9 +2369,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.7 LTS; kernel 5.4.125 #1.0.11 (SMP PREEMPT Mon Jun 20 20:21:53 CST 2022)",
-    "uid": "3e641332097248e7",
+    "uid": "6d2a344ca8fd4e20",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/vim4-armnn-v22.11-neon/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 7.59163666666667,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -2308,7 +2407,9 @@
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
     "uid": "5700821d22df49ef",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/firefly-tflite-v2.11.0-ruy/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 11.377935108153087,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.442,
@@ -2320,13 +2421,12 @@
     "Model": "resnet50",
     "Organization": "Krai",
     "Platform": "firefly-tflite-v2.11.0-ruy",
-    "Result": null,
-    "Result_Power": 11.377935108153087,
-    "Result_Units": "Watts",
+    "Result": 8.7807,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Firefly-RK3588S (firefly)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "-",
     "accelerators_per_node": 0,
     "compliance": 1,
@@ -2341,9 +2441,11 @@
     "notes": "Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.7 LTS; kernel 5.10.66 #32 (SMP Fri Apr 22 16:37:15 CST 2022)",
-    "uid": "79b6deaa654849d8",
+    "uid": "5700821d22df49ef",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Krai/results/firefly-tflite-v2.11.0-ruy/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 11.377935108153087,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.036,
@@ -2377,7 +2479,9 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "4aae15001d0748fa",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/resnet50/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 22.6593553223388,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.036,
@@ -2389,13 +2493,12 @@
     "Model": "resnet50",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 22.6593553223388,
-    "Result_Units": "Watts",
+    "Result": 3463.11,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Orin (MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA Jetson AGX Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -2410,9 +2513,11 @@
     "notes": "GPU and both DLAs are used in resnet50 and Retinanet, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04",
-    "uid": "0b1bafbd184044c0",
+    "uid": "4aae15001d0748fa",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/resnet50/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 22.6593553223388,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -2446,7 +2551,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023)",
     "uid": "d1a08fc12ae64cdf",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Lenovo/results/se350_q1_pro-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 168.6772527472527,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -2458,13 +2565,12 @@
     "Model": "resnet50",
     "Organization": "Lenovo",
     "Platform": "se350_q1_pro-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 168.6772527472527,
-    "Result_Units": "Watts",
+    "Result": 24892.9,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Lenovo ThinkSystem SE350 Edge Server (1x QAIC100 Pro)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -2479,9 +2585,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by the KILT and CK technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023)",
-    "uid": "6a77fc25f8b94284",
+    "uid": "d1a08fc12ae64cdf",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Lenovo/results/se350_q1_pro-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 168.6772527472527,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -2515,7 +2623,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-136-generic #153-Ubuntu SMP Thu Nov 24 15:56:58 UTC 2022)",
     "uid": "ea05d71ad8324f0c",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Lenovo/results/se450_q4_lite-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 345.9038772455088,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -2527,13 +2637,12 @@
     "Model": "resnet50",
     "Organization": "Lenovo",
     "Platform": "se450_q4_lite-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 345.9038772455088,
-    "Result_Units": "Watts",
+    "Result": 46414.4,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Lenovo ThinkEdge SE450 Edge Server (4x QAIC100 Lite)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Lite",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -2548,9 +2657,11 @@
     "notes": "With 55W Accelerator TDP constraints. Powered by the KILT and CK technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-136-generic #153-Ubuntu SMP Thu Nov 24 15:56:58 UTC 2022)",
-    "uid": "48641f3e3b004520",
+    "uid": "ea05d71ad8324f0c",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Lenovo/results/se450_q4_lite-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 345.9038772455088,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.99,
@@ -2584,7 +2695,9 @@
     "operating_system": "Ubuntu 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Wed Jun 8 17:13:04 UTC 2022)",
     "uid": "922b8455807749fe",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/gloria_highend-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 31.227713405238834,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.99,
@@ -2596,13 +2709,12 @@
     "Model": "resnet50",
     "Organization": "Qualcomm",
     "Platform": "gloria_highend-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 31.227713405238834,
-    "Result_Units": "Watts",
+    "Result": 9853.79,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Foxconn Gloria (Highend)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -2617,9 +2729,11 @@
     "notes": "With 20W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 18.04.6 LTS (kernel: 4.19.125-perf #1 SMP PREEMPT Wed Jun 8 17:13:04 UTC 2022)",
-    "uid": "c3f5dd7106a143c0",
+    "uid": "922b8455807749fe",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/gloria_highend-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 31.227713405238834,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.99,
@@ -2653,7 +2767,9 @@
     "operating_system": "Ubuntu 18.04.6 LTS (Linux kernel: 4.19.125-perf #1 SMP PREEMPT Tue Apr 19 06:20:02 UTC 2022)",
     "uid": "923bcc460b3040bb",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/gloria-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 24.757999999999978,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.99,
@@ -2665,13 +2781,12 @@
     "Model": "resnet50",
     "Organization": "Qualcomm",
     "Platform": "gloria-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 24.757999999999978,
-    "Result_Units": "Watts",
+    "Result": 6941.08,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Foxconn Gloria (Entry)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -2686,9 +2801,11 @@
     "notes": "With 15W Accelerator TDP constraints; optional 5G and SSD modules not installed. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 18.04.6 LTS (Linux kernel: 4.19.125-perf #1 SMP PREEMPT Tue Apr 19 06:20:02 UTC 2022)",
-    "uid": "88ec2c3bc097481e",
+    "uid": "923bcc460b3040bb",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/gloria-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 24.757999999999978,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.99,
@@ -2722,7 +2839,9 @@
     "operating_system": "CentOS Linux release 8.0.1905 (kernel: 4.19.81-perf #1 SMP PREEMPT Thu Feb 24 03:59:56 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux)",
     "uid": "ae23db58398a43e3",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/heimdall-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 23.771508553654762,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.99,
@@ -2734,13 +2853,12 @@
     "Model": "resnet50",
     "Organization": "Qualcomm",
     "Platform": "heimdall-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 23.771508553654762,
-    "Result_Units": "Watts",
+    "Result": 6771.21,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Inventec Heimdall",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 DM.2e",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -2755,9 +2873,11 @@
     "notes": "With 15W Accelerator TDP constraints. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "CentOS Linux release 8.0.1905 (kernel: 4.19.81-perf #1 SMP PREEMPT Thu Feb 24 03:59:56 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux)",
-    "uid": "e7b2157c77294ebc",
+    "uid": "ae23db58398a43e3",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/heimdall-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 23.771508553654762,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -2791,7 +2911,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-125-generic #141-Ubuntu SMP Wed Aug 10 13:42:03 UTC 2022)",
     "uid": "19239c3059834818",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/r282_z93_q5e-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 516.559310872894,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -2803,13 +2925,12 @@
     "Model": "resnet50",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q5e-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 516.559310872894,
-    "Result_Units": "Watts",
+    "Result": 106203,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "GIGABYTE R282-Z93 (5x QAIC100 Pro, EE)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 5,
     "compliance": 1,
@@ -2824,9 +2945,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-125-generic #141-Ubuntu SMP Wed Aug 10 13:42:03 UTC 2022)",
-    "uid": "e9732d91b0584b9f",
+    "uid": "19239c3059834818",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Qualcomm/results/r282_z93_q5e-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 516.559310872894,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.698,
@@ -2860,7 +2983,9 @@
     "operating_system": "Yocto Poky Linux 3.4.4",
     "uid": "45d2f97a8e984a05",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/SiMa/results/davinci_dualm2/resnet50/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 16.106596518987345,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.698,
@@ -2872,13 +2997,12 @@
     "Model": "resnet50",
     "Organization": "SiMa",
     "Platform": "davinci_dualm2",
-    "Result": null,
-    "Result_Power": 16.106596518987345,
-    "Result_Units": "Watts",
+    "Result": 2190.27,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "MLSOC DualM.2 Evaluation Kit",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "MLSOC DualM.2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -2893,9 +3017,11 @@
     "notes": "Dual M.2 + Carrier Card",
     "number_of_nodes": 1,
     "operating_system": "Yocto Poky Linux 3.4.4",
-    "uid": "dfe135198c2c4bed",
+    "uid": "45d2f97a8e984a05",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/SiMa/results/davinci_dualm2/resnet50/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 16.106596518987345,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -2929,7 +3055,9 @@
     "operating_system": "Ubuntu 22.04.2 LTS (Linux kernel: 5.15.0-60-generic #66-Ubuntu SMP Fri Jan 20 14:29:49 UTC 2023)",
     "uid": "7fdcf952f54a4e36",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/xr4520c_q2_lite-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 189.13359090909123,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -2941,13 +3069,12 @@
     "Model": "resnet50",
     "Organization": "Dell",
     "Platform": "xr4520c_q2_lite-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 189.13359090909123,
-    "Result_Units": "Watts",
+    "Result": 23579.6,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge XR4520c (2x QAIC100 Lite)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Lite",
     "accelerators_per_node": 2,
     "compliance": 1,
@@ -2962,9 +3089,11 @@
     "notes": "With 55W Accelerator TDP constraints; Accelerator TDP ranges 35-55W.. Powered by the KILT and CK technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.2 LTS (Linux kernel: 5.15.0-60-generic #66-Ubuntu SMP Fri Jan 20 14:29:49 UTC 2023)",
-    "uid": "57687ae3544043e7",
+    "uid": "7fdcf952f54a4e36",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/xr4520c_q2_lite-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 189.13359090909123,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.158,
@@ -2998,7 +3127,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "9b288e694d0b45e8",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR5610_L4x1_TRT_MaxQ/resnet50/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 634.0145132743355,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.158,
@@ -3010,13 +3141,12 @@
     "Model": "resnet50",
     "Organization": "Dell",
     "Platform": "XR5610_L4x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 634.0145132743355,
-    "Result_Units": "Watts",
+    "Result": 12657.8,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge XR5610 (1x L4, MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA L4",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -3031,9 +3161,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "ce47c329b00d4045",
+    "uid": "9b288e694d0b45e8",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR5610_L4x1_TRT_MaxQ/resnet50/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 634.0145132743355,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76,
@@ -3067,7 +3199,9 @@
     "operating_system": "Ubuntu 22.04",
     "uid": "391421a0d97347ae",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR4520c_MaxQ_A2x1_TRT_MaxQ/resnet50/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 168.6572479564033,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76,
@@ -3079,13 +3213,12 @@
     "Model": "resnet50",
     "Organization": "Dell",
     "Platform": "XR4520c_MaxQ_A2x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 168.6572479564033,
-    "Result_Units": "Watts",
+    "Result": 2788.15,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "Dell PowerEdge XR4520c (1x A2, MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA A2",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -3100,9 +3233,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04",
-    "uid": "4a398f3f70654972",
+    "uid": "391421a0d97347ae",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR4520c_MaxQ_A2x1_TRT_MaxQ/resnet50/Offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 168.6572479564033,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.03,
@@ -3136,7 +3271,9 @@
     "operating_system": "Ubuntu 20.04 (linux-5.10.65-tegra-glibc2.31)",
     "uid": "d4bb0510836844f9",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/cTuning/results/nvidia_orin-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 70.22577531645575,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.03,
@@ -3148,13 +3285,12 @@
     "Model": "resnet50",
     "Organization": "cTuning",
     "Platform": "nvidia_orin-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 70.22577531645575,
-    "Result_Units": "Watts",
+    "Result": 4697.31,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "NVIDIA Jetson AGX Orin (TensorRT)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA Jetson AGX Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -3169,9 +3305,11 @@
     "notes": "GPU and both DLAs are used in ResNet50. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-5.10.65-tegra-glibc2.31)",
-    "uid": "bc50d5c3a1f745df",
+    "uid": "d4bb0510836844f9",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/cTuning/results/nvidia_orin-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 70.22577531645575,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.082,
@@ -3205,7 +3343,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "5f0978b3746943f7",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 603.5295522388069,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 76.082,
@@ -3217,13 +3357,12 @@
     "Model": "resnet50",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 603.5295522388069,
-    "Result_Units": "Watts",
+    "Result": 36427.9,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "NVIDIA GeForce RTX 4090 (Ada Lovelace)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -3238,9 +3377,11 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "3b28d35458174365",
+    "uid": "5f0978b3746943f7",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 603.5295522388069,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -3274,7 +3415,9 @@
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023)",
     "uid": "fc10918c3d974c42",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/HPE/results/e920d_q4_std-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 426.60129129129126,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 75.94,
@@ -3286,13 +3429,12 @@
     "Model": "resnet50",
     "Organization": "HPE",
     "Platform": "e920d_q4_std-qaic-v1.8.3.7-aic100",
-    "Result": null,
-    "Result_Power": 426.60129129129126,
-    "Result_Units": "Watts",
+    "Result": 79213.4,
+    "Result_Units": "Samples/s",
     "Scenario": "Offline",
     "SystemName": "HPE ProLiant e920d (4x QAIC100 Standard)",
     "SystemType": "edge",
-    "Units": "Watts",
+    "Units": "Samples/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Standard",
     "accelerators_per_node": 4,
     "compliance": 1,
@@ -3307,8 +3449,10 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by Collective Knowledge v2.6.1",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.5 LTS (Linux kernel: 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023)",
-    "uid": "a664ed53832f485a",
+    "uid": "fc10918c3d974c42",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/HPE/results/e920d_q4_std-qaic-v1.8.3.7-aic100/resnet50/offline",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 426.60129129129126,
+    "Result_Power_Units": "Watts"
   }
 ]

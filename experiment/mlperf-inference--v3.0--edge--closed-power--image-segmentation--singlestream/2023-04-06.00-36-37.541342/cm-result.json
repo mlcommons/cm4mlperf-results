@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "086bf860959e42f9",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/3d-unet-99.9/SingleStream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 72545.18122023939,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86246,
@@ -43,13 +45,12 @@
     "Model": "3d-unet-99.9",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 72545.18122023939,
-    "Result_Units": "millijoules",
+    "Result": 5134.746701,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "NVIDIA Jetson AGX Orin (MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA Jetson AGX Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "GPU and both DLAs are used in resnet50 and Retinanet, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04",
-    "uid": "036f75eff004418c",
+    "uid": "086bf860959e42f9",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/3d-unet-99.9/SingleStream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 72545.18122023939,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86246,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "0f877ece21134b3e",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/3d-unet-99/SingleStream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 72545.18122023939,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86246,
@@ -112,13 +117,12 @@
     "Model": "3d-unet-99",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 72545.18122023939,
-    "Result_Units": "millijoules",
+    "Result": 5134.746701,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "NVIDIA Jetson AGX Orin (MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA Jetson AGX Orin",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "GPU and both DLAs are used in resnet50 and Retinanet, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04",
-    "uid": "5674ec31493f47cd",
+    "uid": "0f877ece21134b3e",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/3d-unet-99/SingleStream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 72545.18122023939,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86242,
@@ -169,7 +175,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "bc58231346ab401a",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR5610_L4x1_TRT_MaxQ/3d-unet-99.9/SingleStream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 597150.0453127403,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86242,
@@ -181,13 +189,12 @@
     "Model": "3d-unet-99.9",
     "Organization": "Dell",
     "Platform": "XR5610_L4x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 597150.0453127403,
-    "Result_Units": "millijoules",
+    "Result": 1838.580378,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Dell PowerEdge XR5610 (1x L4, MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA L4",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "85beae1d013d4673",
+    "uid": "bc58231346ab401a",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR5610_L4x1_TRT_MaxQ/3d-unet-99.9/SingleStream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 597150.0453127403,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86242,
@@ -238,7 +247,9 @@
     "operating_system": "CentOS 8.2",
     "uid": "11201b72879c44b2",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR5610_L4x1_TRT_MaxQ/3d-unet-99/SingleStream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 597150.0453127403,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86242,
@@ -250,13 +261,12 @@
     "Model": "3d-unet-99",
     "Organization": "Dell",
     "Platform": "XR5610_L4x1_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 597150.0453127403,
-    "Result_Units": "millijoules",
+    "Result": 1838.580378,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Dell PowerEdge XR5610 (1x L4, MaxQ, TensorRT)",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA L4",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -271,9 +281,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "CentOS 8.2",
-    "uid": "722fedf3338f4649",
+    "uid": "11201b72879c44b2",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/Dell/results/XR5610_L4x1_TRT_MaxQ/3d-unet-99/SingleStream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 597150.0453127403,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86242,
@@ -307,7 +319,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "a4ec09548aa2444f",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/3d-unet-99.9/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 130504.52729425386,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86242,
@@ -319,13 +333,12 @@
     "Model": "3d-unet-99.9",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 130504.52729425386,
-    "Result_Units": "millijoules",
+    "Result": 432.145395,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA GeForce RTX 4090 (Ada Lovelace)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -340,9 +353,11 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "e6fffeb37bc04aa6",
+    "uid": "a4ec09548aa2444f",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/3d-unet-99.9/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 130504.52729425386,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86242,
@@ -376,7 +391,9 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "a54c1bdd792347d7",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/3d-unet-99/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 130492.83587927738,
+    "Result_Power_Units": "millijoules"
   },
   {
     "Accuracy": 0.86242,
@@ -388,13 +405,12 @@
     "Model": "3d-unet-99",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
-    "Result": null,
-    "Result_Power": 130492.83587927738,
-    "Result_Units": "millijoules",
+    "Result": 431.621085,
+    "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
     "SystemType": "edge",
-    "Units": "millijoules",
+    "Units": "Latency (ms)",
     "accelerator_model_name": "NVIDIA GeForce RTX 4090 (Ada Lovelace)",
     "accelerators_per_node": 1,
     "compliance": 1,
@@ -409,8 +425,10 @@
     "notes": "Result donated by GATE Overflow Educational Foundation. Powered by MLCommons Collective Mind framework (CK2). ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
-    "uid": "4515cff910c24265",
+    "uid": "a54c1bdd792347d7",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/closed/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/3d-unet-99/singlestream",
-    "version": "v3.0"
+    "version": "v3.0",
+    "Result_Power": 130492.83587927738,
+    "Result_Power_Units": "millijoules"
   }
 ]
