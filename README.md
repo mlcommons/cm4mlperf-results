@@ -6,7 +6,7 @@ for the [Collective Knowledge Playground](https://github.com/mlcommons/ck/tree/m
 
 For benchmark code and rules please see the [GitHub repository](https://github.com/mlcommons/inference).
 
-#  How to re-generate
+# How to re-generate
 
 Install [MLCommons CM framework](https://github.com/mlcommons/ck/blob/master/docs/installation.md).
 
@@ -33,3 +33,42 @@ cm run script "gui _playground"
 ```
 
 These results are also available in the [public CK playground](https://x.cKnowledge.org).
+
+# How to update 
+
+You can use this repository to fix, update and improve experimental results
+by calculating and adding derived metrics (performance/watt)
+or links to reproducibility reports that will be visible in a CK Playground GUI.
+
+Install [MLCommons CM framework](https://github.com/mlcommons/ck/blob/master/docs/installation.md).
+
+Pull CM repository with automation recipes and with MLPerf results in the CM format:
+```bash
+cm pull repo mlcommons@ck
+cm pull repo mlcommons@cm_inference_results
+```
+
+Find CM entries with MLPerf v3.0 experiments from CMD:
+```bash
+cm find experiment --tags=mlperf-inference,v3.0
+```
+
+Find CM entries with MLPerf v3.0 experiments from Python:
+```python
+import cmind
+
+r = cmind.access({'action':'find',
+                  'automation':'experiment,a0a2d123ef064bcb',
+                  'tags':'mlperf-inference,v3.0'})
+
+if r['return']>0: cmind.error(r)
+
+lst = r['list']
+
+for experiment in lst:
+    print (experiment.path)
+```
+
+# Contacts
+
+This project is maintained by the [MLCommons taskforce on automation and reproducibility](https://cKnowledge.org/mlcommons-taskforce).
