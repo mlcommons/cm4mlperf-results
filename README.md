@@ -7,7 +7,7 @@ being developed by the [MLCommons taskforce on automation and reproducibility](h
 
 It makes it easier to analyze MLPerf inference results, add derived metrics such as performance/Watt and constraints,
 and link reproducibility reports as shown in these examples:
-* [Power efficiency to compare Qualcomm and Nvidia devices](https://cKnowledge.org/mlcommons-mlperf-inference-gui-derived-metrics-and-conditions)
+* [Power efficiency to compare Qualcomm, Nvidia and Sima.ai devices](https://cKnowledge.org/mlcommons-mlperf-inference-gui-derived-metrics-and-conditions)
 * [Reproducibility report for Nvidia Orin](https://access.cknowledge.org/playground/?action=experiments&name=mlperf-inference--v3.0--edge--closed--image-classification--offline&result_uid=3751b230c800434a)
 
 For benchmark code and rules please see the [GitHub repository](https://github.com/mlcommons/inference).
