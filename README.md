@@ -1,12 +1,18 @@
 #  MLPerf™ Inference Results in the MLCommons CM format
 
-This is the repository containing results of the MLPerf™ Inference benchmark 
+This is the repository containing aggregated results of the MLPerf™ Inference benchmark 
 in the [MLCommons CM format](https://github.com/mlcommons/ck)
-for the [Collective Knowledge Playground](https://github.com/mlcommons/ck/tree/master/platform)
+for the [Collective Knowledge Playground](https://x.cKnowledge.org)
+being developed by the [MLCommons taskforce on automation and reproducibility](https://cKnowledge.org/mlcommons-taskforce).
+
+It makes it easier to analyze MLPerf inference results, add derived metrics such as performance/Watt and constraints,
+and link reproducibility reports as shown in these examples:
+* [Power efficiency to compare Qualcomm and Nvidia devices](https://cKnowledge.org/mlcommons-mlperf-inference-gui-derived-metrics-and-conditions)
+* [Reproducibility report for Nvidia Orin](https://access.cknowledge.org/playground/?action=experiments&name=mlperf-inference--v3.0--edge--closed--image-classification--offline&result_uid=3751b230c800434a)
 
 For benchmark code and rules please see the [GitHub repository](https://github.com/mlcommons/inference).
 
-# How to re-generate
+## How to import raw MLPerf results to CK/CM format
 
 Install [MLCommons CM framework](https://github.com/mlcommons/ck/blob/master/docs/installation.md).
 
@@ -34,7 +40,9 @@ cm run script "gui _playground"
 
 These results are also available in the [public CK playground](https://x.cKnowledge.org).
 
-# How to update 
+## How to update MLPerf results for the CK playground
+
+### Using your own python script
 
 You can use this repository to fix, update and improve experimental results
 by calculating and adding derived metrics (performance/watt)
@@ -69,6 +77,16 @@ for experiment in lst:
     print (experiment.path)
 ```
 
+### Using CM script
+
+We created a [sample CM script](script/process-mlperf-inference-results) in this repository 
+that you can use and [extend](script/process-mlperf-inference-results/customize.py) to add derived metrics:
+
+```bash
+cm run script "process mlperf-inference results" --experiment_tags=mlperf-inference,v3.0
+```
+
 # Contacts
 
 This project is maintained by the [MLCommons taskforce on automation and reproducibility](https://cKnowledge.org/mlcommons-taskforce).
+Join our [Discord server](https://discord.gg/JjWNWXKxwT) to ask questions, provide your feedback and participate in further developments.
