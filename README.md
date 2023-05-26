@@ -1,48 +1,35 @@
 #  MLPerf™ Inference Results in the MLCommons CM format
 
-This is the repository containing aggregated results of the MLPerf™ Inference benchmark 
-in the [MLCommons CM format](https://github.com/mlcommons/ck)
+This is the repository containing aggregated results of the [MLPerf™ Inference benchmark]( https://github.com/mlcommons/inference )
+and the [TinyMLPerf benchmark](https://github.com/mlcommons/tiny) in the [MLCommons CM format](https://github.com/mlcommons/ck)
 for the [Collective Knowledge Playground](https://x.cKnowledge.org)
 being developed by the [MLCommons taskforce on automation and reproducibility](https://cKnowledge.org/mlcommons-taskforce).
 
-It makes it easier to analyze MLPerf inference results, add derived metrics such as performance/Watt and constraints,
+The goal is to make it easier for the community to analyze MLPerf inference results, 
+add derived metrics such as performance/Watt and constraints,
 and link reproducibility reports as shown in these examples:
 * [Power efficiency to compare Qualcomm, Nvidia and Sima.ai devices](https://cKnowledge.org/mlcommons-mlperf-inference-gui-derived-metrics-and-conditions)
 * [Reproducibility report for Nvidia Orin](https://access.cknowledge.org/playground/?action=experiments&name=mlperf-inference--v3.0--edge--closed--image-classification--offline&result_uid=3751b230c800434a)
 
-For benchmark code and rules please see the [GitHub repository](https://github.com/mlcommons/inference).
-
-## How to import raw MLPerf results to CK/CM format
+# How to import raw MLPerf results to CK/CM format
 
 Install [MLCommons CM framework](https://github.com/mlcommons/ck/blob/master/docs/installation.md).
 
-Pull CM repository with automation recipes:
-```bash
-cm pull repo mlcommons@ck
-```
+## MLPerf inference benchmark results
 
-Install repositories with raw MLPerf inference benchmark results:
-```bash
-cm run script "get git repo _repo.https://github.com/mlcommons/inference_results_v2.0" --env.CM_GIT_CHECKOUT=master --extra_cache_tags=mlperf-inference-results,version-2.0
-cm run script "get git repo _repo.https://github.com/mlcommons/inference_results_v2.1" --env.CM_GIT_CHECKOUT=master --extra_cache_tags=mlperf-inference-results,version-2.1
-cm run script "get git repo _repo.https://github.com/mlcommons/inference_results_v3.0" --env.CM_GIT_CHECKOUT=main --extra_cache_tags=mlperf-inference-results,version-3.0
-```
+Follow this [README](https://github.com/mlcommons/ck/blob/master/cm-mlops/script/import-mlperf-inference-to-experiment/README-extra.md) from the related CM automations script.
 
-Convert raw MLPerf results into CM experiment entries:
-```bash
-cm run script "import mlperf inference to-experiment" 
-```
+You can see aggregated results [here](https://access.cknowledge.org/playground/?action=experiments&tags=mlperf-inference,all).
 
-Visualize results on your local machine via CK playground GUI:
-```bash
-cm run script "gui _playground"
-```
+## TinyMLPerf benchmark results
 
-These results are also available in the [public CK playground](https://x.cKnowledge.org).
+Follow this [README](https://github.com/mlcommons/ck/blob/master/cm-mlops/script/import-mlperf-tiny-to-experiment/README-extra.md) from the related CM automations script.
 
-## How to update MLPerf results for the CK playground
+You can see aggregated results [here](https://access.cknowledge.org/playground/?action=experiments&tags=mlperf-tiny,all).
 
-### Using your own python script
+## How to update this repository with new results
+
+### Using your own Python script
 
 You can use this repository to fix, update and improve experimental results
 by calculating and adding derived metrics (performance/watt)
@@ -86,7 +73,8 @@ that you can use and [extend](script/process-mlperf-inference-results/customize.
 cm run script "process mlperf-inference results" --experiment_tags=mlperf-inference,v3.0
 ```
 
-# Contacts
+
+# Contact us
 
 This project is maintained by the [MLCommons taskforce on automation and reproducibility](https://cKnowledge.org/mlcommons-taskforce).
 Join our [Discord server](https://discord.gg/JjWNWXKxwT) to ask questions, provide your feedback and participate in further developments.
