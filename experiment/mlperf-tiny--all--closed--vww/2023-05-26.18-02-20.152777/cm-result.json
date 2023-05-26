@@ -48,7 +48,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/Andes",
     "median_throughput": 3.374,
     "median_throughput_metric": "inf./sec.",
-    "uid": "1ca12600a486431a",
+    "uid": "8f71a2dee3f14c6b",
     "version": "v0.7"
   },
   {
@@ -100,7 +100,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/Andes",
     "median_throughput": 4.433,
     "median_throughput_metric": "inf./sec.",
-    "uid": "7bd8d8fe7efd49eb",
+    "uid": "7f63233825664f04",
     "version": "v0.7"
   },
   {
@@ -152,7 +152,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/plumerai",
     "median_throughput": 5.0,
     "median_throughput_metric": "inf./sec.",
-    "uid": "25c4bb0eb80b4cba",
+    "uid": "0841c0a134e7426e",
     "version": "v0.7"
   },
   {
@@ -204,7 +204,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/plumerai",
     "median_throughput": 16.836,
     "median_throughput_metric": "inf./sec.",
-    "uid": "9177ea7668da4602",
+    "uid": "afaf14af3c984164",
     "version": "v0.7"
   },
   {
@@ -256,7 +256,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/plumerai",
     "median_throughput": 4.537,
     "median_throughput_metric": "inf./sec.",
-    "uid": "5616b87f60f64128",
+    "uid": "b97bcde60c2a4313",
     "version": "v0.7"
   },
   {
@@ -313,7 +313,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 6.159,
     "median_throughput_metric": "inf./sec.",
-    "uid": "9d2a3a468bdc4992",
+    "uid": "19d44f187e8b440d",
     "version": "v0.7"
   },
   {
@@ -370,7 +370,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 4.024,
     "median_throughput_metric": "inf./sec.",
-    "uid": "8870e63251a242f7",
+    "uid": "168f9a4e1d774d5d",
     "version": "v0.7"
   },
   {
@@ -422,7 +422,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/silicon_labs",
     "median_throughput": 5.371,
     "median_throughput_metric": "inf./sec.",
-    "uid": "89de6a570cd34e3d",
+    "uid": "50fd0b3e4c52456b",
     "version": "v0.7"
   },
   {
@@ -479,7 +479,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 15.533,
     "median_throughput_metric": "inf./sec.",
-    "uid": "a6f983d5260f402c",
+    "uid": "5a374a89990e47b6",
     "version": "v0.7"
   },
   {
@@ -536,7 +536,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 6.595,
     "median_throughput_metric": "inf./sec.",
-    "uid": "50e55f8de2384e99",
+    "uid": "02ee115d785f4f29",
     "version": "v0.7"
   },
   {
@@ -593,7 +593,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 3.927,
     "median_throughput_metric": "inf./sec.",
-    "uid": "0e5e6719cbc24e75",
+    "uid": "35ac238910a64681",
     "version": "v0.7"
   },
   {
@@ -642,7 +642,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 577.028,
     "median_throughput_metric": "inf./sec.",
-    "uid": "2bd9ef5545614b57",
+    "uid": "8641afdab3ce4f82",
     "version": "v1.0"
   },
   {
@@ -691,7 +691,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 889.048,
     "median_throughput_metric": "inf./sec.",
-    "uid": "bfe6a125b9e94b20",
+    "uid": "b3d70b1acd8c466c",
     "version": "v1.0"
   },
   {
@@ -748,7 +748,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/OctoML",
     "median_throughput": 4.31,
     "median_throughput_metric": "inf./sec.",
-    "uid": "0708f749a0f146db",
+    "uid": "1d37255ba9664e09",
     "version": "v1.0"
   },
   {
@@ -809,7 +809,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 3.32,
     "median_throughput_metric": "inf./sec.",
-    "uid": "d9b1f047e7c848f7",
+    "uid": "72b55f8774874106",
     "version": "v1.0"
   },
   {
@@ -867,7 +867,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 2.971,
     "median_throughput_metric": "inf./sec.",
-    "uid": "9e67727ce6754a6a",
+    "uid": "711e49bd9bc14eb2",
     "version": "v1.0"
   },
   {
@@ -919,7 +919,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/plumerai",
     "median_throughput": 9.342,
     "median_throughput_metric": "inf./sec.",
-    "uid": "f0fa116c438349a3",
+    "uid": "6566ffc394f84e4e",
     "version": "v1.0"
   },
   {
@@ -971,7 +971,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/plumerai",
     "median_throughput": 5.196,
     "median_throughput_metric": "inf./sec.",
-    "uid": "d86cce311cc84f25",
+    "uid": "d86d46d585c7451a",
     "version": "v1.0"
   },
   {
@@ -1023,7 +1023,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/plumerai",
     "median_throughput": 17.535,
     "median_throughput_metric": "inf./sec.",
-    "uid": "3409362f8b364473",
+    "uid": "b4c659d7c29e4492",
     "version": "v1.0"
   },
   {
@@ -1075,7 +1075,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/plumerai",
     "median_throughput": 4.795,
     "median_throughput_metric": "inf./sec.",
-    "uid": "c27ac5bda5124678",
+    "uid": "86e16a9420e046b0",
     "version": "v1.0"
   },
   {
@@ -1127,7 +1127,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/silicon_labs",
     "median_throughput": 8.959,
     "median_throughput_metric": "inf./sec.",
-    "uid": "6f510226b24145b3",
+    "uid": "521032d9953044d3",
     "version": "v1.0"
   },
   {
@@ -1184,7 +1184,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 19.722,
     "median_throughput_metric": "inf./sec.",
-    "uid": "ad6617d3ba744c55",
+    "uid": "650dbe0e8107452c",
     "version": "v1.0"
   },
   {
@@ -1241,7 +1241,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 7.496,
     "median_throughput_metric": "inf./sec.",
-    "uid": "42d91fb6f8324737",
+    "uid": "959cabc8cc9e462f",
     "version": "v1.0"
   },
   {
@@ -1298,7 +1298,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 4.339,
     "median_throughput_metric": "inf./sec.",
-    "uid": "feee5dfffe5346db",
+    "uid": "194bab58caa44ee1",
     "version": "v1.0"
   },
   {
@@ -1355,7 +1355,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 78.6,
     "median_throughput_metric": "inf./sec.",
-    "uid": "9199998f350a4214",
+    "uid": "f1d6181be3644e7b",
     "version": "v1.0"
   },
   {
@@ -1412,7 +1412,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 243.883,
     "median_throughput_metric": "inf./sec.",
-    "uid": "83f362a869534827",
+    "uid": "19630b2738444490",
     "version": "v1.0"
   }
 ]

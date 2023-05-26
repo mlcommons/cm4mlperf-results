@@ -48,7 +48,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/Andes",
     "median_throughput": 12.523,
     "median_throughput_metric": "inf./sec.",
-    "uid": "5ea570d865434336",
+    "uid": "3b8467433d754f09",
     "version": "v0.7"
   },
   {
@@ -100,7 +100,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/Andes",
     "median_throughput": 14.639,
     "median_throughput_metric": "inf./sec.",
-    "uid": "3e8953b49bae45b7",
+    "uid": "f5ac6273ed104e09",
     "version": "v0.7"
   },
   {
@@ -152,7 +152,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/plumerai",
     "median_throughput": 15.707,
     "median_throughput_metric": "inf./sec.",
-    "uid": "32ac43523b824bd8",
+    "uid": "852fb624035845bb",
     "version": "v0.7"
   },
   {
@@ -204,7 +204,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/plumerai",
     "median_throughput": 51.139,
     "median_throughput_metric": "inf./sec.",
-    "uid": "d04f5ba2df8e4ef5",
+    "uid": "2e9e23235ed44866",
     "version": "v0.7"
   },
   {
@@ -256,7 +256,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/plumerai",
     "median_throughput": 13.597,
     "median_throughput_metric": "inf./sec.",
-    "uid": "80e4b13906ea44d5",
+    "uid": "664a8417fe734887",
     "version": "v0.7"
   },
   {
@@ -313,7 +313,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 19.774,
     "median_throughput_metric": "inf./sec.",
-    "uid": "983d4b8183d14186",
+    "uid": "7cb991b83e8f4bd5",
     "version": "v0.7"
   },
   {
@@ -370,7 +370,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 12.218,
     "median_throughput_metric": "inf./sec.",
-    "uid": "f6f0a31902f54c7f",
+    "uid": "003aa98f3af34651",
     "version": "v0.7"
   },
   {
@@ -422,7 +422,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/closed/silicon_labs",
     "median_throughput": 15.852,
     "median_throughput_metric": "inf./sec.",
-    "uid": "422fea04b7f948b1",
+    "uid": "582fa544250047ac",
     "version": "v0.7"
   },
   {
@@ -479,7 +479,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 44.863,
     "median_throughput_metric": "inf./sec.",
-    "uid": "9e632bbaff2f402d",
+    "uid": "d2dee1f675534588",
     "version": "v0.7"
   },
   {
@@ -536,7 +536,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 18.244,
     "median_throughput_metric": "inf./sec.",
-    "uid": "040a86499d284de5",
+    "uid": "834cdb3c15bd46e7",
     "version": "v0.7"
   },
   {
@@ -593,7 +593,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 10.241,
     "median_throughput_metric": "inf./sec.",
-    "uid": "5ed9603d17fb4568",
+    "uid": "76a9a8a71788436e",
     "version": "v0.7"
   },
   {
@@ -650,7 +650,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 231.788,
     "median_throughput_metric": "inf./sec.",
-    "uid": "a4f1697ab4e04a61",
+    "uid": "6e2b87b45f78433d",
     "version": "v0.7"
   },
   {
@@ -707,8 +707,106 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 558.359,
     "median_throughput_metric": "inf./sec.",
-    "uid": "ce731ffe29894353",
+    "uid": "335ec3223fa1405b",
     "version": "v0.7"
+  },
+  {
+    "Accelerator": "NE16",
+    "Accelerator memory type and capacity": "Same as SoC",
+    "Accelerator storage type and capacity": "Same as SoC",
+    "Accelerator(s) Frequencies": "N/A",
+    "Accuracy": 90.0,
+    "Benchmark": "kws",
+    "Board Name": "GAP9 EVK",
+    "Division": "closed",
+    "General Compiler(s)": "RISCV GCC with custom extensions",
+    "Hardware Notes": "VIN = 1.8V, VDDIO = 1.8V",
+    "Inference Framework": "N/A",
+    "Number of Processor(s)": "1 + 9",
+    "Operating System ": "FreeRTOS",
+    "Organization": "greenwaves-technologies",
+    "Other Software": "",
+    "Other Software Stack": "N/A",
+    "Processor(s) Frequencies": "240 MHz",
+    "Processor(s) Name": "GAP9 Risc-v",
+    "Processor(s) Voltage": "0.65 V",
+    "Result": 1365.785,
+    "SoC Memory capacity": "1.5 MB L2 + 128 KB L1",
+    "SoC Memory type": "RAM",
+    "SoC Name": "Gap9",
+    "SoC storage capacity": "2 MB",
+    "SoC storage type": "eMRAM",
+    "Software Libraries": "GapFlow, GAP SDK",
+    "Software Notes": "",
+    "Status": "Available",
+    "Submitter": "Greenwaves Technologies",
+    "Training and Quantization Notes": "",
+    "_Accuracy": 90.0,
+    "_Result": 1365.785,
+    "__Organization": "greenwaves-technologies",
+    "__System": "gap9_650_240",
+    "__version": "v1.0",
+    "accuracy_AUC": 0.99,
+    "accuracy_Top-1": 90.0,
+    "accuracy_Top-1_metric": "%",
+    "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/greenwaves-technologies",
+    "median_energy_cost": 18.561,
+    "median_energy_cost_metric": "uj/inf.",
+    "median_energy_median_throughput": 1368.176,
+    "median_energy_median_throughput_metric": "inf./sec.",
+    "median_throughput": 1365.785,
+    "median_throughput_metric": "inf./sec.",
+    "uid": "0274317f4b464e04",
+    "version": "v1.0"
+  },
+  {
+    "Accelerator": "NE16",
+    "Accelerator memory type and capacity": "Same as SoC",
+    "Accelerator storage type and capacity": "Same as SoC",
+    "Accelerator(s) Frequencies": "N/A",
+    "Accuracy": 90.0,
+    "Benchmark": "kws",
+    "Board Name": "GAP9 EVK",
+    "Division": "closed",
+    "General Compiler(s)": "RISCV GCC with Custom extensions",
+    "Hardware Notes": "VIN = 1.8V, VDDIO = 1.8V",
+    "Inference Framework": "N/A",
+    "Number of Processor(s)": "1 + 9",
+    "Operating System ": "FreeRTOS",
+    "Organization": "greenwaves-technologies",
+    "Other Software": "",
+    "Other Software Stack": "N/A",
+    "Processor(s) Frequencies": "370 MHz",
+    "Processor(s) Name": "GAP9 Risc-v",
+    "Processor(s) Voltage": "0.8 V",
+    "Result": 2103.206,
+    "SoC Memory capacity": "1.5 MB L2 + 128 KB L1",
+    "SoC Memory type": "RAM",
+    "SoC Name": "Gap9",
+    "SoC storage capacity": "2 MB",
+    "SoC storage type": "eMRAM",
+    "Software Libraries": "GapFlow, GAP SDK",
+    "Software Notes": "",
+    "Status": "Available",
+    "Submitter": "Greenwaves Technologies",
+    "Training and Quantization Notes": "",
+    "_Accuracy": 90.0,
+    "_Result": 2103.206,
+    "__Organization": "greenwaves-technologies",
+    "__System": "gap9_800_370",
+    "__version": "v1.0",
+    "accuracy_AUC": 0.99,
+    "accuracy_Top-1": 90.0,
+    "accuracy_Top-1_metric": "%",
+    "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/greenwaves-technologies",
+    "median_energy_cost": 26.659,
+    "median_energy_cost_metric": "uj/inf.",
+    "median_energy_median_throughput": 2107.926,
+    "median_energy_median_throughput_metric": "inf./sec.",
+    "median_throughput": 2103.206,
+    "median_throughput_metric": "inf./sec.",
+    "uid": "b030c715be8742b4",
+    "version": "v1.0"
   },
   {
     "Accelerator": "",
@@ -764,7 +862,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/OctoML",
     "median_throughput": 13.143,
     "median_throughput_metric": "inf./sec.",
-    "uid": "a0f2a9bdbc6741aa",
+    "uid": "929b5848e6d046c9",
     "version": "v1.0"
   },
   {
@@ -825,7 +923,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 10.019,
     "median_throughput_metric": "inf./sec.",
-    "uid": "36ae86224f114959",
+    "uid": "b7118570d1784b71",
     "version": "v1.0"
   },
   {
@@ -883,7 +981,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 6.943,
     "median_throughput_metric": "inf./sec.",
-    "uid": "2199c5072b884925",
+    "uid": "df1275559c9745a9",
     "version": "v1.0"
   },
   {
@@ -935,7 +1033,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/plumerai",
     "median_throughput": 28.219,
     "median_throughput_metric": "inf./sec.",
-    "uid": "a8ff8d5298624098",
+    "uid": "f652fa723b544489",
     "version": "v1.0"
   },
   {
@@ -987,7 +1085,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/plumerai",
     "median_throughput": 16.287,
     "median_throughput_metric": "inf./sec.",
-    "uid": "e6983e3b21294d32",
+    "uid": "54365f3e72d240f5",
     "version": "v1.0"
   },
   {
@@ -1039,7 +1137,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/plumerai",
     "median_throughput": 52.288,
     "median_throughput_metric": "inf./sec.",
-    "uid": "99f747d96cc34c3d",
+    "uid": "16548d6d76ef4a4e",
     "version": "v1.0"
   },
   {
@@ -1091,7 +1189,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/plumerai",
     "median_throughput": 13.955,
     "median_throughput_metric": "inf./sec.",
-    "uid": "2bbbba7d49504e55",
+    "uid": "001cd9702fcb489e",
     "version": "v1.0"
   },
   {
@@ -1143,7 +1241,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v1.0/tree/master/closed/silicon_labs",
     "median_throughput": 27.563,
     "median_throughput_metric": "inf./sec.",
-    "uid": "af5e847df70e4e1f",
+    "uid": "f237833718544543",
     "version": "v1.0"
   },
   {
@@ -1200,7 +1298,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 59.667,
     "median_throughput_metric": "inf./sec.",
-    "uid": "00852891169a4df6",
+    "uid": "5ac37b01412e4413",
     "version": "v1.0"
   },
   {
@@ -1257,7 +1355,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 22.608,
     "median_throughput_metric": "inf./sec.",
-    "uid": "635c26fec2a24db9",
+    "uid": "63612628a8614710",
     "version": "v1.0"
   },
   {
@@ -1314,7 +1412,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 13.323,
     "median_throughput_metric": "inf./sec.",
-    "uid": "a2cf848d3d5e430a",
+    "uid": "8cb5895d0e16489d",
     "version": "v1.0"
   },
   {
@@ -1371,7 +1469,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 228.982,
     "median_throughput_metric": "inf./sec.",
-    "uid": "41c13a480bb347da",
+    "uid": "409fcab773dc46fa",
     "version": "v1.0"
   },
   {
@@ -1428,7 +1526,7 @@
     "median_energy_median_throughput_metric": "inf./sec.",
     "median_throughput": 675.024,
     "median_throughput_metric": "inf./sec.",
-    "uid": "1637428dc05a4086",
+    "uid": "f19fb7bdf80b4e9d",
     "version": "v1.0"
   }
 ]

@@ -48,7 +48,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/open/Alibaba",
     "median_throughput": 4797.194,
     "median_throughput_metric": "inf./sec.",
-    "uid": "93f78df2626243dc",
+    "uid": "41047b4e544a4701",
     "version": "v0.7"
   },
   {
@@ -103,7 +103,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/open/hls4ml-finn",
     "median_throughput": 30685.669,
     "median_throughput_metric": "inf./sec.",
-    "uid": "08819955e6064d65",
+    "uid": "bd9af5391d264184",
     "version": "v0.7"
   },
   {
@@ -158,7 +158,7 @@
     "git_url": "https://github.com/mlcommons/tiny_results_v0.7/tree/master/open/hls4ml-finn",
     "median_throughput": 53365.414,
     "median_throughput_metric": "inf./sec.",
-    "uid": "51c7d0ef0bed482d",
+    "uid": "98a40858d9124062",
     "version": "v0.7"
   }
 ]
