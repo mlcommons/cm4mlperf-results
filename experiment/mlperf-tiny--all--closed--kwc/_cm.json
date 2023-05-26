@@ -1,0 +1,12 @@
+{
+  "alias": "mlperf-tiny--all--closed--kwc",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf-tiny",
+    "all",
+    "closed",
+    "kwc"
+  ],
+  "uid": "a88c56be6c884838"
+}
