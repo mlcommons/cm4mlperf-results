@@ -3,6 +3,7 @@
   "automation_alias": "experiment",
   "automation_uid": "a0a2d123ef064bcb",
   "tags": [
+    "mlperf",
     "mlperf-tiny",
     "v1.0",
     "closed",
