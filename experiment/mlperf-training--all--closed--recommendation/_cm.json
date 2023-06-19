@@ -1,0 +1,13 @@
+{
+  "alias": "mlperf-training--all--closed--recommendation",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-training",
+    "all",
+    "closed",
+    "recommendation"
+  ],
+  "uid": "8528bfeff5bb4802"
+}

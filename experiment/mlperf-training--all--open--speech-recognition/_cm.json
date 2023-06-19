@@ -1,0 +1,13 @@
+{
+  "alias": "mlperf-training--all--open--speech-recognition",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-training",
+    "all",
+    "open",
+    "speech-recognition"
+  ],
+  "uid": "77d9f69998f54748"
+}

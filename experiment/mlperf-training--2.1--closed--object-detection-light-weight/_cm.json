@@ -1,0 +1,13 @@
+{
+  "alias": "mlperf-training--2.1--closed--object-detection-light-weight",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-training",
+    "2.1",
+    "closed",
+    "object-detection-light-weight"
+  ],
+  "uid": "be5a1f7ef225495d"
+}
