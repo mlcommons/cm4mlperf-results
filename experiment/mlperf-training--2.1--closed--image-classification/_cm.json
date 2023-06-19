@@ -1,0 +1,13 @@
+{
+  "alias": "mlperf-training--2.1--closed--image-classification",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-training",
+    "2.1",
+    "closed",
+    "image-classification"
+  ],
+  "uid": "3af002a4e20f42b0"
+}

@@ -1,0 +1,13 @@
+{
+  "alias": "mlperf-training--all--closed--language-processing",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-training",
+    "all",
+    "closed",
+    "language-processing"
+  ],
+  "uid": "3cc5764a1b304cbf"
+}

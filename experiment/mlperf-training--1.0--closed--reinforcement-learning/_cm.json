@@ -1,0 +1,13 @@
+{
+  "alias": "mlperf-training--1.0--closed--reinforcement-learning",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-training",
+    "1.0",
+    "closed",
+    "reinforcement-learning"
+  ],
+  "uid": "4e956e3a708147d8"
+}
