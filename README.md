@@ -27,6 +27,13 @@ Follow this [README](https://github.com/mlcommons/ck/blob/master/cm-mlops/script
 
 You can see aggregated results [here](https://access.cknowledge.org/playground/?action=experiments&tags=mlperf-tiny,all).
 
+## MLPerf training benchmark results
+
+Follow this [README](https://github.com/mlcommons/ck/blob/master/cm-mlops/script/import-mlperf-training-to-experiment/README-extra.md) from the related CM automations script.
+
+You can see aggregated results [here](https://access.cknowledge.org/playground/?action=experiments&tags=mlperf-training,all).
+
+
 ## How to update this repository with new results
 
 ### Using your own Python script
