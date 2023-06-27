@@ -11,5 +11,26 @@
     "mlperf-inference-results",
     "results"
   ],
-  "uid": "a67bf51674a14908"
+  "uid": "a67bf51674a14908",
+  "variations": {
+    "inference": {
+      "group": "result-type",
+      "default": true,
+      "env": {
+        "CM_MLPERF_RESULT_TYPE": "inference"
+      }
+    },
+    "training": {
+      "group": "result-type",
+      "env": {
+        "CM_MLPERF_RESULT_TYPE": "training"
+      }
+    },
+    "tiny": {
+      "group": "result-type",
+      "env": {
+        "CM_MLPERF_RESULT_TYPE": "tiny"
+      }
+    }
+  }
 }
