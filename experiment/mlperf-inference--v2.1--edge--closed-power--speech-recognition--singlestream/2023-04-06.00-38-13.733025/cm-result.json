@@ -4,12 +4,15 @@
     "Accuracy_div_100": 0.92568,
     "Availability": "available",
     "Division": "closed",
+    "Inference_per_Joule": 0.47661191202005543,
     "Location": "closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/SingleStream",
     "MlperfModel": "rnnt",
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
     "Result": 101.519728,
+    "Result_Power": 2098.1431113662993,
+    "Result_Power_Units": "millijoules",
     "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "NVIDIA Orin (MaxQ, TensorRT)",
@@ -31,21 +34,22 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "9960a2fd2ab44842",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/SingleStream",
-    "version": "v2.1",
-    "Result_Power": 2098.1431113662993,
-    "Result_Power_Units": "millijoules"
+    "version": "v2.1"
   },
   {
     "Accuracy": 92.5680398656114,
     "Accuracy_div_100": 0.92568,
     "Availability": "available",
     "Division": "closed",
+    "Inference_per_Joule": 0.47661191202005543,
     "Location": "closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/SingleStream",
     "MlperfModel": "rnnt",
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
     "Result": 101.519728,
+    "Result_Power": 2098.1431113662993,
+    "Result_Power_Units": "millijoules",
     "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "NVIDIA Orin (MaxQ, TensorRT)",
@@ -67,8 +71,6 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "9960a2fd2ab44842",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/rnnt/SingleStream",
-    "version": "v2.1",
-    "Result_Power": 2098.1431113662993,
-    "Result_Power_Units": "millijoules"
+    "version": "v2.1"
   }
 ]

@@ -4,12 +4,15 @@
     "Accuracy_div_100": 0.9257,
     "Availability": "available",
     "Division": "open",
+    "Inference_per_Joule": 0.39486459985847583,
     "Location": "open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/rnnt/singlestream",
     "MlperfModel": "rnnt",
     "Model": "rnnt",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
     "Result": 9.993138,
+    "Result_Power": 2532.5136777477946,
+    "Result_Power_Units": "millijoules",
     "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
@@ -31,21 +34,22 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "82b5e61834ce4533",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/rnnt/singlestream",
-    "version": "v3.0",
-    "Result_Power": 2532.5136777477946,
-    "Result_Power_Units": "millijoules"
+    "version": "v3.0"
   },
   {
     "Accuracy": 92.57029470788518,
     "Accuracy_div_100": 0.9257,
     "Availability": "available",
     "Division": "open",
+    "Inference_per_Joule": 0.39486459985847583,
     "Location": "open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/rnnt/singlestream",
     "MlperfModel": "rnnt",
     "Model": "rnnt",
     "Organization": "cTuning",
     "Platform": "amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config",
     "Result": 9.993138,
+    "Result_Power": 2532.5136777477946,
+    "Result_Power_Units": "millijoules",
     "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "AMD Ryzen Zen4 workstation with Nvidia RTX 4090",
@@ -67,8 +71,6 @@
     "operating_system": "Ubuntu 22.04 (linux-5.19.0-32-generic-glibc2.35)",
     "uid": "82b5e61834ce4533",
     "url": "https://github.com/mlcommons/inference_results_v3.0/tree/master/open/cTuning/results/amd_zen4_workstation-nvidia_original-gpu-tensorrt-v8.5.2.2-default_config/rnnt/singlestream",
-    "version": "v3.0",
-    "Result_Power": 2532.5136777477946,
-    "Result_Power_Units": "millijoules"
+    "version": "v3.0"
   }
 ]

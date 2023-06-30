@@ -4,12 +4,15 @@
     "Accuracy_div_100": 0.3748,
     "Availability": "available",
     "Division": "closed",
+    "Inference_per_Joule": 1.3971188650442166,
     "Location": "closed/NVIDIA/results/Orin_TRT_MaxQ/retinanet/MultiStream",
     "MlperfModel": "retinanet",
     "Model": "retinanet",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
     "Result": 177.254471,
+    "Result_Power": 5726.069699693599,
+    "Result_Power_Units": "millijoules",
     "Result_Units": "Latency (ms)",
     "Scenario": "MultiStream",
     "SystemName": "NVIDIA Orin (MaxQ, TensorRT)",
@@ -31,21 +34,22 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "80186d7f47034095",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/retinanet/MultiStream",
-    "version": "v2.1",
-    "Result_Power": 5726.069699693599,
-    "Result_Power_Units": "millijoules"
+    "version": "v2.1"
   },
   {
     "Accuracy": 37.48,
     "Accuracy_div_100": 0.3748,
     "Availability": "available",
     "Division": "closed",
+    "Inference_per_Joule": 1.3971188650442166,
     "Location": "closed/NVIDIA/results/Orin_TRT_MaxQ/retinanet/MultiStream",
     "MlperfModel": "retinanet",
     "Model": "retinanet",
     "Organization": "NVIDIA",
     "Platform": "Orin_TRT_MaxQ",
     "Result": 177.254471,
+    "Result_Power": 5726.069699693599,
+    "Result_Power_Units": "millijoules",
     "Result_Units": "Latency (ms)",
     "Scenario": "MultiStream",
     "SystemName": "NVIDIA Orin (MaxQ, TensorRT)",
@@ -67,8 +71,6 @@
     "operating_system": "Ubuntu 20.04",
     "uid": "80186d7f47034095",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/NVIDIA/results/Orin_TRT_MaxQ/retinanet/MultiStream",
-    "version": "v2.1",
-    "Result_Power": 5726.069699693599,
-    "Result_Power_Units": "millijoules"
+    "version": "v2.1"
   }
 ]
