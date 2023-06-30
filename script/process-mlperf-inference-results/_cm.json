@@ -7,6 +7,8 @@
   "category_sort": 6000,
   "tags": [
     "process",
+    "mlperf",
+    "mlpref-results",
     "mlperf-inference",
     "mlperf-inference-results",
     "results"
@@ -17,19 +19,19 @@
       "group": "result-type",
       "default": true,
       "env": {
-        "CM_MLPERF_RESULT_TYPE": "inference"
+        "CM_MLPERF_RESULT_TYPE": "mlperf-inference"
       }
     },
     "training": {
       "group": "result-type",
       "env": {
-        "CM_MLPERF_RESULT_TYPE": "training"
+        "CM_MLPERF_RESULT_TYPE": "mlperf-training"
       }
     },
     "tiny": {
       "group": "result-type",
       "env": {
-        "CM_MLPERF_RESULT_TYPE": "tiny"
+        "CM_MLPERF_RESULT_TYPE": "mlperf-tiny"
       }
     }
   }

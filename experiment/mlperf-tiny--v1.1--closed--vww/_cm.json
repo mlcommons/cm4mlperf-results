@@ -1,0 +1,13 @@
+{
+  "alias": "mlperf-tiny--v1.1--closed--vww",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-tiny",
+    "v1.1",
+    "closed",
+    "vww"
+  ],
+  "uid": "87f3036e4475439a"
+}

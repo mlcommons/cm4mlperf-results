@@ -56,10 +56,10 @@ for path in Path('experiment').rglob("cm-result.json"):
 
                 if scenario in ['singlestream', 'multistream']:
                     latency_per_inference = result.get('Result')
-                    result_power_unit = result.get('Result_Power_Units')
+                    result_power_units = result.get('Result_Power_Units')
                     if not latency_per_inference or not result_power or not result_power_units:
                         continue
-                    if result_power_unit == "millijoules":
+                    if result_power_units == "millijoules":
                         inference_per_joule = 1000 / result_power if scenario == 'singlestream' else 8000/result_power
                     else:
                         continue
