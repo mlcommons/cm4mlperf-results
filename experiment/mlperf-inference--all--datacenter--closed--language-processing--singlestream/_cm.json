@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "language-processing",
-    "singlestream"
+    "singlestream",
+    "inference"
   ],
   "uid": "78ca415abdd44189"
 }

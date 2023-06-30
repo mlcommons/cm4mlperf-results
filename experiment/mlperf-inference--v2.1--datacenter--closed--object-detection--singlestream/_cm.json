@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "object-detection",
-    "singlestream"
+    "singlestream",
+    "inference"
   ],
   "uid": "e4a87d3cea6d4622"
 }

@@ -17,7 +17,7 @@
   "variations": {
     "inference": {
       "group": "result-type",
-      "default": true,
+      "default": false,
       "env": {
         "CM_MLPERF_RESULT_TYPE": "mlperf-inference"
       }

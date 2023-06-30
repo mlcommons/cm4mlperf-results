@@ -9,7 +9,9 @@
     "datacenter",
     "closed-power",
     "recommendation",
-    "server"
+    "server",
+    "inference",
+    "power"
   ],
   "uid": "e92f5dd4ab6440e9"
 }

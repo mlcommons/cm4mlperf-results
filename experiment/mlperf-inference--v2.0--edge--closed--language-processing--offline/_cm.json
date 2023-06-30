@@ -9,7 +9,8 @@
     "edge",
     "closed",
     "language-processing",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "d660823c09d44c58"
 }

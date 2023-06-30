@@ -9,7 +9,9 @@
     "edge",
     "open-power",
     "object-detection",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "cd3d7d7409a349e1"
 }

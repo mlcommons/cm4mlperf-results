@@ -9,7 +9,8 @@
     "datacenter",
     "open",
     "language-processing",
-    "server"
+    "server",
+    "inference"
   ],
   "uid": "0386401ea5ce4448"
 }

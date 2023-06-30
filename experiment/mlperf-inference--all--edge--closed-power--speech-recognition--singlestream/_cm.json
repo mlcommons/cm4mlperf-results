@@ -9,7 +9,9 @@
     "edge",
     "closed-power",
     "speech-recognition",
-    "singlestream"
+    "singlestream",
+    "inference",
+    "power"
   ],
   "uid": "b2af161bd5bb4d22"
 }

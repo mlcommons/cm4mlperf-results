@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "speech-recognition",
-    "server"
+    "server",
+    "inference"
   ],
   "uid": "877178005fc54a08"
 }

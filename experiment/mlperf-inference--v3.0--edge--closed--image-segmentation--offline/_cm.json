@@ -9,7 +9,8 @@
     "edge",
     "closed",
     "image-segmentation",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "dc6d499d61ac4bc6"
 }

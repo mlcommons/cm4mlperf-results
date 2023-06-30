@@ -9,7 +9,9 @@
     "edge",
     "closed-power",
     "image-classification",
-    "singlestream"
+    "singlestream",
+    "inference",
+    "power"
   ],
   "uid": "25a20553ecbb4ad0"
 }

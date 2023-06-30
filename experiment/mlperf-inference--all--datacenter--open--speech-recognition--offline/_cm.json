@@ -9,7 +9,8 @@
     "datacenter",
     "open",
     "speech-recognition",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "ecbb501689494074"
 }

@@ -9,7 +9,8 @@
     "datacenter",
     "open",
     "object-detection",
-    "multistream"
+    "multistream",
+    "inference"
   ],
   "uid": "3a200e8d862846a8"
 }

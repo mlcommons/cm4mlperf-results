@@ -9,7 +9,8 @@
     "edge",
     "open",
     "object-detection",
-    "singlestream"
+    "singlestream",
+    "inference"
   ],
   "uid": "29bfa9cbf1034ff2"
 }

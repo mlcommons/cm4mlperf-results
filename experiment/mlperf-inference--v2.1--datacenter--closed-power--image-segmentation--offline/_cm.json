@@ -9,7 +9,9 @@
     "datacenter",
     "closed-power",
     "image-segmentation",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "58e33abcab6e472c"
 }

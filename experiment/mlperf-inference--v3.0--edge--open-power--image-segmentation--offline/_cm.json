@@ -9,7 +9,9 @@
     "edge",
     "open-power",
     "image-segmentation",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "dd6ac5e9dd2b46e5"
 }

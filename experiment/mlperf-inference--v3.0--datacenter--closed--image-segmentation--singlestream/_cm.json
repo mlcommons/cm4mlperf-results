@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "image-segmentation",
-    "singlestream"
+    "singlestream",
+    "inference"
   ],
   "uid": "b0c6b80782be433e"
 }

@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "image-segmentation",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "f56530e289484d58"
 }

@@ -9,7 +9,9 @@
     "datacenter",
     "closed-power",
     "language-processing",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "1110596d99ae4149"
 }

@@ -9,7 +9,8 @@
     "edge",
     "open",
     "image-classification",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "aced6c0be74e4d33"
 }

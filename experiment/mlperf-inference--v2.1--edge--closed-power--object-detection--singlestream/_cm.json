@@ -9,7 +9,9 @@
     "edge",
     "closed-power",
     "object-detection",
-    "singlestream"
+    "singlestream",
+    "inference",
+    "power"
   ],
   "uid": "720e7027e7224c1c"
 }

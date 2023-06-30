@@ -9,7 +9,9 @@
     "edge",
     "closed-power",
     "image-segmentation",
-    "singlestream"
+    "singlestream",
+    "inference",
+    "power"
   ],
   "uid": "084ce9a4414746a4"
 }

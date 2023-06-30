@@ -9,7 +9,8 @@
     "datacenter",
     "open",
     "image-classification",
-    "server"
+    "server",
+    "inference"
   ],
   "uid": "dd5350135cfd43db"
 }

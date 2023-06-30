@@ -9,7 +9,9 @@
     "datacenter",
     "closed-power",
     "language-processing",
-    "singlestream"
+    "singlestream",
+    "inference",
+    "power"
   ],
   "uid": "cb23525cd264449a"
 }

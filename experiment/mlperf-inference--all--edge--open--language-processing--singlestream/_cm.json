@@ -9,7 +9,8 @@
     "edge",
     "open",
     "language-processing",
-    "singlestream"
+    "singlestream",
+    "inference"
   ],
   "uid": "ab64c534401746f6"
 }
