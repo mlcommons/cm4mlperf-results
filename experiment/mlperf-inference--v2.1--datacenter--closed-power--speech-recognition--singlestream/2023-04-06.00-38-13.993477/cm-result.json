@@ -4,12 +4,15 @@
     "Accuracy_div_100": 0.92568,
     "Availability": "available",
     "Division": "closed",
+    "Inference_per_Joule": 0.05795822579809517,
     "Location": "closed/Dell/results/XR12_A2x1_TRT_MaxQ/rnnt/SingleStream",
     "MlperfModel": "rnnt",
     "Model": "rnnt",
     "Organization": "Dell",
     "Platform": "XR12_A2x1_TRT_MaxQ",
     "Result": 102.98337,
+    "Result_Power": 17253.80627563768,
+    "Result_Power_Units": "millijoules",
     "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Dell PowerEdge XR12 (1x A2, MaxQ, TensorRT)",
@@ -31,21 +34,22 @@
     "operating_system": "CentOS 8.2",
     "uid": "4e39d93a08c040c9",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/rnnt/SingleStream",
-    "version": "v2.1",
-    "Result_Power": 17253.80627563768,
-    "Result_Power_Units": "millijoules"
+    "version": "v2.1"
   },
   {
     "Accuracy": 92.5680398656114,
     "Accuracy_div_100": 0.92568,
     "Availability": "available",
     "Division": "closed",
+    "Inference_per_Joule": 0.05795822579809517,
     "Location": "closed/Dell/results/XR12_A2x1_TRT_MaxQ/rnnt/SingleStream",
     "MlperfModel": "rnnt",
     "Model": "rnnt",
     "Organization": "Dell",
     "Platform": "XR12_A2x1_TRT_MaxQ",
     "Result": 102.98337,
+    "Result_Power": 17253.80627563768,
+    "Result_Power_Units": "millijoules",
     "Result_Units": "Latency (ms)",
     "Scenario": "SingleStream",
     "SystemName": "Dell PowerEdge XR12 (1x A2, MaxQ, TensorRT)",
@@ -67,8 +71,6 @@
     "operating_system": "CentOS 8.2",
     "uid": "4e39d93a08c040c9",
     "url": "https://github.com/mlcommons/inference_results_v2.1/tree/master/closed/Dell/results/XR12_A2x1_TRT_MaxQ/rnnt/SingleStream",
-    "version": "v2.1",
-    "Result_Power": 17253.80627563768,
-    "Result_Power_Units": "millijoules"
+    "version": "v2.1"
   }
 ]
