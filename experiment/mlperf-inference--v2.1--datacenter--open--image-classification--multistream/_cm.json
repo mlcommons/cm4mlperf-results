@@ -9,7 +9,8 @@
     "datacenter",
     "open",
     "image-classification",
-    "multistream"
+    "multistream",
+    "inference"
   ],
   "uid": "db54de6fe59e4e5d"
 }

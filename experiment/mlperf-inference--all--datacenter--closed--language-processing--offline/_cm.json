@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "language-processing",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "782e8b7169ff4990"
 }

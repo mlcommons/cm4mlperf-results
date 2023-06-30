@@ -9,7 +9,9 @@
     "edge",
     "open-power",
     "image-classification",
-    "multistream"
+    "multistream",
+    "inference",
+    "power"
   ],
   "uid": "44773d298c8a424f"
 }

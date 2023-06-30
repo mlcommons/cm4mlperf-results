@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "language-processing",
-    "server"
+    "server",
+    "inference"
   ],
   "uid": "fc0f9de34fdb4c09"
 }

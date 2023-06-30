@@ -9,7 +9,9 @@
     "datacenter",
     "closed-power",
     "image-classification",
-    "singlestream"
+    "singlestream",
+    "inference",
+    "power"
   ],
   "uid": "03a6d7c1d04a434b"
 }

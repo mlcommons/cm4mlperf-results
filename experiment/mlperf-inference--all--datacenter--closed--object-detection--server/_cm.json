@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "object-detection",
-    "server"
+    "server",
+    "inference"
   ],
   "uid": "b4b0e2cbcec64f83"
 }

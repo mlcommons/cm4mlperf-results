@@ -9,7 +9,9 @@
     "datacenter",
     "closed-power",
     "image-classification",
-    "server"
+    "server",
+    "inference",
+    "power"
   ],
   "uid": "62af4aef0abb44f4"
 }

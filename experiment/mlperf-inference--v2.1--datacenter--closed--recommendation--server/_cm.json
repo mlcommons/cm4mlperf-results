@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "recommendation",
-    "server"
+    "server",
+    "inference"
   ],
   "uid": "9e9a17ce0ee04df2"
 }

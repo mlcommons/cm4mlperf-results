@@ -9,7 +9,8 @@
     "datacenter",
     "open",
     "object-detection",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "6d65c6d1f68246c1"
 }

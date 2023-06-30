@@ -32,7 +32,37 @@ def preprocess(i):
         print ('Processing experiment: {}'.format(experiment.path))
 
         # Do something with results ...
+        # Check tags
+        meta = experiment.meta
+        tags = meta.get('tags',[])
 
+        updated = False
+        for x in [('mlperf-inference', 'inference'),
+                  ('mlperf-tiny', 'tiny'),
+                  ('mlperf-training', 'training'),
+                  ('closed-power', 'power'),
+                  ('open-power', 'power'),
+                  ('closed-network', 'network')]:
+
+            if x[0] in tags:
+                if x[1] not in tags:
+                    tags.append(x[1])
+                    updated = True
+
+        if updated:
+            ii['tags']=tags
+            ii['meta']=meta
+            
+            ii['action']='update'
+            ii['replace']=True
+
+            ii['artifact']=meta['uid']
+
+            r = cmind.access(ii)
+            if r['return']>0: return r
+
+            print ('  - Tags updated!')
+            
         for path in Path(experiment.path).rglob("cm-result.json"):
 
             r = cmind.utils.load_json(path)

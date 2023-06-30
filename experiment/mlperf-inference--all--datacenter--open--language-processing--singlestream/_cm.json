@@ -9,7 +9,8 @@
     "datacenter",
     "open",
     "language-processing",
-    "singlestream"
+    "singlestream",
+    "inference"
   ],
   "uid": "4cc31480944b4cd0"
 }

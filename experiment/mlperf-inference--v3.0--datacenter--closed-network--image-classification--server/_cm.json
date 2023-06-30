@@ -9,7 +9,9 @@
     "datacenter",
     "closed-network",
     "image-classification",
-    "server"
+    "server",
+    "inference",
+    "network"
   ],
   "uid": "5ae02243b4d6492c"
 }

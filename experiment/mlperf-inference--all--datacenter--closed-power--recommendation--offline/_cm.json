@@ -9,7 +9,9 @@
     "datacenter",
     "closed-power",
     "recommendation",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "5210650b31554edb"
 }

@@ -9,7 +9,9 @@
     "datacenter",
     "closed-power",
     "speech-recognition",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "2b6300e938334782"
 }

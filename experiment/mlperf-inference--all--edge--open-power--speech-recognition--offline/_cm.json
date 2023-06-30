@@ -9,7 +9,9 @@
     "edge",
     "open-power",
     "speech-recognition",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "2fc657b8a74b4397"
 }

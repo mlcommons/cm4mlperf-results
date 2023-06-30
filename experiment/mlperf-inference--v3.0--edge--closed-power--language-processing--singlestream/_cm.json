@@ -9,7 +9,9 @@
     "edge",
     "closed-power",
     "language-processing",
-    "singlestream"
+    "singlestream",
+    "inference",
+    "power"
   ],
   "uid": "935a67491c514e0d"
 }

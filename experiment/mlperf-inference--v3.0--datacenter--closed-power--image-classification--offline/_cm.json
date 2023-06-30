@@ -9,7 +9,9 @@
     "datacenter",
     "closed-power",
     "image-classification",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "03f47ab6bbf84a04"
 }

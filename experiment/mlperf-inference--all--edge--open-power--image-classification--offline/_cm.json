@@ -9,7 +9,9 @@
     "edge",
     "open-power",
     "image-classification",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "44ee11a09b444cb4"
 }

@@ -9,7 +9,9 @@
     "edge",
     "closed-power",
     "image-segmentation",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "1fe6ccbe6cf04785"
 }

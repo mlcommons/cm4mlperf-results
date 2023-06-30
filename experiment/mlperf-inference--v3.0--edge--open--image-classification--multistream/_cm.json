@@ -9,7 +9,8 @@
     "edge",
     "open",
     "image-classification",
-    "multistream"
+    "multistream",
+    "inference"
   ],
   "uid": "8709c940fc5a4b68"
 }

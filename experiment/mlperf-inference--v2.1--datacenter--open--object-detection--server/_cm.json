@@ -9,7 +9,8 @@
     "datacenter",
     "open",
     "object-detection",
-    "server"
+    "server",
+    "inference"
   ],
   "uid": "b2077e93bd0a48de"
 }

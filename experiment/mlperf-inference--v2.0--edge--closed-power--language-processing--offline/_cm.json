@@ -9,7 +9,9 @@
     "edge",
     "closed-power",
     "language-processing",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "7115222bf85a46af"
 }

@@ -9,7 +9,8 @@
     "edge",
     "open",
     "object-detection",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "eb336b9b054c4a96"
 }
