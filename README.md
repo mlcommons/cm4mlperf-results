@@ -79,7 +79,7 @@ We created a [sample CM script](script/process-mlperf-inference-results) in this
 that you can use and [extend](script/process-mlperf-inference-results/customize.py) to add derived metrics:
 
 ```bash
-cm run script "process mlperf-inference results" --experiment_tags=mlperf-inference,v3.0
+cm run script "process mlperf-inference results" --experiment_tags=mlperf-inference,v3.1
 ```
 
 

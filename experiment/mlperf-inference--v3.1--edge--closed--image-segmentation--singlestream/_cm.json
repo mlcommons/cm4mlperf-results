@@ -9,7 +9,8 @@
     "edge",
     "closed",
     "image-segmentation",
-    "singlestream"
+    "singlestream",
+    "inference"
   ],
   "uid": "8caa6559f7c845a7"
 }

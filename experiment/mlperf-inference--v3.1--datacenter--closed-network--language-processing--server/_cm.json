@@ -9,7 +9,9 @@
     "datacenter",
     "closed-network",
     "language-processing",
-    "server"
+    "server",
+    "inference",
+    "network"
   ],
   "uid": "1fac2a30a3164726"
 }

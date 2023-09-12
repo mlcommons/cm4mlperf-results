@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "recommendation",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "ae98ca6e6c4d4cee"
 }

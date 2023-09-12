@@ -9,7 +9,8 @@
     "datacenter",
     "open",
     "recommendation",
-    "server"
+    "server",
+    "inference"
   ],
   "uid": "8888d3789bab42d5"
 }

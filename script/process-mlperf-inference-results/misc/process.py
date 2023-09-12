@@ -22,6 +22,14 @@ result_type = os.environ.get('CM_MLPERF_RESULT_TYPE', 'inference')
 
 for path in Path('experiment').rglob("cm-result.json"):
 
+    if 'mlperf-inference' not in str(path):
+        continue
+
+    if '-all-' not in str(path) and '-v3.1-' not in str(path):
+        continue
+
+    print (path)
+
     with open(path) as json_data:
         data = json.load(json_data)
 

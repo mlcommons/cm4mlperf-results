@@ -9,7 +9,9 @@
     "datacenter",
     "open-power",
     "object-detection",
-    "server"
+    "server",
+    "inference",
+    "power"
   ],
   "uid": "2e2e764ff085401d"
 }

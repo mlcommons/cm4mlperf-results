@@ -9,7 +9,9 @@
     "datacenter",
     "closed-network",
     "language-processing",
-    "offline"
+    "offline",
+    "inference",
+    "network"
   ],
   "uid": "8257b735990b4bc0"
 }
