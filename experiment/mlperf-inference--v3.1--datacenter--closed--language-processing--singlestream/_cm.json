@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--v3.1--datacenter--closed--language-processing--singlestream",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "v3.1",
+    "datacenter",
+    "closed",
+    "language-processing",
+    "singlestream"
+  ],
+  "uid": "9742a91852404f45"
+}

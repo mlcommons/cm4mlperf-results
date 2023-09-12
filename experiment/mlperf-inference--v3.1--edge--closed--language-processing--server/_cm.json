@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--v3.1--edge--closed--language-processing--server",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "v3.1",
+    "edge",
+    "closed",
+    "language-processing",
+    "server"
+  ],
+  "uid": "ba5ade7798774f50"
+}
