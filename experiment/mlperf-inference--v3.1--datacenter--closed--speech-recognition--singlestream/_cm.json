@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "speech-recognition",
-    "singlestream"
+    "singlestream",
+    "inference"
   ],
   "uid": "b1341fa7f57e4403"
 }

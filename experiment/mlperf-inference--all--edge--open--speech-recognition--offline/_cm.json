@@ -9,7 +9,8 @@
     "edge",
     "open",
     "speech-recognition",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "480b225a4b194945"
 }

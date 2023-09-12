@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "fdd7966f65564031",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/rnnt/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 2248.541763727119,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.56578502333763,
@@ -43,13 +45,12 @@
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "H100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2248.541763727119,
-    "Result_Units": "Watts",
+    "Result": 88023,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G482-Z54 (8x H100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA H100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "d301b0f8ad90485a",
+    "uid": "fdd7966f65564031",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/rnnt/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 2248.541763727119,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.56578502333763,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "fb0add232d514ed2",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_MaxQ/rnnt/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 4400.422499999997,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 92.56578502333763,
@@ -112,13 +117,12 @@
     "Model": "rnnt",
     "Organization": "NVIDIA",
     "Platform": "DGX-H100_H100-SXM-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 4400.422499999997,
-    "Result_Units": "Watts",
+    "Result": 112015,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX H100 (8x H100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA H100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -133,8 +137,10 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "f555817d941742f3",
+    "uid": "fb0add232d514ed2",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_MaxQ/rnnt/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 4400.422499999997,
+    "Result_Power_Units": "Watts"
   }
 ]

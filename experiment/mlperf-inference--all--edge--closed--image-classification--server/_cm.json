@@ -9,7 +9,8 @@
     "edge",
     "closed",
     "image-classification",
-    "server"
+    "server",
+    "inference"
   ],
   "uid": "9dedbafbd5a543bd"
 }

@@ -9,7 +9,8 @@
     "datacenter",
     "closed",
     "image-classification",
-    "offline"
+    "offline",
+    "inference"
   ],
   "uid": "a26d602dd0684a2d"
 }

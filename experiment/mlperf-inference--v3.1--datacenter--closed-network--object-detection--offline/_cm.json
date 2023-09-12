@@ -9,7 +9,9 @@
     "datacenter",
     "closed-network",
     "object-detection",
-    "offline"
+    "offline",
+    "inference",
+    "network"
   ],
   "uid": "2b6a8c782e2f4b91"
 }

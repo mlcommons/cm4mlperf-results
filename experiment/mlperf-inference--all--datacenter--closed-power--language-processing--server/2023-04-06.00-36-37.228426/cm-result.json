@@ -31,7 +31,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "8824e9e2d54f4b41",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/bert-99/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 3348.383666666669,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.35676151551918,
@@ -43,13 +45,12 @@
     "Model": "bert-99",
     "Organization": "NVIDIA",
     "Platform": "H100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3348.383666666669,
-    "Result_Units": "Watts",
+    "Result": 33011.5,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G482-Z54 (8x H100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA H100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -64,9 +65,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "145c229fc92e4de1",
+    "uid": "8824e9e2d54f4b41",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/bert-99/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 3348.383666666669,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.98353416897278,
@@ -100,7 +103,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "60393e47def64349",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/bert-99.9/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 3116.6661666666664,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.98353416897278,
@@ -112,13 +117,12 @@
     "Model": "bert-99.9",
     "Organization": "NVIDIA",
     "Platform": "H100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3116.6661666666664,
-    "Result_Units": "Watts",
+    "Result": 28513,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G482-Z54 (8x H100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA H100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -133,9 +137,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "088d7108aea24fa8",
+    "uid": "60393e47def64349",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/bert-99.9/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 3116.6661666666664,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 43.0307,
@@ -169,7 +175,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "f3f8397872c9495f",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/gptj-99/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 2187.3117161716177,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 43.0307,
@@ -181,13 +189,12 @@
     "Model": "gptj-99",
     "Organization": "NVIDIA",
     "Platform": "H100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2187.3117161716177,
-    "Result_Units": "Watts",
+    "Result": 40.0132,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G482-Z54 (8x H100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA H100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -202,9 +209,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "3cdce7ea6ded4f70",
+    "uid": "f3f8397872c9495f",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/gptj-99/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 2187.3117161716177,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 43.0307,
@@ -238,7 +247,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "15583cba3eff4d59",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/gptj-99.9/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 2187.3117161716177,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 43.0307,
@@ -250,13 +261,12 @@
     "Model": "gptj-99.9",
     "Organization": "NVIDIA",
     "Platform": "H100-PCIe-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 2187.3117161716177,
-    "Result_Units": "Watts",
+    "Result": 40.0132,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "Gigabyte G482-Z54 (8x H100-PCIe-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA H100-PCIe-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -271,9 +281,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "5247cb6d0a4d4d49",
+    "uid": "15583cba3eff4d59",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/H100-PCIe-80GBx8_TRT_MaxQ/gptj-99.9/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 2187.3117161716177,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.35676151551918,
@@ -307,7 +319,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "3e25f9bfee1d4e52",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_MaxQ/bert-99/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 5223.899166666672,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.35676151551918,
@@ -319,13 +333,12 @@
     "Model": "bert-99",
     "Organization": "NVIDIA",
     "Platform": "DGX-H100_H100-SXM-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 5223.899166666672,
-    "Result_Units": "Watts",
+    "Result": 42416.1,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX H100 (8x H100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA H100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -340,9 +353,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "1157c439c0c443db",
+    "uid": "3e25f9bfee1d4e52",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_MaxQ/bert-99/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 5223.899166666672,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.9505844492866,
@@ -376,7 +391,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "29bd1fc6f7244d7c",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_MaxQ/bert-99.9/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 5528.299499999999,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.9505844492866,
@@ -388,13 +405,12 @@
     "Model": "bert-99.9",
     "Organization": "NVIDIA",
     "Platform": "DGX-H100_H100-SXM-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 5528.299499999999,
-    "Result_Units": "Watts",
+    "Result": 39214.7,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX H100 (8x H100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA H100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -409,9 +425,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "e7d1c6742fef4c86",
+    "uid": "29bd1fc6f7244d7c",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_MaxQ/bert-99.9/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 5528.299499999999,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 43.051,
@@ -445,7 +463,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "7247d60e8f7a45c5",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_MaxQ/gptj-99/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 3830.8686468646915,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 43.051,
@@ -457,13 +477,12 @@
     "Model": "gptj-99",
     "Organization": "NVIDIA",
     "Platform": "DGX-H100_H100-SXM-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3830.8686468646915,
-    "Result_Units": "Watts",
+    "Result": 48.9784,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX H100 (8x H100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA H100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -478,9 +497,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "cbf403b1f90a49f4",
+    "uid": "7247d60e8f7a45c5",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_MaxQ/gptj-99/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 3830.8686468646915,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 43.051,
@@ -514,7 +535,9 @@
     "operating_system": "Ubuntu 20.04.4",
     "uid": "1536d9fdf4cf44a2",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_MaxQ/gptj-99.9/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 3830.8686468646915,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 43.051,
@@ -526,13 +549,12 @@
     "Model": "gptj-99.9",
     "Organization": "NVIDIA",
     "Platform": "DGX-H100_H100-SXM-80GBx8_TRT_MaxQ",
-    "Result": null,
-    "Result_Power": 3830.8686468646915,
-    "Result_Units": "Watts",
+    "Result": 48.9784,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "NVIDIA DGX H100 (8x H100-SXM-80GB, MaxQ, TensorRT)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "NVIDIA H100-SXM-80GB",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -547,9 +569,11 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "944deae831974a00",
+    "uid": "1536d9fdf4cf44a2",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_MaxQ/gptj-99.9/Server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 3830.8686468646915,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.28408874066913,
@@ -583,7 +607,9 @@
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "c77c964ce1874804",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/Qualcomm/results/g292_z43_q16e/bert-99/server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 1091.0368333333333,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.28408874066913,
@@ -595,13 +621,12 @@
     "Model": "bert-99",
     "Organization": "Qualcomm",
     "Platform": "g292_z43_q16e",
-    "Result": null,
-    "Result_Power": 1091.0368333333333,
-    "Result_Units": "Watts",
+    "Result": 9777.31,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "GIGABYTE G292-Z43 (16x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 16,
     "compliance": 1,
@@ -616,9 +641,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "ec1421e3ec3e4613",
+    "uid": "c77c964ce1874804",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/Qualcomm/results/g292_z43_q16e/bert-99/server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 1091.0368333333333,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -652,7 +679,9 @@
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "efb88542ea814b2d",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/Qualcomm/results/g292_z43_q16e/bert-99.9/server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 1163.1581666666664,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -664,13 +693,12 @@
     "Model": "bert-99.9",
     "Organization": "Qualcomm",
     "Platform": "g292_z43_q16e",
-    "Result": null,
-    "Result_Power": 1163.1581666666664,
-    "Result_Units": "Watts",
+    "Result": 5354.05,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "GIGABYTE G292-Z43 (16x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 16,
     "compliance": 1,
@@ -685,9 +713,11 @@
     "notes": "With 75W Accelerator TDP constraints. Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "d1fc7656c20b47b0",
+    "uid": "efb88542ea814b2d",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/Qualcomm/results/g292_z43_q16e/bert-99.9/server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 1163.1581666666664,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.28408874066913,
@@ -721,7 +751,9 @@
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel: 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "a90c72d6c25f4589",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/Qualcomm/results/r282_z93_q8e/bert-99/server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 529.5671666666664,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.28408874066913,
@@ -733,13 +765,12 @@
     "Model": "bert-99",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q8e",
-    "Result": null,
-    "Result_Power": 529.5671666666664,
-    "Result_Units": "Watts",
+    "Result": 4804.25,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "GIGABYTE R282-Z93 (8x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -754,9 +785,11 @@
     "notes": "With 75W Accelerator TDP constraints. 3x QAIC100 on riser CRS2033; 3x QAIC100 on riser CRS2033; 2x QAIC100 on riser CRS2026. Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel: 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "6590fa56bf7f4182",
+    "uid": "a90c72d6c25f4589",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/Qualcomm/results/r282_z93_q8e/bert-99/server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 529.5671666666664,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -790,7 +823,9 @@
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel: 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
     "uid": "1c84d5a57bdd472a",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/Qualcomm/results/r282_z93_q8e/bert-99.9/server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 599.4008333333335,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.8666333229796,
@@ -802,13 +837,12 @@
     "Model": "bert-99.9",
     "Organization": "Qualcomm",
     "Platform": "r282_z93_q8e",
-    "Result": null,
-    "Result_Power": 599.4008333333335,
-    "Result_Units": "Watts",
+    "Result": 2778.99,
+    "Result_Units": "Queries/s",
     "Scenario": "Server",
     "SystemName": "GIGABYTE R282-Z93 (8x QAIC100 Pro, EE)",
     "SystemType": "datacenter",
-    "Units": "Watts",
+    "Units": "Queries/s",
     "accelerator_model_name": "QUALCOMM Cloud AI 100 PCIe/HHHL Pro",
     "accelerators_per_node": 8,
     "compliance": 1,
@@ -823,9 +857,11 @@
     "notes": "With 75W Accelerator TDP constraints. 3x QAIC100 on riser CRS2033; 3x QAIC100 on riser CRS2033; 2x QAIC100 on riser CRS2026. Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel: 5.4.0-139-generic #156-Ubuntu SMP Fri Jan 20 17:27:18 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "6b7431fc87664e11",
+    "uid": "1c84d5a57bdd472a",
     "url": "https://github.com/mlcommons/inference_results_v3.1/tree/master/closed/Qualcomm/results/r282_z93_q8e/bert-99.9/server",
-    "version": "v3.1"
+    "version": "v3.1",
+    "Result_Power": 599.4008333333335,
+    "Result_Power_Units": "Watts"
   },
   {
     "Accuracy": 90.36306105137962,

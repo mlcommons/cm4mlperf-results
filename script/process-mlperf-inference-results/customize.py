@@ -5,7 +5,7 @@ from pathlib import Path
 def preprocess(i):
 
     env = i['env']
-    
+
     ii={'action':'find',
         'automation':'experiment,a0a2d123ef064bcb'}
 
@@ -52,7 +52,7 @@ def preprocess(i):
         if updated:
             ii['tags']=tags
             ii['meta']=meta
-            
+
             ii['action']='update'
             ii['replace']=True
 
@@ -62,8 +62,10 @@ def preprocess(i):
             if r['return']>0: return r
 
             print ('  - Tags updated!')
-            
+
         for path in Path(experiment.path).rglob("cm-result.json"):
+
+            print (path)
 
             r = cmind.utils.load_json(path)
             if r['return']>0: return r
@@ -73,7 +75,7 @@ def preprocess(i):
             updated = False
 
             for result in results:
-                if experiment_tags == "mlperf-inference":
+                if 'mlperf-inference' in tags:
                     if result.get('has_power', False):
                         result_power = result.get('Result_Power', '')
 
@@ -81,17 +83,18 @@ def preprocess(i):
 
                         if scenario == 'offline':
                             infs_per_second = result.get('Result')
+
                             if not infs_per_second or not result_power:
                                 continue
-                            inference_per_joule = infs_per_second / result_power
 
-                        if scenario in ['singlestream', 'multistream']:
+                            inference_per_joule = infs_per_second / result_power
+                        elif scenario in ['singlestream', 'multistream']:
                             latency_per_inference = result.get('Result')
                             result_power_units = result.get('Result_Power_Units')
 
                             if not latency_per_inference or not result_power or not result_power_units:
                                 continue
-                            
+
                             if result_power_units == "millijoules":
                                 inference_per_joule = 1000 / result_power if scenario == 'singlestream' else 8000/result_power
                             else:
@@ -102,6 +105,8 @@ def preprocess(i):
                         result['Inference_per_Joule'] = inference_per_joule
 
                         updated=True
+
+                        print ('  Result updated')
 
             if updated:
                 r=cmind.utils.save_json(path, results)

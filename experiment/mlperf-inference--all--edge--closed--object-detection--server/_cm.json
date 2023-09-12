@@ -9,7 +9,8 @@
     "edge",
     "closed",
     "object-detection",
-    "server"
+    "server",
+    "inference"
   ],
   "uid": "088b8d9e77924027"
 }

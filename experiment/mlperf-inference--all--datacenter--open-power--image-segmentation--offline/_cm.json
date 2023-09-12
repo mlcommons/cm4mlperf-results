@@ -9,7 +9,9 @@
     "datacenter",
     "open-power",
     "image-segmentation",
-    "offline"
+    "offline",
+    "inference",
+    "power"
   ],
   "uid": "0b4f4cca9e814924"
 }

@@ -9,7 +9,8 @@
     "edge",
     "open",
     "speech-recognition",
-    "singlestream"
+    "singlestream",
+    "inference"
   ],
   "uid": "9a68fdad94c3441e"
 }

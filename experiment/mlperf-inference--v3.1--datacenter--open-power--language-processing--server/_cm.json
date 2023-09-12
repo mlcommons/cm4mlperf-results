@@ -9,7 +9,9 @@
     "datacenter",
     "open-power",
     "language-processing",
-    "server"
+    "server",
+    "inference",
+    "power"
   ],
   "uid": "2d872b4089f14d8f"
 }
