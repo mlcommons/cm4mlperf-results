@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--v3.1--edge--open--speech-recognition--offline",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "v3.1",
+    "edge",
+    "open",
+    "speech-recognition",
+    "offline"
+  ],
+  "uid": "e2313f6b81114a78"
+}

@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--all--datacenter--open-power--image-classification--server",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "all",
+    "datacenter",
+    "open-power",
+    "image-classification",
+    "server"
+  ],
+  "uid": "f0e4503e60a240f3"
+}
