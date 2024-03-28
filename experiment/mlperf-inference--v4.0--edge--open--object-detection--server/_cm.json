@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--v4.0--edge--open--object-detection--server",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "v4.0",
+    "edge",
+    "open",
+    "object-detection",
+    "server"
+  ],
+  "uid": "c2dbc787a0b34f6b"
+}
