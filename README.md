@@ -49,7 +49,7 @@ Install [MLCommons CM framework](https://github.com/mlcommons/ck/blob/master/doc
 Pull CM repository with automation recipes and with MLPerf results in the CM format:
 ```bash
 cm pull repo mlcommons@ck
-cm pull repo mlcommons@ck_mlperf_results
+cm pull repo mlcommons@cm4mlperf-results
 ```
 
 Find CM entries with MLPerf inference v3.1 experiments from CMD:
