@@ -1,3 +1,4 @@
-alias: mlcommons@ck_mlperf_results
-git: true
+alias: mlcommons@cm4mlperf-results
 uid: 6fbf42fa292142da
+
+git: true
