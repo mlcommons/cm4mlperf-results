@@ -29,7 +29,7 @@
     "notes": "Powered by the KRAI X and KILT technologies over the network",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel 5.15.0-91-generic #101~20.04.1-Ubuntu SMP Thu Nov 16 14:22:28 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "4824087b1e5e4840",
+    "uid": "0b2469a1a80a4785",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/network/Krai/results/dl385_q8_std/retinanet/offline",
     "version": "v4.0"
   },

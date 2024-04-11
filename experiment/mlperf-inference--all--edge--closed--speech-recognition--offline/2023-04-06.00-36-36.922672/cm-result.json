@@ -29,7 +29,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-6.2.0-39-generic-glibc2.31)",
-    "uid": "dcb92b27ca264646",
+    "uid": "fcb3527ff86c4ddf",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/GATE_Overflow_Intel_Sapphire_Rapids-nvidia_original-gpu-tensorrt-vdefault-default_config/rnnt/offline",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "e3cefc7fb8d44bed",
+    "uid": "ef459ed97e2d4fc2",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XR7620_L4x1_TRT/rnnt/Offline",
     "version": "v4.0"
   },
@@ -97,7 +97,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "8476017e99274041",
+    "uid": "92e1cd7326764ec9",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XR8620_L4x1_TRT/rnnt/Offline",
     "version": "v4.0"
   },
@@ -131,7 +131,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "276ad2753eb0422c",
+    "uid": "82660d4bfbae447e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/SE450_L40x2_TRT/rnnt/Offline",
     "version": "v4.0"
   },
@@ -165,7 +165,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.15.0-92-generic-glibc2.35)",
-    "uid": "c2defb54d0654731",
+    "uid": "a8f1911c43064e7e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Wiwynn/results/ES200G2_L40Sx2_TRT/rnnt/Offline",
     "version": "v4.0"
   },

@@ -29,7 +29,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-6.2.0-39-generic-glibc2.31)",
-    "uid": "0604660d5b0f4689",
+    "uid": "a798feb5d7d44fee",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/GATE_Overflow_Intel_Sapphire_Rapids-nvidia_original-gpu-tensorrt-vdefault-default_config/retinanet/offline",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.5.0-14-generic-glibc2.35)",
-    "uid": "ac7f9bdcfdf946c2",
+    "uid": "63ef3400c8774a1d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/PCSPECIALIST_AMD_AM5_with_Nvidia_RTX_4090-cpp-cpu-onnxruntime-vdefault-default_config/retinanet/offline",
     "version": "v4.0"
   },
@@ -97,7 +97,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.5.0-14-generic-glibc2.35)",
-    "uid": "346bcd8a66cd4427",
+    "uid": "8da6dea6b88d4a56",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/PCSPECIALIST_AMD_AM5_with_Nvidia_RTX_4090-cpp-gpu-onnxruntime-vdefault-default_config/retinanet/offline",
     "version": "v4.0"
   },
@@ -131,7 +131,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "f034187aa95a4ff6",
+    "uid": "93d21b8cccb341c8",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XR7620_L4x1_TRT/retinanet/Offline",
     "version": "v4.0"
   },
@@ -165,7 +165,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "ec7262bb1f694b06",
+    "uid": "aa032cb9c5d04f80",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XR8620_L4x1_TRT/retinanet/Offline",
     "version": "v4.0"
   },
@@ -199,7 +199,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "5d3136631f01430d",
+    "uid": "fa8d2e36c5c0452a",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/SE360_L4x1_TRT/retinanet/Offline",
     "version": "v4.0"
   },
@@ -233,7 +233,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 5.15.0-94-generic #104-Ubuntu SMP Tue Jan 9 15:25:40 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "68bbe7a5ac054aa9",
+    "uid": "ddd2014ac31149be",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Qualcomm/results/r282_q2_ultra_pp/retinanet/offline",
     "version": "v4.0"
   },
@@ -267,7 +267,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.15.0-92-generic-glibc2.35)",
-    "uid": "4523b8f2a7fd4ad8",
+    "uid": "85d33fdf7ef24d9c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Wiwynn/results/ES200G2_L40Sx2_TRT/retinanet/Offline",
     "version": "v4.0"
   },

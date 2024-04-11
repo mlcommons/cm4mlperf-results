@@ -29,7 +29,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "67196698fa264635",
+    "uid": "311c034dbab04c38",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_Cray_XD670_H100_SXM_80GBx8_TRT_TRT/bert-99.9/Server",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "0eaf824b88c04ea9",
+    "uid": "bb94b5837f4343ef",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_ProLiant_DL380a_H100_PCIe_80GBx4_TRT_TRT/bert-99/Server",
     "version": "v4.0"
   },
@@ -97,7 +97,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "24f657a3388041a5",
+    "uid": "c420efdfe7ea416e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_ProLiant_DL380a_H100_PCIe_80GBx4_TRT_TRT/bert-99.9/Server",
     "version": "v4.0"
   },
@@ -131,7 +131,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "abac7d30f12f4b03",
+    "uid": "4448d870bb994dd9",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_ProLiant_DL380a_L40S_PCIe_48GBx4_TRT/bert-99.9/Server",
     "version": "v4.0"
   },
@@ -165,7 +165,7 @@
     "notes": "NVIDIA H100-PCIe-80GB. Red Hat OpenShift Container Platform 4.14 + OpenShift AI",
     "number_of_nodes": 1,
     "operating_system": "Red Hat Enterprise Linux CoreOS release 4.14",
-    "uid": "0e9ce33f4cab4852",
+    "uid": "3119e1727bd54df0",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/RedHat-Supermicro/results/AS-4125GS-TNRT-RedHat-OpenShift-AI/llama2-70b-99/Server",
     "version": "v4.0"
   },
@@ -199,7 +199,7 @@
     "notes": "NVIDIA H100-PCIe-80GB. Red Hat OpenShift Container Platform 4.14 + OpenShift AI",
     "number_of_nodes": 1,
     "operating_system": "Red Hat Enterprise Linux CoreOS release 4.14",
-    "uid": "50189dbef7af4509",
+    "uid": "fb5d60749bfa447d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/RedHat-Supermicro/results/AS-4125GS-TNRT-RedHat-OpenShift-AI/llama2-70b-99.9/Server",
     "version": "v4.0"
   },

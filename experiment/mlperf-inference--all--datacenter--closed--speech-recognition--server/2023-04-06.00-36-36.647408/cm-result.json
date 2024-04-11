@@ -29,7 +29,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 126 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "561ae4e5ef24443a",
+    "uid": "e3f2f92501304e4e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11P_H100x8_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 252 GB/s; PCIe-NIC: 63 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "13575a80d54a494c",
+    "uid": "0446200f71914980",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11_L40Sx8_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -97,7 +97,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "83165b5c84bc4ec3",
+    "uid": "0ce43c73145a49d2",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Cisco/results/1-node-2S-C240M7-EMR-PyTorch-MIX/rnnt/Server",
     "version": "v4.0"
   },
@@ -131,7 +131,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "d2f29e29199e40ca",
+    "uid": "63cf1cfeb13741dc",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R750xa_A100_PCIe_80GBx4_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -165,7 +165,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "e87e360f829049a4",
+    "uid": "c48b152daf8043f3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760xa_L40Sx4_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -199,7 +199,7 @@
     "notes": "INT4 for GPT-J, Mixed for RNN-T and INT8 for all other models",
     "number_of_nodes": 1,
     "operating_system": "CentOS Stream 8",
-    "uid": "71e2588c63714f77",
+    "uid": "e8c7c9c9ec4c450c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760_CPU/rnnt/Server",
     "version": "v4.0"
   },
@@ -233,7 +233,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "1ab1d69d7da14a08",
+    "uid": "92055affafce46c5",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760_L40Sx2_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -267,7 +267,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS",
-    "uid": "4f93a64c11234768",
+    "uid": "fe6063ed3d05491d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R7615_L40Sx2_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -301,7 +301,7 @@
     "notes": "Broadcom VM Specifications 32vCPU out of 120 and memory of 128 GB out of 1.5TB",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.4, VMware ESXi 8.0.2 22380479",
-    "uid": "7911e158e30a482f",
+    "uid": "175bf3e56110430f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/vR760_L40S_48Cx2_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -335,7 +335,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "eb471ecdee194a9a",
+    "uid": "9af7c2564f594da7",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE8640_H100_SXM_80GBx4_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -369,7 +369,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "45b5a5e94e9b4dd9",
+    "uid": "f155a0bbca7e4acc",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9640_H100_SXM_80GBX4_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -403,7 +403,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "dfce101c77974e85",
+    "uid": "6ac4ca33665a4f6b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9680_H100_SXM_80GBx8_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -437,7 +437,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 600GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "99b9e03ec3e54bf3",
+    "uid": "e8f0fe325ff94bdf",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/GigaComputing/results/GIGABYTE-G593-SD1_DGX-H100_H100-SXM-80GBx8_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -471,7 +471,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "aba734d22d1e4637",
+    "uid": "d7b35645ba0b40cf",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_Cray_XD670_H100_SXM_80GBx8_TRT_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -505,7 +505,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "eb3a072201154517",
+    "uid": "ab41f1f671c148e6",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_ProLiant_DL380a_H100_PCIe_80GBx4_TRT_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -539,7 +539,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "57bed5a22b1e4342",
+    "uid": "342079d0c3a34798",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_ProLiant_DL380a_L40S_PCIe_48GBx4_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -573,7 +573,7 @@
     "notes": "QuantaGrid D54Q-2U. N/A",
     "number_of_nodes": 1,
     "operating_system": "CentOS Stream 8",
-    "uid": "a05f3c7547924d10",
+    "uid": "304eda09163045cd",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Intel/results/1-node-2S-EMR-PyTorch/rnnt/Server",
     "version": "v4.0"
   },
@@ -607,7 +607,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "9a64cab7a2284dd0",
+    "uid": "c4a2788b0eac4cc8",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/SE455_L40x2_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -641,7 +641,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "4cb54f52ff7c4b2e",
+    "uid": "6f5ef02bb04b4bbc",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx1_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -675,7 +675,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "3c10acbc72e24035",
+    "uid": "858ee8f0c8d84c67",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -709,7 +709,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "6697fa4c94bc48ac",
+    "uid": "3831170dfd444edd",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Oracle/results/OCI-H100_H100-SXM-80GBx8_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -743,7 +743,7 @@
     "notes": "QuantaGrid D54X-1U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "5bb40f57ddcd4f27",
+    "uid": "36bf5eb6df9c429b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/1-node-2S-EMR-PyTorch/rnnt/Server",
     "version": "v4.0"
   },
@@ -777,7 +777,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "a70e8f53da234565",
+    "uid": "d4fb078762474043",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_H100_PCIe_80GBx4_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -811,7 +811,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "20de9d5b5d094598",
+    "uid": "675f847605f342c4",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_L40S_PCIe_48GBx4_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -845,7 +845,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS",
-    "uid": "0f930a44434e4a06",
+    "uid": "46db25d7648140d4",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS_821GE_TNHR_H100_SXM_80GBx8_TRT/rnnt/Server",
     "version": "v4.0"
   },
@@ -879,7 +879,7 @@
     "notes": "Wiwynn ES200G2. N/A",
     "number_of_nodes": 1,
     "operating_system": "Centos 8 (linux-6.6.8-1.el8.elrepo.x86_64-glibc2.28)",
-    "uid": "b52dee4b00c14769",
+    "uid": "053dad1bedca4bdb",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Wiwynn/results/1-node-1S-EMR-PyTorch/rnnt/Server",
     "version": "v4.0"
   },

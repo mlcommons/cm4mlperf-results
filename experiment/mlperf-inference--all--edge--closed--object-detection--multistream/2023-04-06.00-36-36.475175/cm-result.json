@@ -29,7 +29,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-6.2.0-39-generic-glibc2.31)",
-    "uid": "06d223b9ae0d4c3e",
+    "uid": "f4ffe9160e124ed4",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/GATE_Overflow_Intel_Sapphire_Rapids-nvidia_original-gpu-tensorrt-vdefault-default_config/retinanet/multistream",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.5.0-14-generic-glibc2.35)",
-    "uid": "473df557f3e644dd",
+    "uid": "cb7385cd02de49f4",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/PCSPECIALIST_AMD_AM5_with_Nvidia_RTX_4090-cpp-cpu-onnxruntime-vdefault-default_config/retinanet/multistream",
     "version": "v4.0"
   },
@@ -97,7 +97,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.5.0-14-generic-glibc2.35)",
-    "uid": "8247956dbf2d4c1a",
+    "uid": "28a7973f44944ee3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/PCSPECIALIST_AMD_AM5_with_Nvidia_RTX_4090-cpp-gpu-onnxruntime-vdefault-default_config/retinanet/multistream",
     "version": "v4.0"
   },
@@ -131,7 +131,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "4ad0a519f33448ce",
+    "uid": "8463e4488f8444bd",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XR7620_L4x1_TRT/retinanet/MultiStream",
     "version": "v4.0"
   },
@@ -165,7 +165,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "ec09856d41ff4819",
+    "uid": "78d13cb67b2946e1",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XR8620_L4x1_TRT/retinanet/MultiStream",
     "version": "v4.0"
   },
@@ -199,7 +199,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "43927ac35c0f48d1",
+    "uid": "cf1a9a0969b4408a",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/SE360_L4x1_TRT/retinanet/MultiStream",
     "version": "v4.0"
   },
@@ -233,7 +233,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 5.15.0-94-generic #104-Ubuntu SMP Tue Jan 9 15:25:40 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "2792942c4b6045ed",
+    "uid": "99c37b016aea4e8b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Qualcomm/results/r282_q2_ultra_pp/retinanet/multistream",
     "version": "v4.0"
   },
@@ -267,7 +267,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.15.0-92-generic-glibc2.35)",
-    "uid": "6511cdacd3ab4e2c",
+    "uid": "ff632ca2cc6a42fb",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Wiwynn/results/ES200G2_L40Sx2_TRT/retinanet/MultiStream",
     "version": "v4.0"
   },

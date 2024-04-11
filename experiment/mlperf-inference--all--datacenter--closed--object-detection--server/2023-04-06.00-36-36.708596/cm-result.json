@@ -29,7 +29,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 126 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "394d91457dd44508",
+    "uid": "7fe69460b1364275",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11P_H100x8_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 252 GB/s; PCIe-NIC: 63 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "c69f50eab87b4849",
+    "uid": "71d6209f4e564bc2",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11_L40Sx8_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -97,7 +97,7 @@
     "notes": "N/A",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "60ddd3ad01ef4804",
+    "uid": "c5343ccdcf664b4c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Cisco/results/1-node-2S-C240M7-EMR-PyTorch-INT8/retinanet/Server",
     "version": "v4.0"
   },
@@ -131,7 +131,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Amzn 2 (linux-5.10.209-198.812.amzn2.x86_64-glibc2.26)",
-    "uid": "5491376583d44b3e",
+    "uid": "3200c39537794203",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/aws_dl2q.24xlarge-kilt-qaic-glow-vdefault-default_config/retinanet/server",
     "version": "v4.0"
   },
@@ -165,7 +165,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "8f96e26743c040ee",
+    "uid": "5d9f2fb5d3544f9c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R750xa_A100_PCIe_80GBx4_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -199,7 +199,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "d87d182ea16f4e22",
+    "uid": "6774614e62474e7e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760xa_L40Sx4_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -233,7 +233,7 @@
     "notes": "INT4 for GPT-J, Mixed for RNN-T and INT8 for all other models",
     "number_of_nodes": 1,
     "operating_system": "CentOS Stream 8",
-    "uid": "951c673e4f5e40b9",
+    "uid": "c943c7622a3f45d4",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760_CPU/retinanet/Server",
     "version": "v4.0"
   },
@@ -267,7 +267,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "2d2b518129e24bdb",
+    "uid": "b433de3b4a9849d0",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760_L40Sx2_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -301,7 +301,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.4 LTS (Linux kernel 5.15.0-92-generic #102-Ubuntu SMP Wed Jan 10 09:33:48 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "ba58ba6e6d594068",
+    "uid": "9487f8904d774022",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/r760_q4_ultra/retinanet/server",
     "version": "v4.0"
   },
@@ -335,7 +335,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS",
-    "uid": "c127207cb7b34270",
+    "uid": "c6d6bc14573c440f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R7615_L40Sx2_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -369,7 +369,7 @@
     "notes": "Broadcom VM Specifications 32vCPU out of 120 and memory of 128 GB out of 1.5TB",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.4, VMware ESXi 8.0.2 22380479",
-    "uid": "0bc2508c68f34ca2",
+    "uid": "a35a844c8cdb40d1",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/vR760_L40S_48Cx2_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -403,7 +403,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "2d939e4bfbcb4de0",
+    "uid": "514cc8bd9d694064",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE8640_H100_SXM_80GBx4_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -437,7 +437,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "f9a06df1fb524cb6",
+    "uid": "57aeb93e6c804d64",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9640_H100_SXM_80GBX4_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -471,7 +471,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "bbea72410f6346f8",
+    "uid": "9ce42d982b61457b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9680_H100_SXM_80GBx8_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -505,7 +505,7 @@
     "notes": "Broadcom VM Specifications 32vCPU out of 224 and memory of 128 GB out of 1TB",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.4, VMware ESXi 8.0.2 22380479",
-    "uid": "d93119efe5ae4897",
+    "uid": "a4322a6f986b463e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9680_IntelXeon8480_NVIDIA_H100_SXM_80GBx8_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -539,7 +539,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 600GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "1f908b76a59c40f1",
+    "uid": "f22539670e9a4e86",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/GigaComputing/results/GIGABYTE-G593-SD1_DGX-H100_H100-SXM-80GBx8_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -573,7 +573,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "9354c696f89b4137",
+    "uid": "0e425fdfc5cc41a4",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Google/results/H100-SXM-80GBx8_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -607,7 +607,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "4458cb9028824615",
+    "uid": "8cd3790db6164c3b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_Cray_XD670_H100_SXM_80GBx8_TRT_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -641,7 +641,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "effba8c5f5b9418f",
+    "uid": "553144514438431a",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_ProLiant_DL380a_H100_PCIe_80GBx4_TRT_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -675,7 +675,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "9b7d00bcc29c4fe0",
+    "uid": "d8026ce7bdac4351",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_ProLiant_DL380a_L40S_PCIe_48GBx4_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -709,7 +709,7 @@
     "notes": "QuantaGrid D54Q-2U. N/A",
     "number_of_nodes": 1,
     "operating_system": "CentOS Stream 8",
-    "uid": "1b58bc183bba435e",
+    "uid": "041b2847d76641f9",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Intel/results/1-node-2S-EMR-PyTorch/retinanet/Server",
     "version": "v4.0"
   },
@@ -743,7 +743,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "3252c5b2b0734c9a",
+    "uid": "1f3a8b67cb7a4892",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/SE455_L40x2_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -777,7 +777,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 5.15.0-94-generic #104-Ubuntu SMP Tue Jan 9 15:25:40 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "5199fe4c240846a0",
+    "uid": "95eaa12701d8451e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/sr670_q4_ultra/retinanet/server",
     "version": "v4.0"
   },
@@ -811,7 +811,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "fe3951a609324d4b",
+    "uid": "57a65e4553644527",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx1_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -845,7 +845,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "c6ff0455875b4921",
+    "uid": "6b0f16da5dfd48c5",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -879,7 +879,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "952c2a77b829431d",
+    "uid": "b60e6196efc9408f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Oracle/results/OCI-H100_H100-SXM-80GBx8_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -913,7 +913,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 6.2.0-37-generic #38~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov  2 18:01:13 UTC 2 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "d7dbebe646e54652",
+    "uid": "b0630f0e901540fa",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Qualcomm/results/g293_q16_ultra_pp/retinanet/server",
     "version": "v4.0"
   },
@@ -947,7 +947,7 @@
     "notes": "QuantaGrid D54X-1U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "ff8437df4fa14bed",
+    "uid": "14133865b4da419f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/1-node-2S-EMR-PyTorch/retinanet/Server",
     "version": "v4.0"
   },
@@ -981,7 +981,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "7b244ee1991d4ca4",
+    "uid": "9495209b28014eb3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_H100_PCIe_80GBx4_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -1015,7 +1015,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "4f4d28dc33754548",
+    "uid": "10245cd6c3704526",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_L40S_PCIe_48GBx4_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -1049,7 +1049,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "24467ad1f1344436",
+    "uid": "2fc71be40cbc48f8",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS-521GE-TNRT_L40S_PCIe_48GBx8_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -1083,7 +1083,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS",
-    "uid": "313dbc2a308e4a09",
+    "uid": "48b0ed547cb1415d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS_821GE_TNHR_H100_SXM_80GBx8_TRT/retinanet/Server",
     "version": "v4.0"
   },
@@ -1117,7 +1117,7 @@
     "notes": "Wiwynn ES200G2. N/A",
     "number_of_nodes": 1,
     "operating_system": "Centos 8 (linux-6.6.8-1.el8.elrepo.x86_64-glibc2.28)",
-    "uid": "80c8c300dea94d20",
+    "uid": "4d38dd863e614c82",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Wiwynn/results/1-node-1S-EMR-PyTorch/retinanet/Server",
     "version": "v4.0"
   },

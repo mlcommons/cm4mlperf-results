@@ -29,7 +29,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-6.2.0-39-generic-glibc2.31)",
-    "uid": "012e9c258ffd4acd",
+    "uid": "e3d8b46d729449d0",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/GATE_Overflow_Intel_Sapphire_Rapids-nvidia_original-gpu-tensorrt-vdefault-default_config/bert-99/offline",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-6.2.0-39-generic-glibc2.31)",
-    "uid": "b9c1abd632af4eef",
+    "uid": "d4c0524397ca4190",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/GATE_Overflow_Intel_Sapphire_Rapids-nvidia_original-gpu-tensorrt-vdefault-default_config/bert-99.9/offline",
     "version": "v4.0"
   },
@@ -97,7 +97,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-6.2.0-39-generic-glibc2.31)",
-    "uid": "c71e861c4c694fa2",
+    "uid": "f6e475bfb3f04baf",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/GATE_Overflow_Intel_Sapphire_Rapids-nvidia_original-gpu-tensorrt-vdefault-default_config/gptj-99/offline",
     "version": "v4.0"
   },
@@ -131,7 +131,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-6.2.0-39-generic-glibc2.31)",
-    "uid": "a91a3f6824c74221",
+    "uid": "0bdbd0570cc14a79",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/GATE_Overflow_Intel_Sapphire_Rapids-nvidia_original-gpu-tensorrt-vdefault-default_config/gptj-99.9/offline",
     "version": "v4.0"
   },
@@ -165,7 +165,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.2.0-36-generic-glibc2.35)",
-    "uid": "0a401bce02dd4d56",
+    "uid": "0be42ae6c61640d8",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/PCSPECIALIST_AMD_AM5_PC-reference-cpu-onnxruntime-v1.15.1-default_config/bert-99/offline",
     "version": "v4.0"
   },
@@ -199,7 +199,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.5.0-14-generic-glibc2.35)",
-    "uid": "a9a33675b01e4365",
+    "uid": "f68dc63242084335",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/PCSPECIALIST_AMD_AM5_PC_with_Nvidia_RTX_4090-reference-cpu-pytorch-v2.1.0-default_config/bert-99/offline",
     "version": "v4.0"
   },
@@ -233,7 +233,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.5.0-14-generic-glibc2.35)",
-    "uid": "e6a5670900c94d97",
+    "uid": "e48e2d15c0484d3d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/PCSPECIALIST_AMD_AM5_PC_with_Nvidia_RTX_4090-reference-gpu-onnxruntime-v1.16.3-default_config/bert-99/offline",
     "version": "v4.0"
   },
@@ -267,7 +267,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.5.0-14-generic-glibc2.35)",
-    "uid": "1f341a442cb54704",
+    "uid": "a25b9602f4fa465d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/PCSPECIALIST_AMD_AM5_PC_with_Nvidia_RTX_4090-reference-gpu-pytorch-v2.1.0-default_config/bert-99/offline",
     "version": "v4.0"
   },
@@ -301,7 +301,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.5.0-14-generic-glibc2.35)",
-    "uid": "32d39f9c03964230",
+    "uid": "c273d4b9eb504660",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/PCSPECIALIST_AMD_AM5_PC_with_Nvidia_RTX_4090-reference-gpu-tf-v2.13.0-default_config/bert-99/offline",
     "version": "v4.0"
   },
@@ -335,7 +335,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "354cb39a2f6a40cf",
+    "uid": "9c83425c872747d1",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XR7620_L4x1_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -369,7 +369,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "b03470c38d3442cf",
+    "uid": "295eb8b9282a48d1",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XR8620_L4x1_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -403,7 +403,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "ad2e2a5846e54b16",
+    "uid": "ee98ca8c247e4d6c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/SE450_L40x2_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -437,7 +437,7 @@
     "notes": "GPU and both DLAs are used in resnet50 and Retinanet, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Jetson r35.3.1 L4T",
-    "uid": "4085a76ca78e475f",
+    "uid": "095a5807e35644c5",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/Orin_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -471,7 +471,7 @@
     "notes": "GPU and both DLAs are used in resnet50 and Retinanet, in Offline scenario",
     "number_of_nodes": 1,
     "operating_system": "Jetson r35.3.1 L4T",
-    "uid": "5d4658e4b7fd46cf",
+    "uid": "6ffa208401354374",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/Orin_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -505,7 +505,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 5.15.0-94-generic #104-Ubuntu SMP Tue Jan 9 15:25:40 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "e19f367ca5464d72",
+    "uid": "d12751bf331c44e3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Qualcomm/results/r282_q2_ultra_pp/bert-99/offline",
     "version": "v4.0"
   },
@@ -539,7 +539,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.15.0-92-generic-glibc2.35)",
-    "uid": "e9316baf50a047d3",
+    "uid": "2c0d21e3029f4891",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Wiwynn/results/ES200G2_L40Sx2_TRT/bert-99/Offline",
     "version": "v4.0"
   },

@@ -29,7 +29,7 @@
     "notes": "Automated by MLCommons CM v2.0.1. ",
     "number_of_nodes": 1,
     "operating_system": "Amzn 2 (linux-5.10.205-195.804.amzn2.x86_64-glibc2.26)",
-    "uid": "7bb5b2c798304665",
+    "uid": "72f1fbb93f044bf9",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/CTuning/results/AWS_dl2q.24xlarge-kilt-qaic-glow-vdefault-default_config/retinanet/offline",
     "version": "v4.0"
   },

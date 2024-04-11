@@ -29,7 +29,7 @@
     "notes": "Powered by the KRAI X and KILT technologies over the network",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel 5.15.0-91-generic #101~20.04.1-Ubuntu SMP Thu Nov 16 14:22:28 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "e7c0c89d0c214781",
+    "uid": "41cf8200f9d64b45",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/network/Krai/results/dl385_q8_std/bert-99/offline",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "Powered by the KRAI X and KILT technologies over the network",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS (Linux kernel 5.15.0-91-generic #101~20.04.1-Ubuntu SMP Thu Nov 16 14:22:28 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "505b5b5946af47aa",
+    "uid": "7fe33b360e6048f0",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/network/Krai/results/dl385_q8_std/bert-99.9/offline",
     "version": "v4.0"
   },

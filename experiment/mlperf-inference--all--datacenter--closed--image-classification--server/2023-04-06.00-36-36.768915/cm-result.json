@@ -29,7 +29,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 126 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "dfc1a91651cd4292",
+    "uid": "15fc2e435c82446b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11P_H100x8_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 252 GB/s; PCIe-NIC: 63 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "7713306284854e1e",
+    "uid": "6957c9b02a7a49d7",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11_L40Sx8_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -97,7 +97,7 @@
     "notes": "N/A",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "b35faa37a11f4045",
+    "uid": "6b0f9797870244c0",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Cisco/results/1-node-2S-C240M7-EMR-PyTorch-INT8/resnet50/Server",
     "version": "v4.0"
   },
@@ -131,7 +131,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Amzn 2 (linux-5.10.209-198.812.amzn2.x86_64-glibc2.26)",
-    "uid": "62036262cde049b7",
+    "uid": "d12bc060c2ee49a8",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/aws_dl2q.24xlarge-kilt-qaic-glow-vdefault-default_config/resnet50/server",
     "version": "v4.0"
   },
@@ -165,7 +165,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "1ddcb59d9d1a4c31",
+    "uid": "b2162ba116ff4001",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R750xa_A100_PCIe_80GBx4_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -199,7 +199,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "0741121742d14c14",
+    "uid": "fdf1e109765546c2",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760xa_L40Sx4_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -233,7 +233,7 @@
     "notes": "INT4 for GPT-J, Mixed for RNN-T and INT8 for all other models",
     "number_of_nodes": 1,
     "operating_system": "CentOS Stream 8",
-    "uid": "8e213993665e4fec",
+    "uid": "cd41b205bce44f58",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760_CPU/resnet50/Server",
     "version": "v4.0"
   },
@@ -267,7 +267,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "86770d1aaa9643a5",
+    "uid": "2b91407816c64ba3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760_L40Sx2_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -301,7 +301,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.4 LTS (Linux kernel 5.15.0-92-generic #102-Ubuntu SMP Wed Jan 10 09:33:48 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "10e52cfdd0524207",
+    "uid": "7aed03c9c76948bd",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/r760_q4_ultra/resnet50/server",
     "version": "v4.0"
   },
@@ -335,7 +335,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS",
-    "uid": "bd18d8b3870545cb",
+    "uid": "d5b38c5de70042e0",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R7615_L40Sx2_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -369,7 +369,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "c15ecf22adb5461c",
+    "uid": "7e2b80e90f534f3e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE8640_H100_SXM_80GBx4_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -403,7 +403,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "b8291cd67edc463d",
+    "uid": "d9daefffbb06432f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9640_H100_SXM_80GBX4_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -437,7 +437,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "1b4a320e06c74225",
+    "uid": "f212e4577f5e4f85",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9680_H100_SXM_80GBx8_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -471,7 +471,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "b4c485c0f0c5441b",
+    "uid": "6e465091211240d9",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Fujitsu/results/GX2560M7_H100_SXM_80GBx4_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -505,7 +505,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 600GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "dc09ccf6ff504624",
+    "uid": "23a3f2e69f704805",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/GigaComputing/results/GIGABYTE-G593-SD1_DGX-H100_H100-SXM-80GBx8_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -539,7 +539,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 5.15.0-94-generic #104-Ubuntu SMP Tue Jan 9 15:25:40 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "72575febe1904de4",
+    "uid": "3163a07306234f65",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/dl380_q8_ultra/resnet50/server",
     "version": "v4.0"
   },
@@ -573,7 +573,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "07c3eeb5e8304d65",
+    "uid": "c6e847d4600042d7",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_Cray_XD670_H100_SXM_80GBx8_TRT_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -607,7 +607,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "02073ff148ce40d6",
+    "uid": "1162bfc3801a47ee",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_ProLiant_DL380a_H100_PCIe_80GBx4_TRT_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -641,7 +641,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "8ed3066bb81d4155",
+    "uid": "8c2e1e23b7e1438c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_ProLiant_DL380a_L40S_PCIe_48GBx4_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -675,7 +675,7 @@
     "notes": "QuantaGrid D54Q-2U. N/A",
     "number_of_nodes": 1,
     "operating_system": "CentOS Stream 8",
-    "uid": "85e83860d1814c6b",
+    "uid": "0e1e3f1b62ad4776",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Intel/results/1-node-2S-EMR-PyTorch/resnet50/Server",
     "version": "v4.0"
   },
@@ -709,7 +709,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "c791d05bbc91438c",
+    "uid": "25ba5baa6a494392",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/SE455_L40x2_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -743,7 +743,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 5.15.0-94-generic #104-Ubuntu SMP Tue Jan 9 15:25:40 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "13456f0ac4094b90",
+    "uid": "618add35ddc44985",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/sr670_q4_ultra/resnet50/server",
     "version": "v4.0"
   },
@@ -777,7 +777,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "c6bb61869c214467",
+    "uid": "e2f448b07d474aa8",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx1_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -811,7 +811,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "52a451abc7eb4fa4",
+    "uid": "d52b6b21e2a844b5",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -845,7 +845,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "3011101c39ef449e",
+    "uid": "512cd695c4c64e7f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Oracle/results/OCI-H100_H100-SXM-80GBx8_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -879,7 +879,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 6.2.0-37-generic #38~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov  2 18:01:13 UTC 2 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "a4598a0126244b80",
+    "uid": "ffcf2c458a604f00",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Qualcomm/results/g293_q16_ultra_pp/resnet50/server",
     "version": "v4.0"
   },
@@ -913,7 +913,7 @@
     "notes": "QuantaGrid D54X-1U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "81208393fcf4419f",
+    "uid": "069427ba1526433f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/1-node-2S-EMR-PyTorch/resnet50/Server",
     "version": "v4.0"
   },
@@ -947,7 +947,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "e2075fbb0cab4702",
+    "uid": "ea37a55ecadd4736",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_H100_PCIe_80GBx4_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -981,7 +981,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "3327b98df9ba48d8",
+    "uid": "41d67d046c544041",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_L40S_PCIe_48GBx4_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -1015,7 +1015,7 @@
     "notes": "N/A",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 8.7",
-    "uid": "43c4176ac90c4964",
+    "uid": "0937687eb2394038",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/1-node-2S-EMR-PyTorch-INT8/resnet50/Server",
     "version": "v4.0"
   },
@@ -1049,7 +1049,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "ccd14411e5174bde",
+    "uid": "d9b0c77c4ef9494e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS-521GE-TNRT_L40S_PCIe_48GBx8_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -1083,7 +1083,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS",
-    "uid": "f511b6043bf64227",
+    "uid": "f1a1a49f47074bae",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS_821GE_TNHR_H100_SXM_80GBx8_TRT/resnet50/Server",
     "version": "v4.0"
   },
@@ -1117,7 +1117,7 @@
     "notes": "Wiwynn ES200G2. N/A",
     "number_of_nodes": 1,
     "operating_system": "Centos 8 (linux-6.6.8-1.el8.elrepo.x86_64-glibc2.28)",
-    "uid": "76c9bef25c4640f9",
+    "uid": "f9a2013dcc534ee9",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Wiwynn/results/1-node-1S-EMR-PyTorch/resnet50/Server",
     "version": "v4.0"
   },

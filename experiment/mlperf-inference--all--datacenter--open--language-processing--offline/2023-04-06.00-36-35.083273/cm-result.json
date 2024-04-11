@@ -29,7 +29,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 23.04 (linux-6.2.0-39-generic-glibc2.37)",
-    "uid": "52126aea47044b84",
+    "uid": "5f8fd7c7ab404d96",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/CTuning/results/arjun_spr-reference-cpu-pytorch-v2.1.0-default_config/bert-99/offline",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 23.04 (linux-6.2.0-39-generic-glibc2.37)",
-    "uid": "362eb90f72434f2b",
+    "uid": "6cf57fc26b5a4dfd",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/CTuning/results/GATE_Overflow_Intel_Sapphire_Rapids-reference-gpu-pytorch-v2.1.1-default_config/llama2-70b-99/offline",
     "version": "v4.0"
   },
@@ -97,7 +97,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.5.0-14-generic-glibc2.35)",
-    "uid": "c24129636ab446af",
+    "uid": "e1185531208646d4",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/CTuning/results/PCSPECIALIST_AMD_AM5_PC_with_Nvidia_RTX_4090-reference-cpu-pytorch-v2.2.0-network_loadgen/bert-99/offline",
     "version": "v4.0"
   },
@@ -131,7 +131,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.5.0-14-generic-glibc2.35)",
-    "uid": "2734112ea86f4305",
+    "uid": "f353a41ed9f747bd",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/CTuning/results/PCSPECIALIST_AMD_AM5_PC_with_Nvidia_RTX_4090-reference-gpu-onnxruntime-v1.16.3-network_loadgen/bert-99/offline",
     "version": "v4.0"
   },
@@ -165,7 +165,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "fa3db3abd49c47d9",
+    "uid": "8fc440b59c3a40b4",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_Cray_XD670_H100_SXM_80GBx8_TRT_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -199,7 +199,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "3176035f9a084760",
+    "uid": "74bc665efd064f8a",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_Cray_XD670_H100_SXM_80GBx8_TRT_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -233,7 +233,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "d09b997c15fb4580",
+    "uid": "7b74858299184b28",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_Cray_XD670_H100_SXM_80GBx8_TRT_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -267,7 +267,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "b64d511490a14b13",
+    "uid": "75f93428a67540af",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_ProLiant_DL380a_H100_PCIe_80GBx4_TRT_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -301,7 +301,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "ea1a1d8e0cd149b6",
+    "uid": "218f163f81514f9b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_ProLiant_DL380a_H100_PCIe_80GBx4_TRT_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -335,7 +335,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "d3c6ef4e30d74ca2",
+    "uid": "1b8d8b40c2e5441b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_ProLiant_DL380a_L40S_PCIe_48GBx4_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -369,7 +369,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "83aa385f553b4b42",
+    "uid": "e8e6dd4238484ff6",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_ProLiant_DL380a_L40S_PCIe_48GBx4_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -403,7 +403,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "f9b3c0a818654412",
+    "uid": "770c28c3665245b4",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/HPE/results/HPE_ProLiant_DL380a_L40S_PCIe_48GBx4_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -437,7 +437,7 @@
     "notes": "",
     "number_of_nodes": 2,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "a5804daf8f294ca8",
+    "uid": "4ee464d10bf4441b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/JuniperNetworks/results/A100-2N-80GB/llama2-70b-99/Offline",
     "version": "v4.0"
   },
@@ -471,7 +471,7 @@
     "notes": "",
     "number_of_nodes": 2,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "f80e395988a24a88",
+    "uid": "8c8ec7c591a64f33",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/JuniperNetworks/results/H100-2N-80GB/llama2-70b-99/Offline",
     "version": "v4.0"
   },
@@ -505,7 +505,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "debdbd45cef44cf6",
+    "uid": "e433b4c12d074c68",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/NVIDIA/results/DGX-H100_H100-SXM-80GBx1_TRT_PRUNED/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -539,7 +539,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "a6e55dcb1fc34733",
+    "uid": "9c23687fc88b4197",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_SPARSE/llama2-70b-99/Offline",
     "version": "v4.0"
   },
@@ -573,7 +573,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "f06ec9dfe5d742ce",
+    "uid": "5c9cdd8592344685",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT_SPARSE/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -607,7 +607,7 @@
     "notes": "NVIDIA H100-SXM-80GB. Red Hat OpenShift Container Platform 4.14 + OpenShift AI",
     "number_of_nodes": 1,
     "operating_system": "Red Hat Enterprise Linux CoreOS release 4.14",
-    "uid": "d247254f256c4d32",
+    "uid": "a5a79ace7862411f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/RedHat/results/DGX-RedHat-OpenShift/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -641,7 +641,7 @@
     "notes": "NVIDIA H100-SXM-80GB. Red Hat OpenShift Container Platform 4.14 + OpenShift AI",
     "number_of_nodes": 1,
     "operating_system": "Red Hat Enterprise Linux CoreOS release 4.14",
-    "uid": "12d5421fdfa8413f",
+    "uid": "a4a0bc241a264ee3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/RedHat/results/DGX-RedHat-OpenShift/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -675,7 +675,7 @@
     "notes": "NVIDIA H100-PCIe-80GB. Red Hat OpenShift Container Platform 4.14 + OpenShift AI",
     "number_of_nodes": 1,
     "operating_system": "Red Hat Enterprise Linux CoreOS release 4.14",
-    "uid": "58eb232d2de645b4",
+    "uid": "51f2b6f71f1244cd",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/RedHat-Supermicro/results/AS-4125GS-TNRT-RedHat-OpenShift-AI/llama2-70b-99/Offline",
     "version": "v4.0"
   },
@@ -709,7 +709,7 @@
     "notes": "NVIDIA H100-PCIe-80GB. Red Hat OpenShift Container Platform 4.14 + OpenShift AI",
     "number_of_nodes": 1,
     "operating_system": "Red Hat Enterprise Linux CoreOS release 4.14",
-    "uid": "8ed018e5ae3b47a5",
+    "uid": "96c5410af1f04082",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/RedHat-Supermicro/results/AS-4125GS-TNRT-RedHat-OpenShift-AI/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },

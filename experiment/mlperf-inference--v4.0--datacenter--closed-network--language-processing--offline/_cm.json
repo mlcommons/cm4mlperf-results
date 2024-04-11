@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--v4.0--datacenter--closed-network--language-processing--offline",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "v4.0",
+    "datacenter",
+    "closed-network",
+    "language-processing",
+    "offline"
+  ],
+  "uid": "f3a7d52b9f684efa"
+}
