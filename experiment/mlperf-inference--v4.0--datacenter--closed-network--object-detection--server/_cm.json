@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--v4.0--datacenter--closed-network--object-detection--server",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "v4.0",
+    "datacenter",
+    "closed-network",
+    "object-detection",
+    "server"
+  ],
+  "uid": "2cc8bcfbc1ca43d8"
+}

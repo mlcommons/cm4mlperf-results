@@ -29,7 +29,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 126 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "6a51539a4d624c8a",
+    "uid": "5e48c454c9be4a24",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11P_H100x8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -63,7 +63,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 126 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "2ef48d0d902e4428",
+    "uid": "3224f5848dea431e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11P_H100x8_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -97,7 +97,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 252 GB/s; PCIe-NIC: 63 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "2622c958835f47c4",
+    "uid": "e642c7221cca4a5e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11_L40Sx8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -131,7 +131,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 252 GB/s; PCIe-NIC: 63 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "6bd99f493a9745bf",
+    "uid": "ce6a2f5619254d32",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11_L40Sx8_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -165,7 +165,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 252 GB/s; PCIe-NIC: 63 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "153653dda1574df0",
+    "uid": "b24ac1e8a88547e6",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11_L40Sx8_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -199,7 +199,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 252 GB/s; PCIe-NIC: 63 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "169c16771ea545e7",
+    "uid": "10701d3e59db4695",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11_L40Sx8_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -233,7 +233,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 252 GB/s; PCIe-NIC: 15.7 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "fb82948ed149457f",
+    "uid": "ab9304c27730454f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11_L4x8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -267,7 +267,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 252 GB/s; PCIe-NIC: 15.7 GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "e679f76e62a24889",
+    "uid": "d9a5236bce0e4e19",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/ASUSTeK/results/ESC8000_E11_L4x8_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -301,7 +301,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS",
-    "uid": "b745d598cca04fbe",
+    "uid": "3919348c4f864dcd",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Azure/results/NC_H100_v5_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -335,7 +335,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS",
-    "uid": "e2943bb4dbb54947",
+    "uid": "5a85173070f94df7",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Azure/results/NC_H100_v5_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -369,7 +369,7 @@
     "notes": "N/A",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "71adcf27018b4d19",
+    "uid": "4ecbf05cd8534de2",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Cisco/results/1-node-2S-C240M7-EMR-PyTorch-INT4/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -403,7 +403,7 @@
     "notes": "N/A",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "42da314774f74288",
+    "uid": "6e8dbae7bd95443a",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Cisco/results/1-node-2S-C240M7-EMR-PyTorch-INT8/bert-99/Offline",
     "version": "v4.0"
   },
@@ -437,7 +437,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-5.15.0-94-generic-glibc2.35)",
-    "uid": "07474b8fd24d43f6",
+    "uid": "4cf7bb0c18744dc5",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/Cirrascale_4xQAIC_AI_100-kilt-qaic-glow-vdefault-default_config/bert-99/offline",
     "version": "v4.0"
   },
@@ -471,7 +471,7 @@
     "notes": "Automated by MLCommons CM v2.0.0. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04 (linux-6.2.0-39-generic-glibc2.35)",
-    "uid": "a67eb4811ce44598",
+    "uid": "1020da439f554416",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/CTuning/results/GATEOverflow_Intel_Saphhire_Rapids-intel-cpu-pytorch-vdefault-default_config/bert-99/offline",
     "version": "v4.0"
   },
@@ -505,7 +505,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "499cddef5e534f93",
+    "uid": "ff060525d9924001",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R750xa_A100_PCIe_80GBx4_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -539,7 +539,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "df14df4f32dd4b6b",
+    "uid": "aafb0381c3b0466f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R750xa_A100_PCIe_80GBx4_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -573,7 +573,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "2117e4d319ed4d2d",
+    "uid": "dec1c44abcb0430e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760xa_L40Sx4_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -607,7 +607,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "eefc0c5d75c64d2f",
+    "uid": "c9c93333631040d3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760xa_L40Sx4_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -641,7 +641,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "82e3c1db8dd74d6b",
+    "uid": "8cbd9b0060c1480b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760xa_L40Sx4_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -675,7 +675,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "909a6ec2018b4176",
+    "uid": "4fe43a3939b043c9",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760xa_L40Sx4_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -709,7 +709,7 @@
     "notes": "INT4 for GPT-J, Mixed for RNN-T and INT8 for all other models",
     "number_of_nodes": 1,
     "operating_system": "CentOS Stream 8",
-    "uid": "1df950149fed47fc",
+    "uid": "d26af29da60b4154",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760_CPU/bert-99/Offline",
     "version": "v4.0"
   },
@@ -743,7 +743,7 @@
     "notes": "INT4 for GPT-J, Mixed for RNN-T and INT8 for all other models",
     "number_of_nodes": 1,
     "operating_system": "CentOS Stream 8",
-    "uid": "b7bf243ae1ca4176",
+    "uid": "87469a05bdd94dd0",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760_CPU/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -777,7 +777,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "b1d345d1ae9e4340",
+    "uid": "c4fcae31e44f4304",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760_L40Sx2_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -811,7 +811,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "118145601d304fb5",
+    "uid": "0b784b0986e04032",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R760_L40Sx2_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -845,7 +845,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.4 LTS (Linux kernel 5.15.0-92-generic #102-Ubuntu SMP Wed Jan 10 09:33:48 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "78060ce564f1424d",
+    "uid": "b69215e34956433d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/r760_q4_ultra/bert-99/offline",
     "version": "v4.0"
   },
@@ -879,7 +879,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.4 LTS (Linux kernel 5.15.0-92-generic #102-Ubuntu SMP Wed Jan 10 09:33:48 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "e6bb30a2ee264fb7",
+    "uid": "79d0f09f647a4129",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/r760_q4_ultra/bert-99.9/offline",
     "version": "v4.0"
   },
@@ -913,7 +913,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS",
-    "uid": "88633d4b306a4c3d",
+    "uid": "638a5c94ba444161",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R7615_L40Sx2_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -947,7 +947,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS",
-    "uid": "27a0aba6d48142f4",
+    "uid": "5a3a576929f44fb7",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R7615_L40Sx2_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -981,7 +981,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS",
-    "uid": "33aabcc688cb4db2",
+    "uid": "5ffdf76c19e04858",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R7615_L40Sx2_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -1015,7 +1015,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6 LTS",
-    "uid": "2e5cf6a082a8451a",
+    "uid": "a824841706134a43",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/R7615_L40Sx2_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -1049,7 +1049,7 @@
     "notes": "Broadcom VM Specifications 32vCPU out of 120 and memory of 128 GB out of 1.5TB",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.4, VMware ESXi 8.0.2 22380479",
-    "uid": "f5395c24b4b643c2",
+    "uid": "c8ff567544594b0d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/vR760_L40S_48Cx2_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -1083,7 +1083,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "4dfb7903b8f04c7d",
+    "uid": "fd681139875b4987",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE8640_H100_SXM_80GBx4_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -1117,7 +1117,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "fd7f3d6188c548aa",
+    "uid": "3a5adfc09ebb4c36",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE8640_H100_SXM_80GBx4_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -1151,7 +1151,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "b6635088f96f479e",
+    "uid": "c07b163dc9ec487e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE8640_H100_SXM_80GBx4_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -1185,7 +1185,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "f81d995c7e574066",
+    "uid": "0ac89839828b40e8",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE8640_H100_SXM_80GBx4_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -1219,7 +1219,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.6",
-    "uid": "ef11a4d8bbad4fea",
+    "uid": "258481effbc44149",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE8640_H100_SXM_80GBx4_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -1253,7 +1253,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "9ee1aa3ebd3a41cb",
+    "uid": "a335a932c38e4342",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9640_H100_SXM_80GBX4_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -1287,7 +1287,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "8099481b8add4844",
+    "uid": "f75408d34cd54603",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9640_H100_SXM_80GBX4_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -1321,7 +1321,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "9725150151584801",
+    "uid": "fafd9904e59c41ea",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9640_H100_SXM_80GBX4_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -1355,7 +1355,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "686ea146ba124b0f",
+    "uid": "cbe854a7a645472d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9640_H100_SXM_80GBX4_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -1389,7 +1389,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "0d6d756ae7a844f8",
+    "uid": "70c6afebd4e4478c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9640_H100_SXM_80GBX4_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -1423,7 +1423,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "d7e490228a6348bc",
+    "uid": "da30f17aa91f4017",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9680_H100_SXM_80GBx8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -1457,7 +1457,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "748aea36fe4143c1",
+    "uid": "15bc0b4e284d41ea",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9680_H100_SXM_80GBx8_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -1491,7 +1491,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "b0906cb1e79b4b7d",
+    "uid": "d19cc5ada7254d4e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9680_H100_SXM_80GBx8_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -1525,7 +1525,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "b928973437b3479e",
+    "uid": "95302567bc2446a9",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9680_H100_SXM_80GBx8_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -1559,7 +1559,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "42567133b9ee43d2",
+    "uid": "4d6ae51d3f5d4568",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9680_H100_SXM_80GBx8_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -1593,7 +1593,7 @@
     "notes": "Broadcom VM Specifications 32vCPU out of 224 and memory of 128 GB out of 1TB",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.4, VMware ESXi 8.0.2 22380479",
-    "uid": "fbb2abe55fb9468a",
+    "uid": "9aa267f52e684ca6",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Dell/results/XE9680_IntelXeon8480_NVIDIA_H100_SXM_80GBx8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -1627,7 +1627,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "c1aad5ed6494479c",
+    "uid": "70fc9e7ba11c416d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Fujitsu/results/CDI_L40Sx8_MaxP_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -1661,7 +1661,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "d977c7786273421b",
+    "uid": "83bd86bd57f747f1",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Fujitsu/results/CDI_L40Sx8_MaxP_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -1695,7 +1695,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "4851bc19043643c6",
+    "uid": "8ddd27198e9f4c70",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Fujitsu/results/GX2560M7_H100_SXM_80GBx4_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -1729,7 +1729,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "e683e75cd5b04048",
+    "uid": "081cd764d32f457c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Fujitsu/results/GX2560M7_H100_SXM_80GBx4_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -1763,7 +1763,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "8dee662f40e2487c",
+    "uid": "6dacc8a06c7149f9",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Fujitsu/results/GX2560M7_H100_SXM_80GBx4_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -1797,7 +1797,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 600GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "8134366718114e53",
+    "uid": "ae26e71392a44dd0",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/GigaComputing/results/GIGABYTE-G593-SD1_DGX-H100_H100-SXM-80GBx8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -1831,7 +1831,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 600GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "7724988ae5a9422f",
+    "uid": "4adcece3d42e4883",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/GigaComputing/results/GIGABYTE-G593-SD1_DGX-H100_H100-SXM-80GBx8_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -1865,7 +1865,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 600GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "1988427eb5d748b7",
+    "uid": "946fa3e9d6754745",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/GigaComputing/results/GIGABYTE-G593-SD1_DGX-H100_H100-SXM-80GBx8_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -1899,7 +1899,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 600GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "98e6a8bd5b024a84",
+    "uid": "c5937cbe5f9b4a1e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/GigaComputing/results/GIGABYTE-G593-SD1_DGX-H100_H100-SXM-80GBx8_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -1933,7 +1933,7 @@
     "notes": "Data bandwidth for GPU-PCIe: 504 GB/s; PCIe-NIC: 600GB/s",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "72be7512bf034ea3",
+    "uid": "2db457bbaee0463d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/GigaComputing/results/GIGABYTE-G593-SD1_DGX-H100_H100-SXM-80GBx8_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -1967,7 +1967,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "1a7a1e6d54114fa6",
+    "uid": "e0dcb0b7dfcc449f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Google/results/H100-SXM-80GBx8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -2001,7 +2001,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "15e4b2de066d4990",
+    "uid": "05ec55f6a3b14c90",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Google/results/H100-SXM-80GBx8_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -2035,7 +2035,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "65efaafc4fc345d4",
+    "uid": "9831fdf0633249db",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Google/results/H100-SXM-80GBx8_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -2069,7 +2069,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "b13b9b1d0b5a480c",
+    "uid": "60c2f395e8464cdd",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Google/results/H100-SXM-80GBx8_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -2103,7 +2103,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "a936484f33f94d77",
+    "uid": "8144c4e5bbda4251",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Google/results/H100-SXM-80GBx8_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -2137,7 +2137,7 @@
     "notes": "Powered by the KRAI X technology",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux mlperf2 5.19.0-1030-gcp #32~22.04.1-Ubuntu SMP Thu Jul 13 09:36:23 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "0e1731d53d254989",
+    "uid": "361f6fa1a1bf4e17",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Google/results/tpu_v5e_x4/gptj-99/offline",
     "version": "v4.0"
   },
@@ -2171,7 +2171,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 5.15.0-94-generic #104-Ubuntu SMP Tue Jan 9 15:25:40 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "2cba0503f95b40e1",
+    "uid": "e7de35295fbc4bf3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/dl380_q8_ultra/bert-99/offline",
     "version": "v4.0"
   },
@@ -2205,7 +2205,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "530d72ffd7cb4ddd",
+    "uid": "76ae1abc1eea4797",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_Cray_XD670_H100_SXM_80GBx8_TRT_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -2239,7 +2239,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.3",
-    "uid": "393d4fd879024a7b",
+    "uid": "5735f077e5534309",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_Cray_XD670_H100_SXM_80GBx8_TRT_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -2273,7 +2273,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "927f849471ad44ce",
+    "uid": "24fcb21ca2f74ddb",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_ProLiant_DL380a_H100_PCIe_80GBx4_TRT_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -2307,7 +2307,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "471fd01c91cb4a5b",
+    "uid": "a899c22be0434a1a",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/HPE/results/HPE_ProLiant_DL380a_L40S_PCIe_48GBx4_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -2341,7 +2341,7 @@
     "notes": "QuantaGrid D54Q-2U. N/A",
     "number_of_nodes": 1,
     "operating_system": "CentOS Stream 8",
-    "uid": "58f8484c54054e24",
+    "uid": "d99c5af8fc1d4ddd",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Intel/results/1-node-2S-EMR-ITREX/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -2375,7 +2375,7 @@
     "notes": "QuantaGrid D54Q-2U. N/A",
     "number_of_nodes": 1,
     "operating_system": "CentOS Stream 8",
-    "uid": "82dcef759f0744d3",
+    "uid": "d31cee7929584819",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Intel/results/1-node-2S-EMR-PyTorch/bert-99/Offline",
     "version": "v4.0"
   },
@@ -2409,7 +2409,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04",
-    "uid": "23875fe322624d0a",
+    "uid": "587c17f925b0469d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Intel-HabanaLabs/results/HLS-Gaudi2-PT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -2443,7 +2443,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "c1fb9e04052d4112",
+    "uid": "23943b71d62b48b0",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/SE455_L40x2_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -2477,7 +2477,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 5.15.0-94-generic #104-Ubuntu SMP Tue Jan 9 15:25:40 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "a3e923b02fc14e82",
+    "uid": "2702494dfbe7439d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/sr670_q4_ultra/bert-99/offline",
     "version": "v4.0"
   },
@@ -2511,7 +2511,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 5.15.0-94-generic #104-Ubuntu SMP Tue Jan 9 15:25:40 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "9e83a3ea25ed4520",
+    "uid": "73e1e0fdf4af4ff8",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Lenovo/results/sr670_q4_ultra/bert-99.9/offline",
     "version": "v4.0"
   },
@@ -2545,7 +2545,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "27d47e531f9c438b",
+    "uid": "825ecfdfb35f4424",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx1_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -2579,7 +2579,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "aa583a034392496f",
+    "uid": "8c6fe4c709ce4cd3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx1_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -2613,7 +2613,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "e875576be3a24e60",
+    "uid": "619025f1e29e483b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx1_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -2647,7 +2647,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "4dbc94a495714fe2",
+    "uid": "e0179f7eafcf4480",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx1_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -2681,7 +2681,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "c7bd2f890ae34e75",
+    "uid": "d25bdca85c5a41ec",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx2_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -2715,7 +2715,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "1ce08e5eee81412b",
+    "uid": "cb108a5eec444258",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -2749,7 +2749,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "341b01d678cb4489",
+    "uid": "100ce180fadb47cc",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -2783,7 +2783,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "315dfb89f27f455e",
+    "uid": "aa034cb428904f7c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -2817,7 +2817,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "8c738610af81412c",
+    "uid": "7b90dfeb5b504a0e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -2851,7 +2851,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "db354fa2a8974112",
+    "uid": "89db67f1acb941de",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/DGX-H100_H100-SXM-80GBx8_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -2885,7 +2885,7 @@
     "notes": "NVIDIA MGX Reference Platform;",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.2",
-    "uid": "f94cc5ae61fb4fe9",
+    "uid": "f31376435a7840fe",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/GH200-GraceHopper-Superchip_GH200-144GB_aarch64x1_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -2919,7 +2919,7 @@
     "notes": "NVIDIA MGX Reference Platform;",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.2",
-    "uid": "4a8d62188e85427b",
+    "uid": "2bc7f020738c4e76",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/GH200-GraceHopper-Superchip_GH200-96GB_aarch64x1_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -2953,7 +2953,7 @@
     "notes": "NVIDIA MGX Reference Platform;",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.2",
-    "uid": "59c7a305c4ff4a78",
+    "uid": "1809474500854776",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/GH200-GraceHopper-Superchip_GH200-96GB_aarch64x1_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -2987,7 +2987,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "d2266edd6373470b",
+    "uid": "4e2acbe03ffa4744",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/H100-NVL-94GBx8_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -3021,7 +3021,7 @@
     "notes": "H200 TGP 1000W",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "9f64331ee7524a64",
+    "uid": "7406de9d59754bbe",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/H200-SXM-141GB-CTSx1_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -3055,7 +3055,7 @@
     "notes": "H200 TGP 1000W",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "91a74338771c4ea1",
+    "uid": "166284a3653a4109",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/H200-SXM-141GB-CTSx8_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -3089,7 +3089,7 @@
     "notes": "H200 TGP 700W",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "70df2e6b80e74aeb",
+    "uid": "6b70ae795e1844b0",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/H200-SXM-141GBx1_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -3123,7 +3123,7 @@
     "notes": "H200 TGP 700W",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "f12ff05f7e50463e",
+    "uid": "752119f3a7534578",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/H200-SXM-141GBx1_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -3157,7 +3157,7 @@
     "notes": "H200 TGP 700W",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "d0c877460d204940",
+    "uid": "95c140db4b4943ef",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/H200-SXM-141GBx8_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -3191,7 +3191,7 @@
     "notes": "H200 TGP 700W",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "07be50250c7d44b5",
+    "uid": "c92ba8c805c5459c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/H200-SXM-141GBx8_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -3225,7 +3225,7 @@
     "notes": "H200 TGP 700W",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "5b9300ff54d14192",
+    "uid": "a09e6a1ac03b49d6",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/H200-SXM-141GBx8_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -3259,7 +3259,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "3297bc81a626496a",
+    "uid": "5c60f5652e3642d5",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/L40Sx8_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -3293,7 +3293,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04.4",
-    "uid": "eee217cce8bd41f9",
+    "uid": "1d07f976bc3d4084",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/NVIDIA/results/L40Sx8_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -3327,7 +3327,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "3634e971660b40b1",
+    "uid": "d396075d63c34b8d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Oracle/results/OCI-H100_H100-SXM-80GBx8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -3361,7 +3361,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "38688eee5f5944f4",
+    "uid": "562dcd8ee4074a21",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Oracle/results/OCI-H100_H100-SXM-80GBx8_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -3395,7 +3395,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "528baf92a00c496b",
+    "uid": "087b8d7b66704221",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Oracle/results/OCI-H100_H100-SXM-80GBx8_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -3429,7 +3429,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "ffbcb7af2b324144",
+    "uid": "836d7a6f3a7245a3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Oracle/results/OCI-H100_H100-SXM-80GBx8_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -3463,7 +3463,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "4c3f315eadba47d1",
+    "uid": "01d8755b1873484a",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Oracle/results/OCI-H100_H100-SXM-80GBx8_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -3497,7 +3497,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 6.2.0-37-generic #38~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov  2 18:01:13 UTC 2 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "eb20f63764764aa2",
+    "uid": "8f0199bae9594f68",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Qualcomm/results/g293_q16_ultra_pp/bert-99/offline",
     "version": "v4.0"
   },
@@ -3531,7 +3531,7 @@
     "notes": "Powered by the KRAI X and KILT technologies",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS (Linux kernel 6.2.0-37-generic #38~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov  2 18:01:13 UTC 2 x86_64 x86_64 x86_64 GNU/Linux)",
-    "uid": "ce2034ab232e4fc8",
+    "uid": "e9a938c8f9bf4b52",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Qualcomm/results/g293_q16_ultra_pp/bert-99.9/offline",
     "version": "v4.0"
   },
@@ -3565,7 +3565,7 @@
     "notes": "QuantaGrid D54X-1U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "aff19dd48ddb4ef1",
+    "uid": "e832edd7324e466b",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/1-node-2S-EMR-PyTorch/bert-99/Offline",
     "version": "v4.0"
   },
@@ -3599,7 +3599,7 @@
     "notes": "QuantaGrid D54X-1U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "19954811ad354402",
+    "uid": "ff1caebaac4c45d3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/1-node-2S-EMR-PyTorch/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -3633,7 +3633,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "7d5b0b797051482e",
+    "uid": "580daef2cc584105",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_H100_PCIe_80GBx4_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -3667,7 +3667,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "3c9391b7e0fd4191",
+    "uid": "96d60102f2f44ec3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_H100_PCIe_80GBx4_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -3701,7 +3701,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "734c09584b374b6f",
+    "uid": "83b11601073b4cd2",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_H100_PCIe_80GBx4_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -3735,7 +3735,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "14f15c5dfaec4741",
+    "uid": "880950352e2d4ab3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_H100_PCIe_80GBx4_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -3769,7 +3769,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "ce26a58e0e5f49ce",
+    "uid": "ee72bb8975e04aa4",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_H100_PCIe_80GBx4_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -3803,7 +3803,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "517805a940764f05",
+    "uid": "7dc6bd3e37174a6d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_L40S_PCIe_48GBx4_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -3837,7 +3837,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "bd8b0f7d6bef4f05",
+    "uid": "2bb7732ef75446c2",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_L40S_PCIe_48GBx4_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -3871,7 +3871,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "34eab626b64d4dc9",
+    "uid": "dfa9faf48f244640",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_L40S_PCIe_48GBx4_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -3905,7 +3905,7 @@
     "notes": "QuantaGrid D54U-3U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.2",
-    "uid": "bdc0655278d148fe",
+    "uid": "4cf6018e499947f2",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/D54U_3U_L40S_PCIe_48GBx4_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -3939,7 +3939,7 @@
     "notes": "QuantaGrid S74G-2U",
     "number_of_nodes": 1,
     "operating_system": "Rocky Linux 9.1",
-    "uid": "161c85d0025b4d1c",
+    "uid": "881a834cd56b45b9",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Quanta_Cloud_Technology/results/GH200-GraceHopper-Superchip_GH200-96GB_aarch64x1_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -3973,7 +3973,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "4d9d9f2a82a8443f",
+    "uid": "2a1110eff27c4de8",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS-521GE-TNRT_L40S_PCIe_48GBx8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -4007,7 +4007,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3",
-    "uid": "6367bf047d704dd7",
+    "uid": "886bf92f0dfd457d",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS-521GE-TNRT_L40S_PCIe_48GBx8_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -4041,7 +4041,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS",
-    "uid": "99b86b29943f4154",
+    "uid": "7faabcc815324f4c",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS_821GE_TNHR_H100_SXM_80GBx8_TRT/bert-99/Offline",
     "version": "v4.0"
   },
@@ -4075,7 +4075,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS",
-    "uid": "c626cca12a7740ad",
+    "uid": "1a49527433954134",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS_821GE_TNHR_H100_SXM_80GBx8_TRT/bert-99.9/Offline",
     "version": "v4.0"
   },
@@ -4109,7 +4109,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS",
-    "uid": "f21669c621724da3",
+    "uid": "aa6042ce79354f06",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS_821GE_TNHR_H100_SXM_80GBx8_TRT/gptj-99/Offline",
     "version": "v4.0"
   },
@@ -4143,7 +4143,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS",
-    "uid": "840d638a859f4f1d",
+    "uid": "a225141090d4494a",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS_821GE_TNHR_H100_SXM_80GBx8_TRT/gptj-99.9/Offline",
     "version": "v4.0"
   },
@@ -4177,7 +4177,7 @@
     "notes": "",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.3 LTS",
-    "uid": "782441a2a35a4458",
+    "uid": "4f0ff29f08d24cc7",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Supermicro/results/SYS_821GE_TNHR_H100_SXM_80GBx8_TRT/llama2-70b-99.9/Offline",
     "version": "v4.0"
   },
@@ -4211,7 +4211,7 @@
     "notes": "Wiwynn ES200G2. N/A",
     "number_of_nodes": 1,
     "operating_system": "Centos 8 (linux-6.6.8-1.el8.elrepo.x86_64-glibc2.28)",
-    "uid": "4f9ff50dd6e9484b",
+    "uid": "b48c565b841742e3",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Wiwynn/results/1-node-1S-EMR-PyTorch/bert-99/Offline",
     "version": "v4.0"
   },
@@ -4245,7 +4245,7 @@
     "notes": "Wiwynn ES200G2. N/A",
     "number_of_nodes": 1,
     "operating_system": "Centos 8 (linux-6.6.8-1.el8.elrepo.x86_64-glibc2.28)",
-    "uid": "ac9a953820ec4a3d",
+    "uid": "4f5cf5628ca048eb",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/closed/Wiwynn/results/1-node-1S-EMR-PyTorch/gptj-99/Offline",
     "version": "v4.0"
   },

@@ -29,7 +29,7 @@
     "notes": "VM Specifications 32vCPU out of 224 and memory of 128 GB out of 1TB",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 22.04.4, VMware ESXi 8.0.2 22380479",
-    "uid": "ee5923198a684192",
+    "uid": "08b08c76603b409e",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/Dell_Broadcom/results/XE9680_IntelXeon8480_NVIDIA_H100_SXM_80GBx8_TRT/rnnt/Server",
     "version": "v4.0"
   },

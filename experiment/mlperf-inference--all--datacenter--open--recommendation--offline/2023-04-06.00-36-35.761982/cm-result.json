@@ -29,7 +29,7 @@
     "notes": "Automated by MLCommons CM v1.6.2. ",
     "number_of_nodes": 1,
     "operating_system": "Ubuntu 20.04 (linux-6.2.0-39-generic-glibc2.31)",
-    "uid": "8ec5f74a6da445d1",
+    "uid": "86ee369302614b7f",
     "url": "https://github.com/mlcommons/inference_results_v4.0/tree/master/open/CTuning/results/GATE_Overflow_Intel_Sapphire_Rapids-nvidia_original-gpu-tensorrt-vdefault-default_config/dlrm-v2-99/offline",
     "version": "v4.0"
   },

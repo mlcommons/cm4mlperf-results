@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--v4.0--datacenter--closed-power--image-segmentation--offline",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "v4.0",
+    "datacenter",
+    "closed-power",
+    "image-segmentation",
+    "offline"
+  ],
+  "uid": "54ee5c20f6534688"
+}
