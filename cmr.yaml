@@ -2,3 +2,6 @@ alias: mlcommons@cm4mlperf-results
 uid: 6fbf42fa292142da
 
 git: true
+
+deps:
+  - name: mlcommons@ck
