@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--all--datacenter--open--languge-processing--server",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "all",
+    "datacenter",
+    "open",
+    "languge-processing",
+    "server"
+  ],
+  "uid": "b5a0d0504b694da9"
+}

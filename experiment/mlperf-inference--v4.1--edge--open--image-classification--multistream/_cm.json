@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--v4.1--edge--open--image-classification--multistream",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "v4.1",
+    "edge",
+    "open",
+    "image-classification",
+    "multistream"
+  ],
+  "uid": "29d6e90c57be4d71"
+}

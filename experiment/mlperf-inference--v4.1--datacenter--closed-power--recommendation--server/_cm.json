@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--v4.1--datacenter--closed-power--recommendation--server",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "v4.1",
+    "datacenter",
+    "closed-power",
+    "recommendation",
+    "server"
+  ],
+  "uid": "b76e9dd89c3a43ea"
+}
