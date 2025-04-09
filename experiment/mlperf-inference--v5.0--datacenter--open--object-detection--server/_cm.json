@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--v5.0--datacenter--open--object-detection--server",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "v5.0",
+    "datacenter",
+    "open",
+    "object-detection",
+    "server"
+  ],
+  "uid": "a7d1b788f4bd4bae"
+}

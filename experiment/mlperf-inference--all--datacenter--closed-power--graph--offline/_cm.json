@@ -1,0 +1,15 @@
+{
+  "alias": "mlperf-inference--all--datacenter--closed-power--graph--offline",
+  "automation_alias": "experiment",
+  "automation_uid": "a0a2d123ef064bcb",
+  "tags": [
+    "mlperf",
+    "mlperf-inference",
+    "all",
+    "datacenter",
+    "closed-power",
+    "graph",
+    "offline"
+  ],
+  "uid": "062d45d3baa54036"
+}
